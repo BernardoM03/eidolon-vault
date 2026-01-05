@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "c73e0f7d69610d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "579f9e85e889a8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe405377fa2fe3b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1c7ca158d85cbe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1acf00e67b366bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91e5091c1db4932",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33370399783e91aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c30cd4a34c81ad3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b62274df7374275",
+    "type": "split",
+    "children": [
+      {
+        "id": "59a3c18fbf89f09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65c681b8f23f27f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "d99d97853565a347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a6766c4afa2504b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56c841989dff0bb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5128c265597fa95e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "c2e7fd798dcb4d8b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fe405377fa2fe3b0",
+  "lastOpenFiles": [
+    "Identity.md",
+    "Ideas.md",
+    "Warring States.md",
+    "Magic.md",
+    "The Winter Trials.md",
+    "remote-repo/publish/attachments/vercel-project-id.png",
+    "remote-repo/publish/attachments/vercel-create-token.png",
+    "remote-repo/publish/attachments/vercel-account-id.png",
+    "remote-repo/publish/attachments/how-linked-blog-starter-works.png",
+    "remote-repo/publish/attachments/publish-dir-yml.png",
+    "remote-repo/publish/attachments/github-secrets-vercel.png",
+    "remote-repo/publish/attachments/fork-linked-blog-starter-md.png",
+    "remote-repo/publish/attachments/configure-project-vercel.png",
+    "remote-repo/publish/attachments/create-pat-github.png",
+    "remote-repo/publish/attachments/fn-website-demo.gif",
+    "remote-repo/publish/works-out-of-the-box-with-markdown-files.md",
+    "remote-repo/publish/update-publish-settings-github-actions.md",
+    "remote-repo/publish/statically-generated.md",
+    "remote-repo/publish/reinventing-the-wheel.md",
+    "remote-repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "remote-repo/publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "remote-repo/publish/install-linked-blog-starter-locally.md",
+    "remote-repo/publish/attachments",
+    "remote-repo/publish/how-linked-blog-starter-works.md",
+    "remote-repo/publish/home.md",
+    "remote-repo/publish/get-project-id-account-id-and-token-vercel.md",
+    "remote-repo/publish/connect-obsidian-vault-with-github.md",
+    "remote-repo/publish/deploy-a-custom-linked-blog-starter.md",
+    "remote-repo/publish/accepted-markdown-metadata.md",
+    "remote-repo/publish",
+    "remote-repo/Warring States.md",
+    "remote-repo/Statblock imgs",
+    "remote-repo/Spirits and Gods/Spirits.md",
+    "remote-repo/Spirits and Gods/Untitled.base",
+    "remote-repo/Spirits and Gods/Sol'aar, the Eternal Flame.md",
+    "remote-repo/Spirits and Gods/Sentient Spirit.md",
+    "remote-repo/Spirits and Gods/Natural Spirit.md",
+    "remote-repo/Spirits and Gods/Korrad.md",
+    "remote-repo/Spirits and Gods/Bloody-Feet Morsch.md",
+    "remote-repo/Spirits and Gods",
+    "remote-repo/Sessions/Session Base.base",
+    "remote-repo/Sessions/Session 9 - The Junction.md",
+    "remote-repo/Sessions",
+    "remote-repo/Places/City of Catameria",
+    "remote-repo/Places",
+    "remote-repo/Map images"
+  ]
+}
