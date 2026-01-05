@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veyra.md",
+                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Veyra"
+              "title": "Case of the Sewer Snatcher"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "fe405377fa2fe3b0",
   "lastOpenFiles": [
+    "Characters/Veyra.md",
     "Characters/Baato.md",
-    "Veyra.md",
     "Identity.md",
     "Ideas.md",
     "Warring States.md",
