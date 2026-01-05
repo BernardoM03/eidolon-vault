@@ -1,0 +1,1 @@
+Amerderth is the arcane college of Catameria, founded by the ancient wizard and current headmaster, Archmage Leon. The school only takes in about a dozen students each year, but students can stay within their studies and research for as long as they stay in good will with the school.

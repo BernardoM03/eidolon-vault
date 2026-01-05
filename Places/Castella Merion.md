@@ -1,0 +1,1 @@
+The royal fortress stands at the very top of the Stone Crown. Castella Merion is a layered stronghold of towers, battlements, and arcane observatories built by the founder’s descendants over centuries. It serves as both the home of the ruling family and the administrative heart of the city-state. Every major civic proclamation, appointment, and judgment originates here.

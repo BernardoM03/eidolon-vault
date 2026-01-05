@@ -1,0 +1,7 @@
+**Architecture.** The buildings are primarily made from huge, dried Myconid caps used as roofs, and hollowed-out, oversized toadstools used as homes. The entire village has a soft, internal blue glow emanating from the fungal structures.
+
+**The Inhabitants.** The Blue Caps are everywhere, but they are focused entirely on their quiet pursuits: tending patches of glowing mushrooms, weaving slow-moving nets, or simply staring at the sky. They are utterly, peacefully uninterested in the outside world.
+
+**The Governance.** The Blue Caps are an anarchic society of addiction, sustained by the sap. They are pacified and functional, but not organized. They have no leader, which makes dealing with them a challenge in itself.
+
+The Blue Caps are a subspecies of Red Caps when blood does not soak their caps. Their violence is chalked up to their nature by many scholars who have not had prolonged contact with the creatures. Instead, the blood that soaks their cap is what draws them to violence. They are a highly addictive species of faerie, and the substance on their cap is what satiates them. A normal Red Cap must constantly soak his cap in blood to fulfill its desires. These Blue Caps on the other hand, have soaked their caps in this magically potent blue sap processed from the fey mushrooms of this forest. This makes them a group of stoner faeries rather than murder-hobos.
