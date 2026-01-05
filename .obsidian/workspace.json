@@ -11,10 +11,14 @@
             "id": "fe405377fa2fe3b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Veyra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Veyra"
             }
           }
         ]
@@ -190,8 +194,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2e7fd798dcb4d8b",
+  "active": "fe405377fa2fe3b0",
   "lastOpenFiles": [
+    "Characters/Baato.md",
+    "Veyra.md",
     "Identity.md",
     "Ideas.md",
     "Warring States.md",
@@ -230,10 +236,8 @@
     "remote-repo/Spirits and Gods/Sentient Spirit.md",
     "remote-repo/Spirits and Gods/Natural Spirit.md",
     "remote-repo/Spirits and Gods/Korrad.md",
-    "remote-repo/Spirits and Gods/Bloody-Feet Morsch.md",
     "remote-repo/Spirits and Gods",
     "remote-repo/Sessions/Session Base.base",
-    "remote-repo/Sessions/Session 9 - The Junction.md",
     "remote-repo/Sessions",
     "remote-repo/Places/City of Catameria",
     "remote-repo/Places",
