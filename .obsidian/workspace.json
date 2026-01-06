@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "c73e0f7d69610d6d",
+    "id": "5af1b2cb510bb39f",
     "type": "split",
     "children": [
       {
-        "id": "579f9e85e889a8aa",
+        "id": "1f20e8f46576bdc8",
         "type": "tabs",
         "children": [
           {
-            "id": "fe405377fa2fe3b0",
+            "id": "829a616dab8e70c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 9 - The Junction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 9 - The Junction"
+            }
+          },
+          {
+            "id": "4cf2918659e0e76d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +34,51 @@
               "icon": "lucide-file",
               "title": "Case of the Sewer Snatcher"
             }
+          },
+          {
+            "id": "7ee8aec7fbb1e780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots and Quests/The Winter Trials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Winter Trials"
+            }
+          },
+          {
+            "id": "708d2f5ba061fc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devil in the Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devil in the Machine"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "637d3fc4a962fabe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edbb68ed5a79f5d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -27,15 +86,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1c7ca158d85cbe4",
+    "id": "253c19efdb99da25",
     "type": "split",
     "children": [
       {
-        "id": "1acf00e67b366bd6",
+        "id": "6ad2a8f64895f9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f91e5091c1db4932",
+            "id": "c4f04d6629af2f58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +107,12 @@
             }
           },
           {
-            "id": "33370399783e91aa",
+            "id": "cc19ca7adb8a8171",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +124,7 @@
             }
           },
           {
-            "id": "c30cd4a34c81ad3a",
+            "id": "f12fd8f11433824c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +140,20 @@
     "width": 300
   },
   "right": {
-    "id": "4b62274df7374275",
+    "id": "ba2237b3aab4432f",
     "type": "split",
     "children": [
       {
-        "id": "59a3c18fbf89f09c",
+        "id": "5766798961db0480",
         "type": "tabs",
         "children": [
           {
-            "id": "f65c681b8f23f27f",
+            "id": "4172e5727d843f91",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Devil in the Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +163,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Devil in the Machine"
             }
           },
           {
-            "id": "d99d97853565a347",
+            "id": "03dccef0e6ac3699",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 9 - The Junction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Session 9 - The Junction"
             }
           },
           {
-            "id": "a6766c4afa2504b8",
+            "id": "5c7c6dc933151692",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +196,7 @@
             }
           },
           {
-            "id": "56c841989dff0bb4",
+            "id": "081669d0d4824f29",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +210,21 @@
             }
           },
           {
-            "id": "5128c265597fa95e",
+            "id": "efe5810b20c382f5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "c2e7fd798dcb4d8b",
+            "id": "0ffd32e340d09717",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,63 +242,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe405377fa2fe3b0",
+  "active": "708d2f5ba061fc25",
   "lastOpenFiles": [
+    "Meredane.md",
+    "Devil in the Machine.md",
+    "Untitled.md",
+    "Rennin Meredane.md",
+    "Places/Catameria.md",
+    "Map images/Catameria Diagram.png",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Plots and Quests/The Winter Trials.md",
+    "Sessions/Session 7 - Meredane Made.md",
+    "Sessions/Session 6 - The Mad Monkeys.md",
+    "Characters/Janshai Brichalon.md",
+    "Plots and Quests/List of Quests.base",
+    "Sessions/Session 9 - The Junction.md",
+    "Map images/Catamerian Sewer Dungeon.png",
     "Characters/Veyra.md",
+    "Plots and Quests",
+    "Characters/Kaelis.md",
+    "Kaelis.md",
     "Characters/Baato.md",
-    "Identity.md",
-    "Ideas.md",
-    "Warring States.md",
-    "Magic.md",
-    "The Winter Trials.md",
-    "remote-repo/publish/attachments/vercel-project-id.png",
-    "remote-repo/publish/attachments/vercel-create-token.png",
-    "remote-repo/publish/attachments/vercel-account-id.png",
-    "remote-repo/publish/attachments/how-linked-blog-starter-works.png",
-    "remote-repo/publish/attachments/publish-dir-yml.png",
-    "remote-repo/publish/attachments/github-secrets-vercel.png",
-    "remote-repo/publish/attachments/fork-linked-blog-starter-md.png",
-    "remote-repo/publish/attachments/configure-project-vercel.png",
-    "remote-repo/publish/attachments/create-pat-github.png",
-    "remote-repo/publish/attachments/fn-website-demo.gif",
-    "remote-repo/publish/works-out-of-the-box-with-markdown-files.md",
-    "remote-repo/publish/update-publish-settings-github-actions.md",
-    "remote-repo/publish/statically-generated.md",
-    "remote-repo/publish/reinventing-the-wheel.md",
-    "remote-repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "remote-repo/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "remote-repo/publish/install-linked-blog-starter-locally.md",
-    "remote-repo/publish/attachments",
-    "remote-repo/publish/how-linked-blog-starter-works.md",
-    "remote-repo/publish/home.md",
-    "remote-repo/publish/get-project-id-account-id-and-token-vercel.md",
-    "remote-repo/publish/connect-obsidian-vault-with-github.md",
-    "remote-repo/publish/deploy-a-custom-linked-blog-starter.md",
-    "remote-repo/publish/accepted-markdown-metadata.md",
-    "remote-repo/publish",
-    "remote-repo/Warring States.md",
-    "remote-repo/Statblock imgs",
-    "remote-repo/Spirits and Gods/Spirits.md",
-    "remote-repo/Spirits and Gods/Untitled.base",
-    "remote-repo/Spirits and Gods/Sol'aar, the Eternal Flame.md",
-    "remote-repo/Spirits and Gods/Sentient Spirit.md",
-    "remote-repo/Spirits and Gods/Natural Spirit.md",
-    "remote-repo/Spirits and Gods/Korrad.md",
-    "remote-repo/Spirits and Gods",
-    "remote-repo/Sessions/Session Base.base",
-    "remote-repo/Sessions",
-    "remote-repo/Places/City of Catameria",
-    "remote-repo/Places",
-    "remote-repo/Map images"
+    "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
+    "Guilds & Groups/Carpenter and Stonemason's Guild.md",
+    "Places/City of Catameria/Catavale South (Yards).md",
+    "Places/Sage's Hollow.md",
+    "Sage’s Hollow.md",
+    "Spirits and Gods/Natural Spirit.md",
+    "Spirits and Gods/Sentient Spirit.md",
+    "Sessions/Session 4 - The Relic.md",
+    "Sessions/Session 3 - A Strange Pull in A Strange Land.md",
+    "Sessions/Session 2 - A Cure for Wellness.md",
+    "Sessions/Session 1 - The Sage's Hollow.md",
+    "Map images/Warring States of Ennalis.png",
+    "Spirits and Gods/Untitled.base",
+    "Sessions/Session Base.base",
+    "Statblock imgs/Escanor.png",
+    "Statblock imgs/Hadozee Shipmate.png",
+    "Statblock imgs/Ogre.png",
+    "Statblock imgs/Manticore.png",
+    "Guilds & Groups",
+    "Characters",
+    "Places/City of Catameria",
+    "Map images/Empire of Balat.png",
+    "Map images",
+    "Statblock imgs/Budding Harrower.png",
+    "Statblock imgs/CrystalBack Dragon.png",
+    "Untitled.base",
+    "Statblock imgs",
+    "Untitled.canvas"
   ]
 }

@@ -2,10 +2,12 @@
 tags:
   - Quests
   - Catameria
+  - Tesseron
+  - Baato
 ---
 The Trials originated 147 years ago under King Lyle III. At that time, the king sought a method to measure the strength of adventuring parties without sending them away from the City. The Trials began as a series of duels and magical demonstrations, slowly evolving into the team-based combat of today. The introduction of the Royal Boon, a single wish or request granted by the Crown, solidified the Trials as the most influential martial festival in the kingdom.
 
-In modern times, the Trials are a blend of politics, commerce, and spectacle. Noble Houses sponsor teams, merchants flood the arena district, and thousands gather to watch up-and-coming combatants display their potential. This year, the Winter Test is officially recognizing contestants from Dimming as well, as a form of good will to the lower class.
+In modern times, the Trials are a blend of politics, commerce, and spectacle. Noble Houses sponsor teams, merchants flood the arena district, and thousands gather to watch up-and-coming combatants display their potential. This year, the Winter Trials is officially recognizing contestants from [[Dimming]] as well, as a form of good will to the lower class.
 
 The Trials take place over seven days. Competitors enter as groups of 2-5 adventurers (summons excluded). Teams are sorted into two divisions:
 - Journeyman Division: rising adventurers, new companies, young nobles, military trainees
@@ -50,7 +52,7 @@ The Remaining teams
 ## Tournament Stages
 Teams fight against each other. This stage shows the most talented groups, usually only a handful remaining. In this case, there will be 5 teams remaining, but the party will only have to fight two or three, depending on how close the third round fight was.
 
-All of these teams now will be treated to the highest hospitality that Catameria has to offer, including having to stay at the Castella Grande, a resort in the Verdure District that is commonly only offered to the richest merchants, diplomats, and nobles visiting Catameria. 
+All of these teams now will be treated to the highest hospitality that [[Catameria]] has to offer, including having to stay at the [[Castella Grande]], a resort in the [[Verdure District]] that is commonly only offered to the richest merchants, diplomats, and nobles visiting Catameria. 
 
 ## Day 5: Celebration & Day of Rest
 

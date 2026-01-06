@@ -3,4 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("Quest")
+        - file.hasTag("Quests")
+    order:
+      - file.name
+      - file.tags

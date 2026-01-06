@@ -5,7 +5,6 @@ tags:
   - GravelRats
   - Fang
 ---
-## Case of the Sewer Snatcher
 A string of missing people has been happening in a sector with constant reports of a “monster” from the sewers. Postings have been set-up across the city, recruiting adventurers to help, but none seem to be accepting. The reason is a mix between the missing people being lower class (often residents of [[Dimming]]), low pay, and applications for [[The Winter Trials]] opening up soon.
 
 The party gets introduced to the quest via a flyer, which is the first thing they encounter when they don’t have a task to complete. It will be heavily contrasted by the poster for [[The Winter Trials]]. The flyer contains the latest new story surrounding the Sewer Snatcher story, depicting Artos Lemm, a likeable figure that the party met on their way into the city.
@@ -19,10 +18,7 @@ The Sewer Snatcher is a criminal whose face is unknown, though rumors and eviden
 	Below the text, someone has added a short line in smaller, cramped handwriting.
 	If anyone can help, please contact: 1240 Mole Street.
 
-  
-
 Perpetrator.
-
 Tal Snake-Eyes Enshi, a Capone of [[Big Chuck]]’s [[Gravel Rats]]. He recently gained information that Artos Lemm is an informant for the Fang that works at [[Gatebridge]]. This is bad for business, so it must be swiftly dealt with. Artos Lemm was taken by Snake-Eyes and his group of rats, bringing him in through the sewers 
 
 ## 1240 Mole Street
@@ -73,130 +69,76 @@ Frankie speaks enthusiastically about the situation, stating the following infor
 - “I can show you where one of the sewers one of the victims was kidnapped at, but be wary of these next steps. You could be making a big enemy for yourself if you are not careful.”
 ## Sewer Dungeon
 
-
-
-### A - Drop Shaft with Sludge Leak(entrance).
-
+![[Catamerian Sewer Dungeon.png]]
+### A - Drop Shaft with Sludge Leak (entrance).
 This room contains a vertical shaft coming down from the ceiling, bringing waste down from above. A large gash in the shaft has caused sludge to spew out, currently residing as a puddle on the ground. 
-
-  
-
 DC 10 Investigation: Multiple blobs stick out from under the tunnel. These are dead rats
-
 DC 15 Investigation: Sludge stained footprints follow down west down this sewer. If anyone with magic investigates, they can sense magic from the sludge.
 
-  
-
-B - Sediment Trap with Gold.
-
+### B - Sediment Trap with Gold.
 The chamber has the sewage tunnel widened into a shallow basin filled with thick, dark silt. Old scraps of wood, bone, and rusted metal lie half-buried beneath the muck. Small glints of light poke out from the muck. 95 gold pieces can be collected here
 
-  
-
-C - Treatment Plant (entrance).
-
+### C - Treatment Plant (entrance).
 Large stone wheels (molded via magic) turn slowly in narrow channels, still grinding despite their age. The constant creak and churn of moving water echoes through the chamber. There are lots of shelves with alchemical components, ledgers, and documents
 
-  
-
-D - Sewer Junction.
-
+### D - Sewer Junction.
 Several channels branch away from this junction, each carrying water at a slightly different pace
 
-  
-
-E - Treatment Plant Abandoned (entrance).
-
+### E - Treatment Plant Abandoned (entrance).
 Large stone wheels (molded via magic) stay still within narrow channels, no longer grinding. The surrounding machinery is silent, the only noise in the room being yourselves and the running sewage. One thing of note is the missing pieces to machinery. 
-
 DC 15 Investigation: the missing components are cleanly dismantled from the larger machinery.
 
-  
-
-F - Sewer Junction.
-
+### F - Sewer Junction.
 9 kobold workers are here. They are a maintenance crew for the sewers. 
-
-  
-
 They don’t know anything about the case of the Sewer Snatcher, because they just work here. They warn the party about the rats, but not about the gangs. If the party asks about the gangs, they will confirm they are there. The kobolds argue about whose turn it is to climb the shaft next. One complains about “rats stealing tools again.”
 
-  
-
-G - Sewer Junction with a Wererat. 
-
+### G - Sewer Junction with a Wererat. 
 A thick sludge blankets the sewage, trapping heavy debris from washing further through the canal. It takes a while to notice in this dark room, but In the corner, something crouches unnaturally still, watching.
-
-  
 
 This is a were-rat, and after a moment of unnatural twitching and screaming, it attacks the party. It cannot pass its lycanthropy, but it can disease the party. 
 
-  
-
-H - Sewer Junction.
-
+### H - Sewer Junction.
 Within the chamber ahead, you hear the chittering of lots of rats. They scatter at first, heading into a hole in the wall. If the party heads forward, a wave of the chittering emerges again, followed by a deep growl. They  then surge back in force, a Massive Swarm of Rats.
 
-  
-
-I - Outfall Chamber.
-
+### I - Outfall Chamber.
 Wastewater pours through grated channels into a dark outflow beyond the city. Crates sit stacked along the walls, guarded by 3 people. They were dirty and worn clothes, almost like rags. 
 
-  
+They intimidate and threaten the party before drawing blades. They run as soon as they see they are outmatched. If the party searches through the crates here, they can use a crowbar located inside the room. The crates contain short swords, hand-crossbows, crossbow bolts, and lots of small vials of this translucent liquid (this is a highly addictive drug known as Pinktail).
 
-They intimidate and threaten the party before drawing blades. They run as soon as they see they are outmatched. If the party searches through the crates here, they can use a crowbar located inside the room. The crates contain shortswords, hand-crossbows, crossbow bolts, and lots of small vials of this translucent liquid (this is a highly addictive drug known as Pinktail).
-
-  
-
-J - Gravel Rat Tunnel.
-
+### J - Gravel Rat Tunnel.
 This narrow tunnel has been hacked through dirt and stone, held up by crude and uneven supports.
-
-  
 
 As the party walks down the tunnel, if the party has silently dealt with the rats in chamber I, one Gravel Rat Runner and one Gravel Rat Corner boss can be heard in the tunnel. If anyone in the party rolls below a 10 on stealth, the Gravel Rats start dashing towards. Chamber K. 
 
-  
+### K - Outfall Chamber.
+Gravel Rat gang members here. This is a lab for the production of Pinktail. 
 
-K - Outfall Chamber.
-
-Gravel Rat gang members here. This is a lab for the production of Pinktail
-
-  
-
-L - Sediment Trap.
-
+### L - Sediment Trap.
 The chamber has the sewage tunnel widened into a shallow basin filled with thick, dark sludge. It smells foul. On the edges of the chamber, cages are placed, turning this room into a make-shift prison. The following prisoners are:
 
-  
-
-Artos Lemm: Not here, currently being interrogated by Snake-Eyes in Chamber O
-
-Janshai Brichalon: Not here, currently working on a new batch of Pinktail in Chamber K
-
+**Artos Lemm**: Not here, currently being interrogated by Snake-Eyes in Chamber O
+[[Janshai Brichalon]]: Not here, currently working on a new batch of Pinktail in Chamber K
 Chaos: A 191 y/o tiefling slaver with long braided hair, long nails, red skin, and dyed red hair. He is very talkative as the party passes by and flirts with the men of the group.
-
 Jannas Gallath: a 42 y/o triton, very short, cropped green hair, missing an ear. He is very exhausted and dehydrated, with the environment in this sewer slowly killing him. He can be healed and given water, but that will just allow him the sleep he needs.
-
 Emeline Drake: a 59 y/o human. She has an aloof face, but acts conceited and judgy to the party. She offers a discount on her goods if the party frees her. 
+### M - Drop Shaft.
+5  Gravel Rat Runners are located here
 
-  
-
-M - Drop Shaft.
-
-5  Gravel Rats are located here
-
-  
-
-N - Gravel Rat Snake-Eyes Lounge.
-
+### N - Gravel Rat Snake-Eyes Lounge.
 6 Elites under the command of Snake-Eyes are located here. They are lounging around, all sticking around for the next orders outside their leader’s main office. A fight is GUARANTEED to break out if the party makes their way here, as this has gone too far into Gravel Rat territory.
 
-  
+This will be a difficult fight, leading to the possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
 
 Encounter: 6x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi
 
-  
-  
-**
+### O - Snake-Eyes Chamber.
+This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. 
+
+## Captured by the Gravel Rats
+Once the party has been captured, they will be imprisoned for a while. Either Snake-Eyes or one another one of the Elite Grunts will state the following
+
+	"Make sure those intruders are tied up properly and put them in the dead magic cages. After that, leave em alone for a few days and we can bring em to the boss"
+
+After this, the party will be imprisoned in Room L. In the night, Gravel Rats members come back to escort [[Janshai Brichalon]] back to the cell. The party can talk with him to learn about Pinktail and his situation with the [[Gravel Rats]]. Artos Lemm never shows up.
+
+After 2 days, some Gravel Rat members go to pick up the party. Unless the party find a way to feed themselves, they will all have 3 levels of exhaustion.

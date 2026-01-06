@@ -4,11 +4,11 @@ tags:
   - 12/21/25
 ---
 ## The Mad Monkey's Ship
-After a long-rest at the South-Point Lighthouse, the party goes to explore the hidden ship of the Mad Monkey's, looking for the hidden shipment that they were smuggling into Catameria for the mysterious RRR. 
+After a long-rest at the South-Point Lighthouse, the party goes to explore the hidden ship of the Mad Monkey's, looking for the hidden shipment that they were smuggling into [[Catameria]] for the mysterious RRR. 
 
 The ship is located about 1 mile up the northern coast, anchored in a small hidden ravine. Aboard the sloop is Captain Escanor and his last remaining crewmate, Rafi. They are harmless now, thankful for having their lives spared, and they welcome the group aboard the ship to investigate what they like. 
 
-In the cargo hold, about a dozen large crates are boarded up with the symbol of a flying fish, the crest of one of the most notable houses, House Meredane. Inside these crates are parts for humanoid metal constructs, in the same make as Cogsworth.
+In the cargo hold, about a dozen large crates are boarded up with the symbol of a flying fish, the crest of one of the most notable houses, House [[Meredane]]. Inside these crates are parts for humanoid metal constructs, in the same make as Cogsworth.
 
 ## Moss-Back Boar
 As the players emerge back into the forest, they notice deep furrows gouged into the ground, tracks of a large beast. Further investigation shows mats of fur and moss snagged on branches. Progressing further down this path brings the party into the inevitable encounter with this creature.
