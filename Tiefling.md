@@ -1,0 +1,3 @@
+A Tiefling is a sub-type of [[Human]]. They share nearly all human features, but they commonly have a slew of devil-like features. This includes horns, tails, sharp teeth, and a variety of unnatural skin-tones.
+
+While the existence of Tieflings can be a mystery, the most common theory is the Soul Reincarnation theory. In some cultures, when "sinners" go to Hell, they suffer the punishments of the plane for an eternity. In others, it is a intermediary before reincarnation. Scholars have visited [[The Hells]] and claim a sect of souls who under punishment for only a short time, before they are slowly broken down into a base soul, until they seem to vanish. Some Tieflings may remember 

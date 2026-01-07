@@ -1,9 +1,7 @@
 ---
 tags:
-  - NPC
+  - PC
   - Catamerian
   - Humanoid
-  - Orc
+  - Tabaxi
 ---
-Janshai
-Brichalon

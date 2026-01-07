@@ -1,3 +1,10 @@
+---
+tags:
+  - NPC
+  - Catamerian
+  - Humanoid
+  - Human
+---
 ### Young Merchant
 Rennin is a shrewd and incredibly intelligent man. His brilliance for politics, conversation, and world history make him an ideal business man. He made a name for himself in Asameria as the young boy who could strike a deal with the big shots. He would commonly be invited to large dinners hosted by the [[Merion]] Monarchy, and slowly became good friend with one of the princes, Cata Merion. 
 

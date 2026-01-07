@@ -1,7 +1,8 @@
 ---
 tags:
+  - NPC
   - Spirit
-  - Sentient_Spirit
+  - SentientSpirit
 ---
 Sol'aar, the Eternal Flame is a Sentient Spirit, classified as a minor deity. Sol’aar emerged from an intellectual movement. Inspired by breakthroughs in research surrounding spirits and cosmology, an early transcontinental fellowship of researchers and philosophers envisioned an ideal: The Eternal Flame, a symbol that embodies the spark of curiosity, the pursuit of truth, and fight against the unknown.  
 

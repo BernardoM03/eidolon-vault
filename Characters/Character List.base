@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("Spirit")
+        - file.hasTag("NPC", "PC")
     order:
       - file.name
       - file.tags
