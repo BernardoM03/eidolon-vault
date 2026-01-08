@@ -1,7 +1,8 @@
 ---
 tags:
+  - NPC
   - Spirit
-  - Natural_Spirit
+  - NaturalSpirit
 ---
 Korrad is an Old God, a natural spirit of Mount Korrad, a dormant volcano located in the south-east of Ennalis. Korrad is worshipped by the Goliath tribes of the mountains. 
 

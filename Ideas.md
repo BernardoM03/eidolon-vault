@@ -5,8 +5,11 @@ Big Chuck, the new crime lord of Dimming
 
 Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from a deal with the devil gone wrong
 
-House Meredane smuggled robots
-House Meredane is using the robots to reanimate the founder of House Meredane-- Rennin Meredane-- back to life. Think Saburo Arasaka in the Devil ending in Cyberpunk 2077
+[[Brennly Wriggle]]
+
+## Names for NPCs
+Kendon Kurzer
+
 ## Puzzle Notes
 Humans are more likely to remember things that are associated with common symbols and objects. For example “pig” is more memorable than “truth.”
 

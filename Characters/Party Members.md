@@ -1,5 +1,0 @@
-[[Adelaide Harbour]]
-[[Cogsworth]]
-[[Firewright Atar Delenethos]]
-[[Lucky]]
-[[Twila]]

@@ -51,22 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "637d3fc4a962fabe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "edbb68ed5a79f5d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -240,6 +224,20 @@
   },
   "active": "c4f04d6629af2f58",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Tiefling.md",
+    "The Hells.md",
+    "Characters/Twila.md",
+    "Characters/Sol'aar, the Eternal Flame.md",
+    "Characters/Lucky.md",
+    "Characters/Korrad.md",
+    "Characters/Cogsworth.md",
+    "Characters/Character List.base",
+    "Characters/Brennly Wriggle.md",
+    "Characters/Bloody-Feet Morsch.md",
+    "Characters/Atar Delenethos.md",
+    "Characters/Amon.md",
+    "Characters/Adelaide Harbour.md",
     "Plots and Quests/Devil in the Machine.md",
     "Plots and Quests/The Winter Trials.md",
     "Devil in the Machine.md",
@@ -255,21 +253,8 @@
     "Sessions/Session 6 - The Mad Monkeys.md",
     "Characters/Janshai Brichalon.md",
     "Plots and Quests/List of Quests.base",
-    "Sessions/Session 9 - The Junction.md",
     "Map images/Catamerian Sewer Dungeon.png",
-    "Characters/Veyra.md",
     "Plots and Quests",
-    "Characters/Kaelis.md",
-    "Kaelis.md",
-    "Characters/Baato.md",
-    "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
-    "Guilds & Groups/Carpenter and Stonemason's Guild.md",
-    "Places/City of Catameria/Catavale South (Yards).md",
-    "Places/Sage's Hollow.md",
-    "Sage’s Hollow.md",
-    "Spirits and Gods/Natural Spirit.md",
-    "Spirits and Gods/Sentient Spirit.md",
-    "Sessions/Session 4 - The Relic.md",
     "Map images/Warring States of Ennalis.png",
     "Spirits and Gods/Untitled.base",
     "Sessions/Session Base.base",
@@ -285,7 +270,6 @@
     "Statblock imgs/Budding Harrower.png",
     "Statblock imgs/CrystalBack Dragon.png",
     "Untitled.base",
-    "Statblock imgs",
     "Untitled.canvas"
   ]
 }

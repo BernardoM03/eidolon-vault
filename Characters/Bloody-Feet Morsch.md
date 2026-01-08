@@ -1,7 +1,8 @@
 ---
 tags:
+  - NPC
   - Spirit
-  - Sentient_Spirit
+  - SentientSpirit
 ---
 Bloody-Feet Morsch, also known as just "The Bloody-Foot," is an ascended has due to the small power he receives from a pack of rats that follow him. It is a sacred ascension ceremony he ran into a long time ago, and his ascension caused him to gain a following of a few hundred rats. He is immortal and has a few powers that come along with it. In addition, the rats gain small sentience due to their worship of him.
 
