@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiefling.md",
+                "file": "The Hells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiefling"
+              "title": "The Hells"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "fe405377fa2fe3b0",
   "lastOpenFiles": [
-    "The Hells.md",
     "Tiefling.md",
+    "Characters/Amon.md",
     "Cosmology.md",
-    "Amon.md",
+    "The Hells.md",
     "Characters/Brennly Wriggle.md",
     "Characters/Bloody-Feet Morsch.md",
     "Characters/Character List.base",
