@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots and Quests/Devil in the Machine.md",
+                "file": "Characters/Rennin Meredane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devil in the Machine"
+              "title": "Rennin Meredane"
             }
           }
         ],
@@ -222,23 +222,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4f04d6629af2f58",
+  "active": "7ee8aec7fbb1e780",
   "lastOpenFiles": [
+    "Plots and Quests/Devil in the Machine.md",
+    "Rennin III Meredane.md",
+    "Characters/Amon.md",
+    "Characters/Baato.md",
+    "Characters/Brennly Wriggle.md",
+    "The Hells.md",
     "conflict-files-obsidian-git.md",
     "Tiefling.md",
-    "The Hells.md",
     "Characters/Twila.md",
     "Characters/Sol'aar, the Eternal Flame.md",
     "Characters/Lucky.md",
     "Characters/Korrad.md",
     "Characters/Cogsworth.md",
     "Characters/Character List.base",
-    "Characters/Brennly Wriggle.md",
     "Characters/Bloody-Feet Morsch.md",
     "Characters/Atar Delenethos.md",
-    "Characters/Amon.md",
     "Characters/Adelaide Harbour.md",
-    "Plots and Quests/Devil in the Machine.md",
     "Plots and Quests/The Winter Trials.md",
     "Devil in the Machine.md",
     "Guilds & Groups/Meredane.md",
@@ -250,8 +252,6 @@
     "Map images/Catameria Diagram.png",
     "Plots and Quests/Case of the Sewer Snatcher.md",
     "Sessions/Session 7 - Meredane Made.md",
-    "Sessions/Session 6 - The Mad Monkeys.md",
-    "Characters/Janshai Brichalon.md",
     "Plots and Quests/List of Quests.base",
     "Map images/Catamerian Sewer Dungeon.png",
     "Plots and Quests",
