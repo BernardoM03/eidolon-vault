@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 9 - The Junction.md",
+                "file": "Sessions/Session 8 - The Cogjuring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 - The Junction"
+              "title": "Session 8 - The Cogjuring"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rennin Meredane.md",
+                "file": "Sessions/Session 9 - The Junction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rennin Meredane"
+              "title": "Session 9 - The Junction"
             }
           }
         ],
@@ -225,12 +225,32 @@
   "active": "7ee8aec7fbb1e780",
   "lastOpenFiles": [
     "Plots and Quests/Devil in the Machine.md",
+    "Characters/Rennin Meredane.md",
+    "Characters/Renk the Sorry.md",
     "Rennin III Meredane.md",
+    "images/Statblock imgs/Renk the Sorry.png",
+    "Sessions/Session 8 - The Cogjuring.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "images/profile images/Renk the Sorry.png",
+    "images/Statblock imgs/Budding Harrower.png",
     "Characters/Amon.md",
+    "Characters/Atar Delenethos.md",
+    "conflict-files-obsidian-git.md",
+    "images/profile images",
+    "images/Statblock imgs/Ogre.png",
+    "images/Statblock imgs/Manticore.png",
+    "images/Statblock imgs/Hadozee Shipmate.png",
+    "images/Statblock imgs/CrystalBack Dragon.png",
+    "images/Statblock imgs/Escanor.png",
+    "images/Map images/Empire of Balat.png",
+    "images/Map images/Warring States of Ennalis.png",
+    "images/Statblock imgs",
+    "images/Map images",
+    "images",
     "Characters/Baato.md",
     "Characters/Brennly Wriggle.md",
     "The Hells.md",
-    "conflict-files-obsidian-git.md",
     "Tiefling.md",
     "Characters/Twila.md",
     "Characters/Sol'aar, the Eternal Flame.md",
@@ -239,37 +259,16 @@
     "Characters/Cogsworth.md",
     "Characters/Character List.base",
     "Characters/Bloody-Feet Morsch.md",
-    "Characters/Atar Delenethos.md",
     "Characters/Adelaide Harbour.md",
     "Plots and Quests/The Winter Trials.md",
     "Devil in the Machine.md",
     "Guilds & Groups/Meredane.md",
-    "Characters/Rennin Meredane.md",
     "Meredane.md",
-    "Untitled.md",
-    "Rennin Meredane.md",
-    "Places/Catameria.md",
-    "Map images/Catameria Diagram.png",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
-    "Sessions/Session 7 - Meredane Made.md",
     "Plots and Quests/List of Quests.base",
-    "Map images/Catamerian Sewer Dungeon.png",
     "Plots and Quests",
-    "Map images/Warring States of Ennalis.png",
     "Spirits and Gods/Untitled.base",
     "Sessions/Session Base.base",
-    "Statblock imgs/Escanor.png",
-    "Statblock imgs/Hadozee Shipmate.png",
-    "Statblock imgs/Ogre.png",
-    "Statblock imgs/Manticore.png",
     "Guilds & Groups",
-    "Characters",
-    "Places/City of Catameria",
-    "Map images/Empire of Balat.png",
-    "Map images",
-    "Statblock imgs/Budding Harrower.png",
-    "Statblock imgs/CrystalBack Dragon.png",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }

@@ -39,3 +39,27 @@ Ogre Statblock with Multiattack
 Villages out in lots of open space can farm slimes, small non-violent creatures
 ## Houken-inspired enemy
 A character who does not care about anything but fighting,**
+
+Random Shops
+|1d20|Type|
+|---|---|
+|1|Pawnshop|
+|2|Apothecary|
+|3|Grocer|
+|4|Delicatessen|
+|5|Potter|
+|6|Undertaker|
+|7|Bookstore|
+|8|Moneylender|
+|9|Armorer|
+|10|Chandler|
+|11|Smithy|
+|12|Carpenter|
+|13|Weaver|
+|14|Jeweler|
+|15|Baker|
+|16|Mapmaker|
+|17|Tailor|
+|18|Ropemaker|
+|19|Mason|
+|20|Scribe|

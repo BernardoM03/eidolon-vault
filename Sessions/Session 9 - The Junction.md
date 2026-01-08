@@ -15,6 +15,7 @@ Outside the inn, strapped against the horse’s left flank is the massive, tripl
 
 The common room is long and warm. Exposed beams run high overhead, giving the space an airy hall-like feel unusual for an inn. The tables throughout the room are mismatched but sturdy pieces, seemingly collected over decades. The air smells of stewed vegetables, pine smoke, and ale. Posters on the walls advertise “Glory, Patronage, and an invitation to the Stone Crown: The Winter Trials”
 
+### Call for Urgency
 Madam Grinwald will contact the party here when they rest (44 on fate roll): She is contacting the party to warn them about the fiends on their tail. One hot-tempered devil came to inspect Gristwell in the morning, just before this message, and was able to find no trace going South. They suspect you are heading to the city.
 
 **Patrons**:
