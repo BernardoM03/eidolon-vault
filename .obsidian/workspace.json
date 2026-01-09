@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Sentient_Spirit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,8 +197,8 @@
   },
   "active": "c2e7fd798dcb4d8b",
   "lastOpenFiles": [
-    "Characters/Renk.md",
     "conflict-files-obsidian-git.md",
+    "Characters/Renk.md",
     "images/profile images/Renk, the Oni.png",
     "images/profile images",
     "images",
