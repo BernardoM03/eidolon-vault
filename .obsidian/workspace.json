@@ -39,14 +39,13 @@
             "id": "7ee8aec7fbb1e780",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Sessions/Session 9 - The Junction.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Character List.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Session 9 - The Junction"
+              "icon": "lucide-table",
+              "title": "Character List"
             }
           }
         ],
@@ -224,13 +223,13 @@
   },
   "active": "7ee8aec7fbb1e780",
   "lastOpenFiles": [
-    "Plots and Quests/Devil in the Machine.md",
+    "Characters/Rennin III Meredane.md",
     "Characters/Rennin Meredane.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Plots and Quests/Devil in the Machine.md",
     "Characters/Renk the Sorry.md",
-    "Rennin III Meredane.md",
     "images/Statblock imgs/Renk the Sorry.png",
     "Sessions/Session 8 - The Cogjuring.md",
-    "Sessions/Session 9 - The Junction.md",
     "Plots and Quests/Case of the Sewer Snatcher.md",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Budding Harrower.png",
