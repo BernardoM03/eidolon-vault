@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "579f9e85e889a8aa",
+        "id": "f63e6e2dc5b18f16",
         "type": "tabs",
         "children": [
           {
-            "id": "fe405377fa2fe3b0",
+            "id": "5bdb81f508d24108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Characters/Renk.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Characters/Brennly Wriggle.md",
+                "bFile": "Characters/Brennly Wriggle.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Renk"
+              "icon": "diff",
+              "title": "Diff: Brennly Wriggle  (Index)"
             }
           }
         ]
@@ -195,9 +196,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2e7fd798dcb4d8b",
+  "active": "5bdb81f508d24108",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "images/profile images/Renk the Sorry.png",
+    "images/Statblock imgs/Renk the Sorry.png",
+    "Characters/Rennin III Meredane.md",
+    "Characters/Renk the Sorry.md",
     "Characters/Renk.md",
     "images/profile images/Renk, the Oni.png",
     "images/profile images",
@@ -226,9 +231,6 @@
     "Characters/Cogsworth.md",
     "Characters/Adelaide Harbour.md",
     "Characters/Atar Delenethos.md",
-    "Characters/Janshai Brichalon.md",
-    "Characters/Party Members.md",
-    "Sessions/Session 1 - The Sage's Hollow.md",
     "images/Map images/Catamerian Sewer Dungeon.png",
     "images/Map images/Catameria Diagram.png",
     "remote-repo/publish/attachments/vercel-project-id.png",
@@ -236,8 +238,6 @@
     "remote-repo/publish/attachments/vercel-account-id.png",
     "remote-repo/publish/attachments/how-linked-blog-starter-works.png",
     "remote-repo/publish/attachments/publish-dir-yml.png",
-    "remote-repo/publish/attachments/github-secrets-vercel.png",
-    "remote-repo/publish/attachments/fork-linked-blog-starter-md.png",
     "remote-repo/publish/attachments",
     "remote-repo/publish",
     "remote-repo/Statblock imgs",

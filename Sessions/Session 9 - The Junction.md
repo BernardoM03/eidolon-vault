@@ -6,7 +6,9 @@ tags:
 ## Maere, the Junction Town
 Emerging from the forest, you enter an open grassland, plenty of flowers, tall grass, and sparse trees providing shade. The sunny weather and lack of clouds look beautiful in this area, and gives you the perfect view of a small Thorp about 1-2 miles ahead. This is [[Maere, Junction Town]], a small junction town mainly known as an adventurer/trader hub as they move further south.
 
-The party can stop by The Stonewatch Outpost, the Bending Willow Inn, or the Gristle & Grain General Store
+The party can stop by The Stonewatch Outpost, the Bending Willow Inn, or the Gristle & Grain General Store.
+
+Twila, you feel some form of unease as you step into the town. What do you think that could be?
 
 ## At the Bending Willow
 This inn is a two-story half-timbered building, with a thatched roof and unusually high ceilings. Accommodations consist of several small rooms with wooden cots. The inn is widely known for its adventuring patrons. The innkeeper is an old male dwarf named Fari. He has an identical twin named Bari, who works opposite shifts.
@@ -15,7 +17,10 @@ Outside the inn, strapped against the horse’s left flank is the massive, tripl
 
 The common room is long and warm. Exposed beams run high overhead, giving the space an airy hall-like feel unusual for an inn. The tables throughout the room are mismatched but sturdy pieces, seemingly collected over decades. The air smells of stewed vegetables, pine smoke, and ale. Posters on the walls advertise “Glory, Patronage, and an invitation to the Stone Crown: The Winter Trials”
 
+### Call for Urgency
 Madam Grinwald will contact the party here when they rest (44 on fate roll): She is contacting the party to warn them about the fiends on their tail. One hot-tempered devil came to inspect Gristwell in the morning, just before this message, and was able to find no trace going South. They suspect you are heading to the city.
+
+When Adelaide first talks to an NPC, the quick and brunt nature of the accent catches you off guard. While not commonly spoken by the other villagers, it's similar to how your dad speaks.
 
 **Patrons**:
 Just a little goblin guy
