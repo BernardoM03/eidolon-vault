@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f63e6e2dc5b18f16",
+        "id": "5a67739b6ab79a39",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdb81f508d24108",
+            "id": "804ca88f4a8d0871",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Characters/Brennly Wriggle.md",
-                "bFile": "Characters/Brennly Wriggle.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Sessions/Session 9 - The Junction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Brennly Wriggle  (Index)"
+              "icon": "lucide-file",
+              "title": "Session 9 - The Junction"
             }
           }
         ]
@@ -75,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,13 +194,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "5bdb81f508d24108",
+  "active": "804ca88f4a8d0871",
   "lastOpenFiles": [
+    "Sessions/Session 10 - Coming to Catameria.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Characters/Renk the Sorry.md",
+    "Guilds & Groups/Meredane.md",
+    "Places/Catameria.md",
+    "Characters/Brennly Wriggle.md",
     "conflict-files-obsidian-git.md",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Renk the Sorry.png",
     "Characters/Rennin III Meredane.md",
-    "Characters/Renk the Sorry.md",
     "Characters/Renk.md",
     "images/profile images/Renk, the Oni.png",
     "images/profile images",
@@ -214,7 +217,6 @@
     "Tiefling.md",
     "Characters/Amon.md",
     "Cosmology.md",
-    "Characters/Brennly Wriggle.md",
     "Characters/Bloody-Feet Morsch.md",
     "Characters/Character List.base",
     "Characters/Sol'aar, the Eternal Flame.md",
@@ -228,9 +230,6 @@
     "Characters/Kaelis.md",
     "Characters/Twila.md",
     "Characters/Lucky.md",
-    "Characters/Cogsworth.md",
-    "Characters/Adelaide Harbour.md",
-    "Characters/Atar Delenethos.md",
     "images/Map images/Catamerian Sewer Dungeon.png",
     "images/Map images/Catameria Diagram.png",
     "remote-repo/publish/attachments/vercel-project-id.png",
