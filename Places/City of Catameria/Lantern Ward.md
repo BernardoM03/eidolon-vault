@@ -8,8 +8,8 @@ A broad, mixed residential district known for its distinctive lighting tradition
 | Lead     | Very uncommon, used by skeptics to "ward off magic"                        |
 | Silver   | Expensive, used for Upper class                                            |
 | Electrum | Used commonly by magic institutions and churches                           |
-Temples in this ward operate as both community anchors and organized institutions. They range from small sanctuaries dedicated to minor deities or sacred tenets to larger temples of the main pantheon. Their doors remain open late into the night, providing rites, counsel, guidance, and quiet spaces for residents when needed.
 
+Temples in this ward operate as both community anchors and organized institutions. They range from small sanctuaries dedicated to minor deities or sacred tenets to larger temples of the main pantheon. Their doors remain open late into the night, providing rites, counsel, guidance, and quiet spaces for residents when needed.
 ## Relevant Locations
 [[Scholar's of the Eternal Flame (Catameria)]]
 
