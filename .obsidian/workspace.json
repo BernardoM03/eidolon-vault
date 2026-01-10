@@ -11,14 +11,15 @@
             "id": "23ecf4bd02b8e222",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Sessions/Session 10 - Coming to Catameria.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Places/City of Catameria/Lantern Ward.md",
+                "bFile": "Places/City of Catameria/Lantern Ward.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 10 - Coming to Catameria"
+              "icon": "diff",
+              "title": "Diff: Lantern Ward  (Index)"
             }
           }
         ]
@@ -196,8 +197,8 @@
   },
   "active": "23ecf4bd02b8e222",
   "lastOpenFiles": [
-    "Places/Catameria.md",
     "Sessions/Session 10 - Coming to Catameria.md",
+    "Places/Catameria.md",
     "Guilds & Groups/Meredane.md",
     "Places/City of Catameria/Lantern Ward.md",
     "Brennly's Home.md",
