@@ -2,7 +2,7 @@ Domain: Trade, foreign commerce, and banks
 Control: Caravans, merchant contracts, Merial Docks interests  
 Notable NPCs:
 - Marek Meredane, Master of Ships.
-- Rennin III Meredane, his son, is tied to illicit smuggling.
+- [[Rennin III Meredane]], his son, is tied to illicit smuggling.
 - [[Rennin Meredane]], the house founder, currently within a magic jar
 
 Relationships:
