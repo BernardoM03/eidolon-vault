@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a67739b6ab79a39",
+        "id": "6827e76b8f3b80d2",
         "type": "tabs",
         "children": [
           {
-            "id": "804ca88f4a8d0871",
+            "id": "25b82ba29b904bae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 9 - The Junction.md",
+                "file": "Sessions/Session 10 - Coming to Catameria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 - The Junction"
+              "title": "Session 10 - Coming to Catameria"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "59a3c18fbf89f09c",
         "type": "tabs",
+        "dimension": 34.21052631578947,
         "children": [
           {
             "id": "f65c681b8f23f27f",
@@ -177,10 +178,27 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "18a84ae93b2d47e3",
+        "type": "tabs",
+        "dimension": 65.78947368421053,
+        "children": [
+          {
+            "id": "a3d34aa1e7123761",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,16 +209,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "804ca88f4a8d0871",
+  "active": "25b82ba29b904bae",
   "lastOpenFiles": [
-    "Sessions/Session 10 - Coming to Catameria.md",
+    "Places/City of Catameria/Merion's Gate Commons.md",
+    "Places/Catameria.md",
     "Sessions/Session 9 - The Junction.md",
+    "Places/Maere, Junction Town.md",
+    "Sessions/Session 8 - The Cogjuring.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
     "Characters/Renk the Sorry.md",
     "Guilds & Groups/Meredane.md",
-    "Places/Catameria.md",
     "Characters/Brennly Wriggle.md",
     "conflict-files-obsidian-git.md",
     "images/profile images/Renk the Sorry.png",
@@ -227,9 +250,6 @@
     "Characters/Baato.md",
     "Plots and Quests/List of Quests.base",
     "Characters/Veyra.md",
-    "Characters/Kaelis.md",
-    "Characters/Twila.md",
-    "Characters/Lucky.md",
     "images/Map images/Catamerian Sewer Dungeon.png",
     "images/Map images/Catameria Diagram.png",
     "remote-repo/publish/attachments/vercel-project-id.png",
