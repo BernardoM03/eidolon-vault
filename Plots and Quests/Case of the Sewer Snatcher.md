@@ -9,17 +9,28 @@ A string of missing people has been happening in a sector with constant reports 
 
 The party gets introduced to the quest via a flyer, which is the first thing they encounter when they don’t have a task to complete. It will be heavily contrasted by the poster for [[The Winter Trials]]. The flyer contains the latest new story surrounding the Sewer Snatcher story, depicting Artos Lemm, a likeable figure that the party met on their way into the city.
 
+Additionally, if the party attempts to go back to Gatebridge to find Artos Lemm, they will come into contact with Treighton Brumm, a half-orc member of the [[Stone Guard]]. He is quite the dick, acting rude to the party and making off comments about Artos. He knows that Artos Lemm hasn't come into work today, and laugh pointing at a nearby poster that has been hung up. "Seems like trouble always follows you if you're from that trash pile down under." Ultimately, Treighton doesn't know anything about the kidnapping other than some bloke has been attaching his own letters to each of the posters and that he was last seen after a night out with some of the other Stone Guard members of Gatebridge
+
 The Sewer Snatcher is a criminal whose face is unknown, though rumors and evidence point in the direction of one entity. The common threads are that the associated kidnappings all take place around sewers near the surrounding regions of Dimming, and that none have been found. 
 
 ### The Flyer.
 	MISSING, Artos Lemm
 	The latest victim in the reign of the SEWER SNATCHER.
-	Last seen in Catavale North after a night out with friends.
+	Last seen in Catavale North.
 	Below the text, someone has added a short line in smaller, cramped handwriting.
 	If anyone can help, please contact: 1240 Mole Street.
 
 Perpetrator.
 Tal Snake-Eyes Enshi, a Capone of [[Big Chuck]]’s [[Gravel Rats]]. He recently gained information that Artos Lemm is an informant for the Fang that works at [[Gatebridge]]. This is bad for business, so it must be swiftly dealt with. Artos Lemm was taken by Snake-Eyes and his group of rats, bringing him in through the sewers 
+
+## A Rocking Night Out
+If the party attempts to find information about the missing Artos Lemm by looking for the other members of the Stone Guard he was out with, they can track down an NPC that was with Artos last night. This will need them to the Stone Gauntlet ([[Tavern]]) 
+
+DC 10 Investigation: It takes you about 3 hours going in and out of various locations, finally stumbling across a tavern known as the Stone Gauntlet. 
+DC 15 Investigation: You enter and investigate a few different locations of note for about an hour, before stopping in front of one establishment called the Stone Gauntlet in Catavale North.
+DC 20 Investigation: Smartly, you know who to ask about where Stone Guard members go to drink on their time off, finding out they frequent the Stone Gauntlet, a tavern in Catavale North.
+
+**Damay Bhobbub**: An older halfling woman, ex-soldier turned guard. She is a guard supervisor, and was the person just above Artos Lemm. She is an immigrant from the [[Rostran Empire]]. She is cynical and greedy, valuing gold and her own self-interests above most. Damay has ties with the Gravel Rats, and was the person who sold out Artos Lemm. She doesn't know where they took him, but if pressed by the party, will say she can find out if they don't turn her in. Given 4d6 hours, she can find the location of Artos Lemm via entrance C.
 
 ## 1240 Mole Street
 This address is a small, modest, but well-kept home in [[Catavale North (Markets)]]. It stands out slightly from its neighbors. The stonework is repaired, the door recently replaced, and a small potted plant sits by the window. It is very comfortable and warm looking. 
@@ -132,7 +143,7 @@ This will be a difficult fight, leading to the possibility of the players gettin
 Encounter: 6x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi
 
 ### O - Snake-Eyes Chamber.
-This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. 
+This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy
 
 ## Captured by the Gravel Rats
 Once the party has been captured, they will be imprisoned for a while. Either Snake-Eyes or one another one of the Elite Grunts will state the following
