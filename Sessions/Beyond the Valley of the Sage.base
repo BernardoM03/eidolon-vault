@@ -1,7 +1,7 @@
-formulas:
-  Untitled: ""
 summaries:
   Unique: values.unique().length
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table

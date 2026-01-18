@@ -5,5 +5,4 @@ tags:
 ---
 Amon, or sometimes Aamon, is an Archdevil of [[The Hells]].
 
-### Pride Epitome
-A magical artifact and tome within the Material Plane. This book allows any readers to contact the Archdevil Amon, commonly ending up in a Warlock Pact.
+Amon has little interest in the Material Plane, but enjoys it from time to time via an artifact of his known as [[Pride Epitome]].

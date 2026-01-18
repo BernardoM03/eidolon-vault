@@ -1,8 +1,8 @@
-Brennly's home is located in a northern neighborhood of the Lantern Ward known as [[Goodbarrel Ave]]. This home sports a uniquely crafted pewter lantern that he received as a gift. 
+[[Brennly Wriggle]]'s is located in a northern neighborhood of the Lantern Ward known as [[Goodbarrel Ave]]. This home sports a uniquely crafted pewter lantern that he received as a gift. 
 
 This house, like many in this section of the city, is crafted of wood and stone. Wood can be something of a luxury in this city, where the access to earth-shaping magic is second to none in the world. The foundation of the house is molded up with patterned stone pillars and slabs that accent the walls. Filled in between are long wooden planks, wattle, and daub. 
 
-**Andri.** This house is "haunted" by a specter. He was a dwarf who lived here before, but died a mysterious death. His abnormally immense sense of pride and curiosity could not let him pass on to the next life without finding out what killed him, 
+[[Andri]]. This house is "haunted" by a specter. He was a dwarf who lived here before, but died a mysterious death. His abnormally immense sense of pride and curiosity could not let him pass on to the next life without finding out what killed him.
 ## Layout
 
 ### Parlor Room
@@ -21,6 +21,6 @@ This cabinet seems to be used as Brennly's study room. The room seems to be furn
 
 One group of items seems to be locked within boxes, that someone with magical studies under their belt can recognize as lead-boxes. These are specifically crafted boxes that are lined with lead to disrupt divination upon the artifact and magical-effects from the artifact.
 
-| haunted doll | This doll is very creepy. If its owner ever fails a third death save, the doll will take the hit instead, and will die in place of its owner. |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-|              |                                                                                                                                               |
+| haunted doll  | This doll is very creepy. If its owner ever fails a third death save, the doll will take the hit instead, and will die in place of its owner. |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pride Epitome | A magical tome tied to the Archdevil [[Amon]]                                                                                                 |

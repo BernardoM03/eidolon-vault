@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6712c609b5c390",
+        "id": "b72420c281d6336b",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d786b5aacb5885",
+            "id": "e60650e6df747065",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/patch",
-                "bFile": ".obsidian/plugins/obsidian-git/patch",
-                "aRef": ""
+                "file": "Artifacts/Pride Epitome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: patch  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Pride Epitome"
+            }
+          },
+          {
+            "id": "4fe0be55ac18f57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tavern"
+            }
+          },
+          {
+            "id": "6d13c9903c890115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Catameria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Catameria"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,40 +243,45 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b5d786b5aacb5885",
+  "active": "4fe0be55ac18f57b",
   "lastOpenFiles": [
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Tavern.md",
     "Sessions/Session 10 - Coming to Catameria.md",
+    "Places/Catameria.md",
+    "Guilds & Groups/Merion.md",
+    "Places/Kingdom of Asameria.md",
+    "Places/Warring States.md",
+    "Places/Divine Empire of Greylinn.md",
+    "Artifacts/Grey King's Crown.md",
+    "Artifacts/Pride Epitome.md",
+    "Artifacts/Elkoler, the Ever-Starving Flame.md",
+    "Artifacts/Artifacts and Magic Items.base",
+    "Characters/Amon.md",
+    "Characters/Kaelis.md",
+    "Places/Gristwell.md",
+    "Artifacts",
+    "The Hells.md",
+    "Writing/Untitled.md",
+    "Writing",
+    "Places/Brennly's Home.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Characters/Renk the Sorry.md",
+    "Places/City of Catameria/Merion's Gate Commons.md",
+    "Characters/Brennly Wriggle.md",
+    "Sessions/Session 1 - The Sage's Hollow.md",
+    "Sessions/Beyond the Valley of the Sage.base",
+    "Pride Epitome.md",
+    "Characters/Andri.md",
+    "Characters/Bloody-Feet Morsch.md",
     "conflict-files-obsidian-git.md",
     "eidolon-vault",
-    "Brennly's Home.md",
-    "Places/City of Catameria/Merion's Gate Commons.md",
-    "Places/Catameria.md",
-    "Sessions/Session 9 - The Junction.md",
-    "Places/Maere, Junction Town.md",
-    "Sessions/Session 8 - The Cogjuring.md",
-    "Characters/Renk the Sorry.md",
-    "Guilds & Groups/Meredane.md",
-    "Characters/Brennly Wriggle.md",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Renk the Sorry.png",
-    "Characters/Rennin III Meredane.md",
-    "Characters/Renk.md",
     "images/profile images/Renk, the Oni.png",
     "images/profile images",
     "images",
-    "Plots and Quests/Devil in the Machine.md",
-    "Characters/Rennin Meredane.md",
-    "Ideas.md",
-    "The Hells.md",
-    "Tiefling.md",
-    "Characters/Amon.md",
-    "Cosmology.md",
-    "Characters/Bloody-Feet Morsch.md",
     "Characters/Character List.base",
-    "Characters/Sol'aar, the Eternal Flame.md",
-    "Characters/Korrad.md",
-    "Spirits and Gods/Natural Spirit.md",
-    "Spirits and Gods/Spirits.md",
     "Spirits and Gods/Untitled.base",
     "Plots and Quests/List of Quests.base",
     "images/Map images/Catamerian Sewer Dungeon.png",
@@ -256,10 +290,6 @@
     "remote-repo/publish/attachments/vercel-create-token.png",
     "remote-repo/publish/attachments/vercel-account-id.png",
     "remote-repo/publish/attachments/how-linked-blog-starter-works.png",
-    "remote-repo/publish/attachments/publish-dir-yml.png",
-    "remote-repo/publish/attachments",
-    "remote-repo/publish",
-    "remote-repo/Statblock imgs",
-    "remote-repo/Spirits and Gods/Untitled.base"
+    "remote-repo/publish/attachments/publish-dir-yml.png"
   ]
 }
