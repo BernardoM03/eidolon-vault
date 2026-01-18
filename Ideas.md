@@ -7,6 +7,10 @@ Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from 
 
 [[Brennly Wriggle]]
 
+## Themes for potential campaigns
+Flesh and mortality is a cage that hinders us from our true potential
+The true seeker of knowledge is a villain who sacrifices much for their goal. I have been able to offer you something you seek, precisely because I am a villain.
+
 ## Names for NPCs
 Kendon Kurzer
 

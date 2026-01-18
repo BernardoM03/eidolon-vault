@@ -1,4 +1,4 @@
-Brennly's home is located in a northern neighborhood of the Lantern Ward known as Goodbarrel Ave. This home sports a uniquely crafted pewter lantern that he received as a gift. 
+Brennly's home is located in a northern neighborhood of the [[Lantern Ward]] known as Goodbarrel Ave. This home sports a uniquely crafted pewter lantern that he received as a gift. 
 
 This house, like many in this section of the city, is crafted of wood and stone. Wood can be something of a luxury in this city, where the access to earth-shaping magic is second to none in the world. The foundation of the house is molded up with patterned stone pillars and slabs that accent the walls. Filled in between are long wooden planks, wattle, and daub. 
 
