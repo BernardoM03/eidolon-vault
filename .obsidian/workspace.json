@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Case of the Sewer Snatcher"
+            }
+          },
+          {
+            "id": "7319910d320c8169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sessions/Session 10 - Coming to Catameria.md",
                 "mode": "source",
                 "source": false
@@ -35,7 +49,8 @@
               "title": "Brennly's Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,6 +213,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
@@ -208,11 +225,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c590d135b9f00b",
+  "active": "7319910d320c8169",
   "lastOpenFiles": [
-    "Places/Brennly's Home.md",
-    "conflict-files-obsidian-git.md",
+    "Plots and Quests/The Winter Trials.md",
+    "Plots and Quests/Devil in the Machine.md",
     "Sessions/Session 10 - Coming to Catameria.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Guilds & Groups/The Fang.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Places/Brennly's Home.md",
+    "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
+    "Places/Catameria.md",
+    "Characters/Amon.md",
+    "Places/City of Catameria/Lantern Ward.md",
+    "conflict-files-obsidian-git.md",
     "Writing/Untitled.md",
     "Writing",
     "Tavern.md",
@@ -228,21 +254,12 @@
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
     "Ideas.md",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
     "Plots and Quests/List of Quests.base",
     "eidolon-vault/Plots and Quests/Case of the Sewer Snatcher.md",
-    "Plots and Quests/Devil in the Machine.md",
-    "Plots and Quests/The Winter Trials.md",
-    "Places/City of Catameria/Lantern Ward.md",
     "Brennly's Home.md",
     "Characters/Brennly Wriggle.md",
-    "Characters/Adelaide Harbour.md",
-    "Places/Catameria.md",
-    "Guilds & Groups/Meredane.md",
     "Untitled.base",
     "eidolon-vault/Sessions/Session Base.base",
-    "eidolon-vault/Sessions/Session 9 - The Junction.md",
-    "eidolon-vault/Sessions/Session 8 - The Cogjuring.md",
     "eidolon-vault/Sessions",
     "eidolon-vault/Plots and Quests/List of Quests.base",
     "eidolon-vault/Plots and Quests",
