@@ -23,7 +23,7 @@ The Sewer Snatcher is a criminal whose face is unknown, though rumors and eviden
 Perpetrator.
 Tal Snake-Eyes Enshi, a Capone of [[Big Chuck]]’s [[Gravel Rats]]. He recently gained information that Artos Lemm is an informant for the Fang that works at [[Gatebridge]]. This is bad for business, so it must be swiftly dealt with. Artos Lemm was taken by Snake-Eyes and his group of rats, bringing him in through the sewers 
 
-## A Rocking Night Out
+## A Rocky Night Out
 If the party attempts to find information about the missing Artos Lemm by looking for the other members of the Stone Guard he was out with, they can track down an NPC that was with Artos last night. This will need them to the Stone Gauntlet ([[Tavern]]) 
 
 DC 10 Investigation: It takes you about 3 hours going in and out of various locations, finally stumbling across a tavern known as the Stone Gauntlet. 
@@ -136,7 +136,7 @@ Emeline Drake: a 59 y/o human. She has an aloof face, but acts conceited and jud
 5  Gravel Rat Runners are located here
 
 ### N - Gravel Rat Snake-Eyes Lounge.
-6 Elites under the command of Snake-Eyes are located here. They are lounging around, all sticking around for the next orders outside their leader’s main office. A fight is GUARANTEED to break out if the party makes their way here, as this has gone too far into Gravel Rat territory.
+5 Elites under the command of Snake-Eyes are located here. They are lounging around, all sticking around for the next orders outside their leader’s main office. A fight is GUARANTEED to break out if the party makes their way here, as this has gone too far into Gravel Rat territory.
 
 This will be a difficult fight, leading to the possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
 

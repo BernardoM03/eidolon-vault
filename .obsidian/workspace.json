@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319910d320c8169",
+  "active": "638b0797affa3c7c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
+    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+    "Castella Grande.md",
     "Plots and Quests/The Winter Trials.md",
     "Plots and Quests/Devil in the Machine.md",
-    "Sessions/Session 10 - Coming to Catameria.md",
     "Sessions/Session 9 - The Junction.md",
     "Guilds & Groups/The Fang.md",
     "Plots and Quests/Case of the Sewer Snatcher.md",
@@ -238,7 +241,6 @@
     "Places/Catameria.md",
     "Characters/Amon.md",
     "Places/City of Catameria/Lantern Ward.md",
-    "conflict-files-obsidian-git.md",
     "Writing/Untitled.md",
     "Writing",
     "Tavern.md",
@@ -256,8 +258,6 @@
     "Ideas.md",
     "Plots and Quests/List of Quests.base",
     "eidolon-vault/Plots and Quests/Case of the Sewer Snatcher.md",
-    "Brennly's Home.md",
-    "Characters/Brennly Wriggle.md",
     "Untitled.base",
     "eidolon-vault/Sessions/Session Base.base",
     "eidolon-vault/Sessions",

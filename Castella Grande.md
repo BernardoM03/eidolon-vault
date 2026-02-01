@@ -1,0 +1,1 @@
+A grand manse commonly used by the [[Merion]] Royal family for hosting events and important guests for multi-day events. 
