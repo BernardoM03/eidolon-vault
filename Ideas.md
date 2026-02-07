@@ -1,18 +1,14 @@
 ## THINGS TO EXPAND THAT ARE RELEVANT FOR CAMPAIGN 1
-The Quiet Dark, a variation of an ancient sentient spirit representing the unknown
-
-Big Chuck, the new crime lord of Dimming
-
+The Quiet Dark, a variation of an ancient sentient spirit representing the unknown. 
 Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from a deal with the devil gone wrong
-
 [[Brennly Wriggle]]
 
-## Themes for potential campaigns
-Flesh and mortality is a cage that hinders us from our true potential
-The true seeker of knowledge is a villain who sacrifices much for their goal. I have been able to offer you something you seek, precisely because I am a villain.
+### Grand Story of the Campaign so Far
+Baato, a Rakshasa, cheated the Archdevil Amon in a deal to gain a legion of 108 infernal soldiers under his command. This did not go unnoticed, so Amon punished Baato by sealing his magic until he gets 108 souls in return. Baato, powerless, schemed his way back into a plan. He would foster the souls of Sage's Hollow until death, before transforming them into Soul Coins in exchange to Baato.
 
-## Names for NPCs
-Kendon Kurzer
+## Themes for potential campaigns
+The true seeker of knowledge is a villain who sacrifices much for their goal. I have studied this world for hundreds of years, and in that time I have done countless acts that some would deem unthinkable. You may find that repulsive, but remember that I have been able to offer you something you seek, precisely because I am a villain. Because of what I have done. 
+Flesh and mortality is a cage that hinders us from our true potential.
 
 ## Puzzle Notes
 Humans are more likely to remember things that are associated with common symbols and objects. For example “pig” is more memorable than “truth.”
