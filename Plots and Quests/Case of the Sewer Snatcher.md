@@ -137,7 +137,7 @@ Emeline Drake: a 59 y/o human. She has an aloof face, but acts conceited and jud
 ### N - Gravel Rat Snake-Eyes Lounge.
 5 Elites under the command of Snake-Eyes are located here. They are lounging around, all sticking around for the next orders outside their leader’s main office. A fight is GUARANTEED to break out if the party makes their way here, as this has gone too far into Gravel Rat territory.
 
-This will be a difficult fight, leading to the possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
+This will be a difficult fight, leading to a small possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
 
 Encounter: 5x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi. 
 1. The fight will begin with just 5 the Elites, with Snake Eyes alerted and preparing spells as he leaves his room
@@ -150,14 +150,15 @@ Snake Grunts:
 - Damage 1d8 + 3
 
 ### O - Snake-Eyes Chamber.
-This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy. Furniture is imported from across the sea, from South-Western Balatan Empire. Sitting upon one of the chairs at the front of the desk, unconscious, is Artos Lemm. He seems to have been put under by some type of drug.
+This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy. Furniture is imported from across the sea, from South-Western Balatan Empire. Sitting upon one of the chairs at the front of the desk, unconscious, is a beaten but alive Artos Lemm. He seems to have been quickly put under by some type of drug.
 - His desk contains information about drug trade routes, numbers, money earned.
 - An unmarked sending stone rests on the desk. (This sending stone goes to Big Chuck)
 - There is a fair fortune in this room:
 	- 50 platinum
 	- 200 gold
-	- Diamonds worth up to 500 gold.
+	- About 4 carats of diamond (worth 500gp)
 	- There are also spell parchment and ink totaling 300 gold pieces worth. Spells in his spellbook are able to be copied.
+	- A rugged and old white-leatherbound book emanating a strong but reserved magical aura.
 ## Captured by the Gravel Rats
 Once the party has been captured, they will be imprisoned for a while. Either Snake-Eyes or one another one of the Elite Grunts will state the following
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Case of the Sewer Snatcher"
             }
           }
         ]
@@ -217,8 +217,10 @@
   },
   "active": "6e7de9767093cc4d",
   "lastOpenFiles": [
-    "Plots and Quests/Case of the Sewer Snatcher.md",
     "Plots and Quests/A Blink to the Past.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Characters/Atar Delenethos.md",
+    "Ideas.md",
     "Places/Divine Empire of Greylinn.md",
     "Plots and Quests/List of Quests.base",
     "Sessions/Session Lists.base",
@@ -227,7 +229,6 @@
     "Sessions/Session 12 - Snake's Den.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
     "Untitled.base",
-    "Ideas.md",
     "Characters/Sol'aar, the Eternal Flame.md",
     "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
     "Sessions/Session 10 - Coming to Catameria.md",
