@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 10 - Coming to Catameria.md",
+                "file": "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10 - Coming to Catameria"
+              "title": "Session 11 - The Case of the Sewer Snatcher"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Brennly's Home.md",
+                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brennly's Home"
+              "title": "Case of the Sewer Snatcher"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
@@ -225,18 +225,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "638b0797affa3c7c",
+  "active": "53c590d135b9f00b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Sessions/Session 10 - Coming to Catameria.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Sessions/Session 7 - Meredane Made.md",
+    "Sessions/Session 8 - The Cogjuring.md",
+    "Ideas.md",
+    "Guilds & Groups/Gravel Rats.md",
+    "Places/Brennly's Home.md",
+    "conflict-files-obsidian-git.md",
     "Castella Grande.md",
     "Plots and Quests/The Winter Trials.md",
     "Plots and Quests/Devil in the Machine.md",
     "Sessions/Session 9 - The Junction.md",
     "Guilds & Groups/The Fang.md",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
-    "Places/Brennly's Home.md",
     "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
     "Places/Catameria.md",
     "Characters/Amon.md",
@@ -251,13 +255,9 @@
     "Guilds & Groups/Merion.md",
     "Characters/Andri.md",
     "Artifacts/Pride Epitome.md",
-    "Artifacts/Grey King's Crown.md",
-    "Artifacts/Elkoler, the Ever-Starving Flame.md",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
-    "Ideas.md",
     "Plots and Quests/List of Quests.base",
-    "eidolon-vault/Plots and Quests/Case of the Sewer Snatcher.md",
     "Untitled.base",
     "eidolon-vault/Sessions/Session Base.base",
     "eidolon-vault/Sessions",

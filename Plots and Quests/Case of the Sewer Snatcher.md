@@ -124,6 +124,8 @@ As the party walks down the tunnel, if the party has silently dealt with the rat
 ### K - Outfall Chamber.
 Gravel Rat gang members here. This is a lab for the production of Pinktail. 
 
+
+
 ### L - Sediment Trap.
 The chamber has the sewage tunnel widened into a shallow basin filled with thick, dark sludge. It smells foul. On the edges of the chamber, cages are placed, turning this room into a make-shift prison. The following prisoners are:
 

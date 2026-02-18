@@ -10,7 +10,6 @@ Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from 
 ## Themes for potential campaigns
 Flesh and mortality is a cage that hinders us from our true potential
 The true seeker of knowledge is a villain who sacrifices much for their goal. I have been able to offer you something you seek, precisely because I am a villain.
-
 ## Names for NPCs
 Kendon Kurzer
 
@@ -37,6 +36,7 @@ Burnweed - Depressant, used in Dimming as the main drug of choice, peddled commo
 Pinktail - Highly Addictive, newly created, peddled more recently by Big Chuck to keep Dimming under control.
 Boyne - Hallucinogen, allows users to access unwanted parts of the brain, altering judgement
 Alice - Hallicinogen, with LOTS of hallucinations
+Blackpowder - 
 ## Mindless Brute under Noble Leadership
 Ogre Statblock with Multiattack
 ## Slime Farms
