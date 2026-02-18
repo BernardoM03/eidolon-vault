@@ -4,7 +4,7 @@ tags:
   - Tome
   - Devil
 ---
-A magical artifact and tome within the Material Plane created by the Archdevil [[Amon]]. There have been many wielders of this tome over the years, and it's effects commonly end up in the user entering a Warlock Pact. In the campaign [[Beyond the Valley of the Sage.base]], the tome is currently in the possession of [[Brennly Wriggle]].
+A magical artifact and tome within the Material Plane created by the Archdevil [[Amon]]. There have been many wielders of this tome over the years, and it's effects commonly end up in the user entering a Warlock Pact. In the campaign [[Session Lists.base]], the tome is currently in the possession of [[Brennly Wriggle]].
 
 ### Stats
 **Dormant**: +1 to attack rolls and saving throws. You gain a +2 to your Charisma modifier, increasing to a max of 22. 

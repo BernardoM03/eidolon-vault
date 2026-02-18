@@ -2,6 +2,8 @@
 tags:
   - Session
   - Catameria
+  - GravelRats
+  - 2/1/26
 ---
 The group entered the city of [[Catameria]], finally settling down at [[Brennly's Home]] in the [[Lantern Ward]]. They unpacked, meeting with Andri and exploring the house itself to find individual places to sleep and get ready for their stay for a while. To research a bit more about Alorus himself, Atar elected the party to go study at the Temple for the [[Scholar's of the Eternal Flame (Catameria)]], which was nearby in the Lantern Ward
 

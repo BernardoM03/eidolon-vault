@@ -1,0 +1,8 @@
+Charles Ward, also known as Big Chuck, is current leader of the [[Gravel Rats]] within Catameria. 
+
+Big Chuck is a human in his late 20s. He is a sociopath through and through. Empathy is not something that crosses his mind, though he can understand emotions (mainly how it serves to shackle those bound by it). Big Chuck is as ruthless as he is lackluster, inspired heavily by Prince Tserriednich from HxH. 
+
+Big Chuck likes to collect interesting people to surround him, and can be amused by their attempts to struggle against him. This stems from the arrogant nature of his genius, which has led him to believe he is invincible. In the grand scheme of things, yes he is incredibly smart, powerful, and could be an intense threat to many institutions of powers IF (and a very important if), he actually had a secluded and encompassing plan. On the other hand, he messes around with underground markets and gambling, which does bring him wealth and some degree of power, but he is a minor threat if he continues like this. That, in addition to some restraint in drawing full on war against the Stone Guard and the city, he has not found a target on his back by the many who would be considered more powerful that himself.
+
+### Personality
+Initially, intimidating. He talks at a moderate pace, with an incredible pompousness in his voice. He finds things intriguing, and likes to see how long it takes for things to break. He regards items of value as if they were trash, especially those of symbolic value

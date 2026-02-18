@@ -1,6 +1,7 @@
 ---
 tags:
   - Session
+  - 1/18/26
 ---
 The party has just arrived into the City of [[Catameria]], the end goal of their days-long journey through the forest. For Alorus and Adelaide, the sheer scale this place was a wonder. For the others, it was a sorely missed sight. Going through [[Gatebridge]], they were properly checked for safe entry into the city, and made it to the city entrance of the [[Merion's Gate Commons]]. Lucky had the bullets to his gun taken away, but wasn't too mad because he was entranced by the fun nature of one Sgt Artos Lemm. Refer to [[Case of the Sewer Snatcher]] for more information on what happens to Artos Lemm later on. 
 ## Walking through Catameria

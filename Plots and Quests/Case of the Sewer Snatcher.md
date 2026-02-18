@@ -20,7 +20,7 @@ The Sewer Snatcher is a criminal whose face is unknown, though rumors and eviden
 	Below the text, someone has added a short line in smaller, cramped handwriting.
 	If anyone can help, please contact: 1240 Mole Street.
 
-Perpetrator.
+### Perpetrator.
 Tal Snake-Eyes Enshi, a Capone of [[Big Chuck]]’s [[Gravel Rats]]. He recently gained information that Artos Lemm is an informant for the Fang that works at [[Gatebridge]]. This is bad for business, so it must be swiftly dealt with. Artos Lemm was taken by Snake-Eyes and his group of rats, bringing him in through the sewers 
 
 ## A Rocky Night Out
@@ -131,22 +131,36 @@ The chamber has the sewage tunnel widened into a shallow basin filled with thick
 
 **Artos Lemm**: Not here, currently being interrogated by Snake-Eyes in Chamber O
 [[Janshai Brichalon]]: Not here, currently working on a new batch of Pinktail in Chamber K
-Chaos: A 191 y/o tiefling slaver with long braided hair, long nails, red skin, and dyed red hair. He is very talkative as the party passes by and flirts with the men of the group.
+Chaos: A 191 y/o tiefling slaver with long braided hair, long nails, red skin, and dyed red hair. He is very talkative as the party passes by and flirts with the men of the group. If attacked, he responds with a 3rd level Hellish Rebuke (4d10 fire damage), laughing maniacally through his last moments.
 Jannas Gallath: a 42 y/o triton, very short, cropped green hair, missing an ear. He is very exhausted and dehydrated, with the environment in this sewer slowly killing him. He can be healed and given water, but that will just allow him the sleep he needs.
 Emeline Drake: a 59 y/o human. She has an aloof face, but acts conceited and judgy to the party. She offers a discount on her goods if the party frees her. 
 ### M - Drop Shaft.
 5  Gravel Rat Runners are located here
-
 ### N - Gravel Rat Snake-Eyes Lounge.
 5 Elites under the command of Snake-Eyes are located here. They are lounging around, all sticking around for the next orders outside their leader’s main office. A fight is GUARANTEED to break out if the party makes their way here, as this has gone too far into Gravel Rat territory.
 
-This will be a difficult fight, leading to the possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
+This will be a difficult fight, leading to a small possibility of the players getting captured. See under "Captured by the Gravel Rats" for more
 
-Encounter: 6x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi
+Encounter: 5x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi. 
+1. The fight will begin with just 5 the Elites, with Snake Eyes alerted and preparing spells as he leaves his room
+2. Snake Eyes will show up at the beginning of Round 3 (automatically give him 20 initiative). 1-2 of the grunts should be dead at this point, but should have also done a fair bit of damage to the party. Once Snake Eyes appears, he will bring the combat to a deadly affair, possibly downing 1-2 of the party, forcing them to waste turns healing and using potions as he continues to pelt them with targeted and dangerous spells.
+3. He fights to down as many people here as possible, and will stop caring about his guards if it grants more damage against the party.
+### Quick Stats
+Snake Grunts:
+- AC 14
+- To hit +5
+- Damage 1d8 + 3
 
 ### O - Snake-Eyes Chamber.
-This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy
-
+This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy. Furniture is imported from across the sea, from South-Western Balatan Empire. Sitting upon one of the chairs at the front of the desk, unconscious, is a beaten but alive Artos Lemm. He seems to have been quickly put under by some type of drug.
+- His desk contains information about drug trade routes, numbers, money earned.
+- An unmarked sending stone rests on the desk. (This sending stone goes to Big Chuck)
+- There is a fair fortune in this room:
+	- 50 platinum
+	- 200 gold
+	- About 4 carats of diamond (worth 500gp)
+	- There are also spell parchment and ink totaling 300 gold pieces worth. Spells in his spellbook are able to be copied.
+	- A rugged and old white-leatherbound book emanating a strong but reserved magical aura.
 ## Captured by the Gravel Rats
 Once the party has been captured, they will be imprisoned for a while. Either Snake-Eyes or one another one of the Elite Grunts will state the following
 

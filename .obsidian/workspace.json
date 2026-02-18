@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7a816a6486c8416a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          },
+          {
             "id": "7319910d320c8169",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Case of the Sewer Snatcher"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,17 +240,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c590d135b9f00b",
+  "active": "7a816a6486c8416a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Untitled.base",
+    "Sessions/Session Lists.base",
+    "Sessions/Session 12 - Snake's Den.md",
+    "Plots and Quests/A Blink to the Past.md",
+    "Charles Ward.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
     "Sessions/Session 10 - Coming to Catameria.md",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
     "Sessions/Session 7 - Meredane Made.md",
     "Sessions/Session 8 - The Cogjuring.md",
     "Ideas.md",
     "Guilds & Groups/Gravel Rats.md",
     "Places/Brennly's Home.md",
-    "conflict-files-obsidian-git.md",
     "Castella Grande.md",
     "Plots and Quests/The Winter Trials.md",
     "Plots and Quests/Devil in the Machine.md",
@@ -251,18 +271,12 @@
     "Sessions/Beyond the Valley of the Sage.base",
     "Places/Warring States.md",
     "Places/Gristwell.md",
-    "Places/Divine Empire of Greylinn.md",
-    "Guilds & Groups/Merion.md",
-    "Characters/Andri.md",
-    "Artifacts/Pride Epitome.md",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
     "Plots and Quests/List of Quests.base",
-    "Untitled.base",
     "eidolon-vault/Sessions/Session Base.base",
     "eidolon-vault/Sessions",
     "eidolon-vault/Plots and Quests/List of Quests.base",
-    "eidolon-vault/Plots and Quests",
     "eidolon-vault/images/Statblock imgs/Renk the Sorry.png",
     "eidolon-vault/images/Statblock imgs/Ogre.png",
     "eidolon-vault/images/Statblock imgs/Manticore.png",
