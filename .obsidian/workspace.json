@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53c590d135b9f00b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case of the Sewer Snatcher"
-            }
-          },
-          {
-            "id": "7a816a6486c8416a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas"
-            }
-          },
-          {
             "id": "7319910d320c8169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+                "file": "Sessions/Session 10 - Coming to Catameria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 11 - The Case of the Sewer Snatcher"
-            }
-          },
-          {
-            "id": "638b0797affa3c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case of the Sewer Snatcher"
+              "title": "Session 10 - Coming to Catameria"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,37 +197,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a816a6486c8416a",
+  "active": "7319910d320c8169",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+    "Sessions/Session 9 - The Junction.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
+    "Sessions/Session 8 - The Cogjuring.md",
+    "Sessions/Session 7 - Meredane Made.md",
+    "Sessions/Session 6 - The Mad Monkeys.md",
+    "Sessions/Session 4 - The Relic.md",
+    "Sessions/Session 3 - A Strange Pull in A Strange Land.md",
+    "Sessions/Session 2 - A Cure for Wellness.md",
+    "Sessions/Session 1 - The Sage's Hollow.md",
+    "Tesseron.md",
+    "Places/Catameria.md",
+    "Places/City of Catameria/Verdure District.md",
+    "Places/City of Catameria/Dimming.md",
+    "Places/City of Catameria/Catavale South (Yards).md",
+    "Places/City of Catameria/Merial Docks.md",
+    "Places/City of Catameria/The Promenade.md",
+    "Places/City of Catameria/Merion's Gate Commons.md",
+    "Places/City of Catameria/Catavale North (Markets).md",
+    "Places/City of Catameria/Gatebridge.md",
+    "Places/City of Catameria/Lantern Ward.md",
+    "Cosmology.md",
+    "Spirits and Gods/Sentient Spirit.md",
+    "Spirits and Gods/Natural Spirit.md",
+    "Identity.md",
+    "Sessions/Session 5 - A Crossroads in the Valley.md",
     "Untitled.base",
     "Sessions/Session Lists.base",
-    "Sessions/Session 12 - Snake's Den.md",
-    "Plots and Quests/A Blink to the Past.md",
-    "Charles Ward.md",
-    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
-    "Sessions/Session 10 - Coming to Catameria.md",
-    "Sessions/Session 7 - Meredane Made.md",
-    "Sessions/Session 8 - The Cogjuring.md",
-    "Ideas.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Places/Brennly's Home.md",
-    "Castella Grande.md",
-    "Plots and Quests/The Winter Trials.md",
-    "Plots and Quests/Devil in the Machine.md",
-    "Sessions/Session 9 - The Junction.md",
-    "Guilds & Groups/The Fang.md",
-    "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
-    "Places/Catameria.md",
-    "Characters/Amon.md",
-    "Places/City of Catameria/Lantern Ward.md",
-    "Writing/Untitled.md",
     "Writing",
-    "Tavern.md",
     "Sessions/Beyond the Valley of the Sage.base",
-    "Places/Warring States.md",
-    "Places/Gristwell.md",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
     "Plots and Quests/List of Quests.base",
