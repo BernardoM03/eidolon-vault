@@ -1,1 +1,3 @@
 This temple is located within the city of [[Catameria]] within the [[Lantern Ward]]. It serves as a base of operation for the Scholars of the Eternal Flame, worshippers of [[Sol'aar, the Eternal Flame]]. Most members are scholars and academics who offer their expertise to the city while pursuing their own studies via the temple. Its membership rarely exceeds a dozen at any given time, mainly due to the temple’s cautious approach to sharing information that could be dangerous in the wrong hands. Still, the temple is publicly available and is legally recognized as both a religious institution and a minor scholarly guild. It has the authority to issue work ledgers, grant adventurer permits, and sponsor small expeditions tied to their research.
+
+Petnan Falword

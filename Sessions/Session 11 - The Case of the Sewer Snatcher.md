@@ -12,3 +12,5 @@ Atar found lots of information about Alorus's magic, and his identity not just a
 Twila ended up teaching Adelaide how to read. Cogsworth went to get books for Alorus and Adelaide for their prospective studies, and also to pick up some food at Donald O'Micks, a low-quality sandwich shop in the city. On the way, he found another poster for the Winter Trials, as well as a poster for a serial kidnapping, the [[Case of the Sewer Snatcher]]. The victim was someone they recently came into contact with at [[Gatebridge]], a Sgt Artos Lemm. Immediately, the party went searching for answers, one location being posted at the bottom of the poster, the address of Artos and his father, Brent. The party ended off resolving themselves to find Artos, and to save him themselves.
 
 [[Case of the Sewer Snatcher]]
+
+Lots of rats mean there is lots of food for the rats to sustain themselves

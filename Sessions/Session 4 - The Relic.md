@@ -23,7 +23,7 @@ Given the party frees this bull-headed creature, he will be cold and naked upon 
 
 The party can share a small conversation with the bull-headed being before his eyes shutter into stillness. Widened, he stays unmoving for 5-10 seconds, as he hears a message from Baato
 
-`I'm sorry. We are all in danger. He knows you freed me. I'm so sorry.  Sending: I don't know how you were found, but I'll sniff you out again relic. Your saviors can join you next time as well.`
+`I'm sorry. We are all in danger. He knows you freed me. I'm so sorry.  Sending: "I don't know how you were found, but I'll sniff you out again relic. Your saviors can join you next time as well.`"
 
 ## The Journey From Now
 The party is now on the run. They must make a decision. Will they head back to the hamlet of [[Sage's Hollow]] or immediately head out on their way.

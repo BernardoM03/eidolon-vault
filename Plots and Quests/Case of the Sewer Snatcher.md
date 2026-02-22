@@ -124,6 +124,8 @@ As the party walks down the tunnel, if the party has silently dealt with the rat
 ### K - Outfall Chamber.
 Gravel Rat gang members here. This is a lab for the production of Pinktail. 
 
+
+
 ### L - Sediment Trap.
 The chamber has the sewage tunnel widened into a shallow basin filled with thick, dark sludge. It smells foul. On the edges of the chamber, cages are placed, turning this room into a make-shift prison. The following prisoners are:
 
@@ -145,9 +147,10 @@ Encounter: 5x Snake-Eyes Elite Grunts and Tal “Snake-Eyes” Enshi.
 3. He fights to down as many people here as possible, and will stop caring about his guards if it grants more damage against the party.
 ### Quick Stats
 Snake Grunts:
-- AC 14
+- HP: 22
+- AC 13
 - To hit +5
-- Damage 1d8 + 3
+- Damage 1d6 + 3 + 1d6
 
 ### O - Snake-Eyes Chamber.
 This is the office of Tal "Snake-Eyes" Enshi, one of Big Chuck's main Capones. This office is quite gaudy. Furniture is imported from across the sea, from South-Western Balatan Empire. Sitting upon one of the chairs at the front of the desk, unconscious, is a beaten but alive Artos Lemm. He seems to have been quickly put under by some type of drug.

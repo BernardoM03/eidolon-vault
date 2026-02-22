@@ -9,7 +9,6 @@ Baato, a Rakshasa, cheated the Archdevil Amon in a deal to gain a legion of 108 
 ## Themes for potential campaigns
 The true seeker of knowledge is a villain who sacrifices much for their goal. I have studied this world for hundreds of years, and in that time I have done countless acts that some would deem unthinkable. You may find that repulsive, but remember that I have been able to offer you something you seek, precisely because I am a villain. Because of what I have done. 
 Flesh and mortality is a cage that hinders us from our true potential.
-
 ## Puzzle Notes
 Humans are more likely to remember things that are associated with common symbols and objects. For example “pig” is more memorable than “truth.”
 
@@ -33,6 +32,7 @@ Burnweed - Depressant, used in Dimming as the main drug of choice, peddled commo
 Pinktail - Highly Addictive, newly created, peddled more recently by Big Chuck to keep Dimming under control.
 Boyne - Hallucinogen, allows users to access unwanted parts of the brain, altering judgement
 Alice - Hallicinogen, with LOTS of hallucinations
+Blackpowder - 
 ## Mindless Brute under Noble Leadership
 Ogre Statblock with Multiattack
 ## Slime Farms
