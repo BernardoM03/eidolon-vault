@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots and Quests/Case of the Sewer Snatcher.md",
+                "file": "Sessions/Session 12 - Snake's Den.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case of the Sewer Snatcher"
+              "title": "Session 12 - Snake's Den"
+            }
+          },
+          {
+            "id": "668159d073944bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots and Quests/The Winter Trials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Winter Trials"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +230,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6e7de9767093cc4d",
+  "active": "668159d073944bc8",
   "lastOpenFiles": [
-    "Plots and Quests/A Blink to the Past.md",
+    "Sessions/Session 13 - Winter Trials.md",
+    "Sessions/Session 12 - Snake's Den.md",
+    "Plots and Quests/The Winter Trials.md",
     "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Plots and Quests/A Blink to the Past.md",
     "Characters/Atar Delenethos.md",
     "Ideas.md",
     "Places/Divine Empire of Greylinn.md",
@@ -226,7 +244,6 @@
     "Sessions/Session Lists.base",
     "Sessions/Grey King One Shot.md",
     "Sessions/Session 5 - A Crossroads in the Valley.md",
-    "Sessions/Session 12 - Snake's Den.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
     "Untitled.base",
     "Characters/Sol'aar, the Eternal Flame.md",
@@ -243,12 +260,10 @@
     "images/Map images/Catamerian Sewer Dungeon.png",
     "Places/City of Catameria/Gatebridge.md",
     "Castella Grande.md",
-    "Plots and Quests/The Winter Trials.md",
     "Places/Castella Merion.md",
     "Artifacts/Pride Epitome.md",
     "Characters/Baato.md",
     "Places/Sage's Hollow.md",
-    "Characters/Kaelis.md",
     "eidolon-vault",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
