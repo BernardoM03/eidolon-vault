@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c73e0f7d69610d6d",
+    "id": "5af1b2cb510bb39f",
     "type": "split",
     "children": [
       {
-        "id": "53f844d8486c84ca",
+        "id": "51c621fd9609533a",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7de9767093cc4d",
+            "id": "7319910d320c8169",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,51 +20,22 @@
               "icon": "lucide-file",
               "title": "Session 12 - Snake's Den"
             }
-          },
-          {
-            "id": "668159d073944bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots and Quests/The Winter Trials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Winter Trials"
-            }
-          },
-          {
-            "id": "6e476b5d53d5a8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f1c7ca158d85cbe4",
+    "id": "253c19efdb99da25",
     "type": "split",
     "children": [
       {
-        "id": "1acf00e67b366bd6",
+        "id": "6ad2a8f64895f9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f91e5091c1db4932",
+            "id": "c4f04d6629af2f58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "33370399783e91aa",
+            "id": "cc19ca7adb8a8171",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "c30cd4a34c81ad3a",
+            "id": "f12fd8f11433824c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,21 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4b62274df7374275",
+    "id": "ba2237b3aab4432f",
     "type": "split",
     "children": [
       {
-        "id": "59a3c18fbf89f09c",
+        "id": "5766798961db0480",
         "type": "tabs",
-        "dimension": 34.21052631578947,
         "children": [
           {
-            "id": "f65c681b8f23f27f",
+            "id": "4172e5727d843f91",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 10 - Coming to Catameria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Session 10 - Coming to Catameria"
             }
           },
           {
-            "id": "d99d97853565a347",
+            "id": "03dccef0e6ac3699",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 9 - The Junction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Session 9 - The Junction"
             }
           },
           {
-            "id": "a6766c4afa2504b8",
+            "id": "5c7c6dc933151692",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +137,7 @@
             }
           },
           {
-            "id": "56c841989dff0bb4",
+            "id": "081669d0d4824f29",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,22 +151,22 @@
             }
           },
           {
-            "id": "5128c265597fa95e",
+            "id": "efe5810b20c382f5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Brennly's Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Brennly's Home"
             }
           },
           {
-            "id": "c2e7fd798dcb4d8b",
+            "id": "e8afb0aa8d8fc929",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -207,90 +177,74 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "18a84ae93b2d47e3",
-        "type": "tabs",
-        "dimension": 65.78947368421053,
-        "children": [
-          {
-            "id": "a3d34aa1e7123761",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e476b5d53d5a8fd",
+  "active": "e8afb0aa8d8fc929",
   "lastOpenFiles": [
-    "Plots and Quests/The Winter Trials.md",
-    "conflict-files-obsidian-git.md",
-    "Tesseron.md",
-    "People's Adventuring Guild of Catameria.md",
     "Sessions/Session 13 - Winter Trials.md",
-    "Sessions/Session 12 - Snake's Den.md",
-    "Plots and Quests/Case of the Sewer Snatcher.md",
-    "Plots and Quests/A Blink to the Past.md",
-    "Characters/Atar Delenethos.md",
-    "Ideas.md",
-    "Places/Divine Empire of Greylinn.md",
-    "Plots and Quests/List of Quests.base",
-    "Sessions/Session Lists.base",
-    "Sessions/Grey King One Shot.md",
-    "Sessions/Session 5 - A Crossroads in the Valley.md",
-    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
-    "Untitled.base",
-    "Characters/Sol'aar, the Eternal Flame.md",
-    "Guilds & Groups/Scholar's of the Eternal Flame (Catameria).md",
     "Sessions/Session 10 - Coming to Catameria.md",
-    "Sessions/Session 8 - The Cogjuring.md",
+    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+    "Sessions/Session 12 - Snake's Den.md",
     "Sessions/Session 9 - The Junction.md",
+    "Sessions/Session 8 - The Cogjuring.md",
     "Sessions/Session 7 - Meredane Made.md",
-    "Charles Ward.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Artifacts/Grey King's Crown.md",
-    "Characters/Character List.base",
-    "images/Map images/Warring States of Ennalis.png",
-    "images/Map images/Catamerian Sewer Dungeon.png",
+    "Sessions/Session 6 - The Mad Monkeys.md",
+    "Sessions/Session 4 - The Relic.md",
+    "Sessions/Session 3 - A Strange Pull in A Strange Land.md",
+    "Sessions/Session 2 - A Cure for Wellness.md",
+    "Sessions/Session 1 - The Sage's Hollow.md",
+    "Tesseron.md",
+    "Places/Catameria.md",
+    "Places/City of Catameria/Verdure District.md",
+    "Places/City of Catameria/Dimming.md",
+    "Places/City of Catameria/Catavale South (Yards).md",
+    "Places/City of Catameria/Merial Docks.md",
+    "Places/City of Catameria/The Promenade.md",
+    "Places/City of Catameria/Merion's Gate Commons.md",
+    "Places/City of Catameria/Catavale North (Markets).md",
     "Places/City of Catameria/Gatebridge.md",
-    "Castella Grande.md",
-    "Places/Castella Merion.md",
-    "eidolon-vault",
+    "Places/City of Catameria/Lantern Ward.md",
+    "Cosmology.md",
+    "Spirits and Gods/Sentient Spirit.md",
+    "Spirits and Gods/Natural Spirit.md",
+    "Untitled.base",
+    "Sessions/Session Lists.base",
+    "Writing",
+    "Sessions/Beyond the Valley of the Sage.base",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
-    "Writing",
-    "images/profile images/Renk the Sorry.png",
-    "images/Statblock imgs/Renk the Sorry.png",
-    "images/profile images/Renk, the Oni.png",
-    "images/profile images",
-    "images",
-    "images/Map images/Catameria Diagram.png",
-    "remote-repo/publish/attachments/vercel-project-id.png",
-    "remote-repo/publish/attachments/vercel-create-token.png",
-    "remote-repo/publish/attachments/vercel-account-id.png",
-    "remote-repo/publish/attachments/how-linked-blog-starter-works.png"
+    "Plots and Quests/List of Quests.base",
+    "eidolon-vault/Sessions/Session Base.base",
+    "eidolon-vault/Sessions",
+    "eidolon-vault/Plots and Quests/List of Quests.base",
+    "eidolon-vault/images/Statblock imgs/Renk the Sorry.png",
+    "eidolon-vault/images/Statblock imgs/Ogre.png",
+    "eidolon-vault/images/Statblock imgs/Manticore.png",
+    "eidolon-vault/images/Statblock imgs/Hadozee Shipmate.png",
+    "eidolon-vault/images/Statblock imgs/Escanor.png",
+    "eidolon-vault/images/Statblock imgs/CrystalBack Dragon.png",
+    "eidolon-vault/images/Statblock imgs/Budding Harrower.png",
+    "eidolon-vault/images/Map images/Warring States of Ennalis.png",
+    "eidolon-vault/images/profile images/Renk the Sorry.png",
+    "eidolon-vault/images/Map images/Empire of Balat.png",
+    "Untitled.canvas"
   ]
 }
