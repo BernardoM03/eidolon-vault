@@ -19,7 +19,7 @@ Divinity and powerful Sentient Spirits can also be represented in different ways
 ## Planar Theory
 
 Scholars describe Planes of Existence as vast Sentient Spirits: world-sized souls shaped by Collective Thought on a scale that combines all mortal culture. 
-- [[The Hells]] arise from the combined cultural ideas surrounding the punishment of sin: a realm filled with sinners
+- [[Places/The Hells]] arise from the combined cultural ideas surrounding the punishment of sin: a realm filled with sinners
 - The Heavens form from ideals of rewarding virtue, innocence, and the higher ideal of self: a realm for those who lived life to the best of their ability
 - The Feywild manifests from the universal sense of wonder stoked by fairytales and child-like imagination: a realm defined by wondrous creatures, wild emotion, and boundless creativity
 - The Shadowfell is built on top of every mortal’s collective fear of death, grief of loss, and stress against oblivion: a realm of horrific creatures that dwells in nightmares, darkness, and decay.
