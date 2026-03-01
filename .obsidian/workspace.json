@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e7de9767093cc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 12 - Snake's Den.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 12 - Snake's Den"
-            }
-          },
-          {
             "id": "668159d073944bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots and Quests/The Winter Trials.md",
+                "file": "Sessions/Session 14 - Corruption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Winter Trials"
-            }
-          },
-          {
-            "id": "6ee0cc5e1f209901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Session 14 - Corruption"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +215,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6ee0cc5e1f209901",
+  "active": "668159d073944bc8",
   "lastOpenFiles": [
+    "Sessions/Session 13 - Winter Trials.md",
+    "Pasted image 20260228215455.png",
+    "Sessions/Session 14 - Corruption.md",
+    "Ilya Tesseron.md",
+    "Sessions/Session 12 - Snake's Den.md",
+    "Sessions/Session Lists.base",
     "Plots and Quests/The Winter Trials.md",
     "conflict-files-obsidian-git.md",
     "Places/The Hells.md",
@@ -253,15 +230,12 @@
     "Guilds & Groups/People's Adventuring Guild of Catameria.md",
     "Tesseron.md",
     "People's Adventuring Guild of Catameria.md",
-    "Sessions/Session 13 - Winter Trials.md",
-    "Sessions/Session 12 - Snake's Den.md",
     "Plots and Quests/Case of the Sewer Snatcher.md",
     "Plots and Quests/A Blink to the Past.md",
     "Characters/Atar Delenethos.md",
     "Ideas.md",
     "Places/Divine Empire of Greylinn.md",
     "Plots and Quests/List of Quests.base",
-    "Sessions/Session Lists.base",
     "Sessions/Grey King One Shot.md",
     "Sessions/Session 5 - A Crossroads in the Valley.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
@@ -273,12 +247,9 @@
     "Sessions/Session 9 - The Junction.md",
     "Sessions/Session 7 - Meredane Made.md",
     "Charles Ward.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Artifacts/Grey King's Crown.md",
     "Characters/Character List.base",
     "images/Map images/Warring States of Ennalis.png",
     "images/Map images/Catamerian Sewer Dungeon.png",
-    "Places/City of Catameria/Gatebridge.md",
     "eidolon-vault",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
@@ -290,7 +261,6 @@
     "images",
     "images/Map images/Catameria Diagram.png",
     "remote-repo/publish/attachments/vercel-project-id.png",
-    "remote-repo/publish/attachments/vercel-create-token.png",
-    "remote-repo/publish/attachments/vercel-account-id.png"
+    "remote-repo/publish/attachments/vercel-create-token.png"
   ]
 }

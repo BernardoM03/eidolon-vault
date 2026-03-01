@@ -29,7 +29,7 @@ Unless their is something you would like to accomplish, I will move the scene fo
 Beside you, a party of men and women in colorful armor are loudly laughing. They seem to be already gambling on who survives the first round, with a surprising amount of information. As you catch the eye of one of the members, they shout over to you “Heard you cleared rats. Hope you’re good with monsters too!” They end up providing a bit of information to the party about other groups.
 Johann of the Laughing Hand
 ### Ivory Standard
-You see this group before. Most definitely the fan favorite. While looking, you see the leader, Ilya Tesseron meet your eyes in analysis, holding your gaze for a fraction of a second. 
+You see this group before. Most definitely the fan favorite. While looking, you see the leader, [[Ilya Tesseron]] meet your eyes in analysis, holding your gaze for a fraction of a second. 
 The Laughing Gauntlet states "favorites to win the competition. Heard they actually decided to  push this tournament back a week so princess over there could compete."
 ### Swamp Things
 One group seems to be covered in cloaks of moss and bone charms. They whisper prayers over small vials of monster blood.
@@ -40,6 +40,8 @@ You settle back amongst yourselves as your group gets closer to the gates. Just 
 You are led beneath the colosseum through a descending corridor of pale stone. The roar of the crowd above becomes a low, constant tremor. "Your team will be marked on which room you can prepare yourself in. You will be alerted 5 minutes before you are to fight, so be prepared."
 
 The room is spacious enough. Stone walls smoothed and reinforced on each side, with a wide bench running along the far wall. Weapon racks are fixed to one wall and two iron braziers burning a smokeless flame for warmth. Near the door, a stone disk is hung up, engraved with enchantment sigils. The air smells faintly of oil, leather, and old sweat.
+
+![[Pasted image 20260228215455.png]]
 
 ### First Battle
 The stone disk begins to hum. The sigils fill with pale blue light. Then a voice resonates directly from the stone: “Journeyman Division. Chamber Two. Five minutes to entry.”
