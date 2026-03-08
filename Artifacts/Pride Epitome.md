@@ -28,3 +28,4 @@ A magical artifact and tome within the Material Plane created by the Archdevil [
 	4. Example:
 		1. Question: "How do I achieve enlightenment?"
 		2. Answer: "You have done many great deeds and studied the nature of this world wholly Atar. Surely you know by now that the enlightenment you wish for, one which is stumbled across at time, does not truly exist. True enlightenment must be championed, for you know in your heart what is right even if others do not"
+

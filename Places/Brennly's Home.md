@@ -27,3 +27,6 @@ One group of items seems to be locked within boxes, that someone with magical st
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Pride Epitome]] | A magical tome tied to the Archdevil [[Amon]]                                                                                                 |
 
+### Letter from Amon
+
+You are to travel to the place known as "Sage's Hollow". There is a lemure (used derogatorily) who does not know their place their. Make sure to collect his bargain within the month. Go alone.

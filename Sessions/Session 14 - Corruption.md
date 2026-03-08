@@ -2,12 +2,12 @@
 tags:
   - Session
 ---
-### Prev Session Summary
+### Previous Session Summary
 The party makes their way down to city proper, the Colosseum, to register themselves into the Winter Trials. They see many parties of various backgrounds, going from nobility to even the occult. Down their, they met with an eccentric man known as Jaspar Delaware, a pixie cartographer/explorer, who ended up joining the party with the trials.
 
 As the party lined to enter the Underground Halls, where gladiators and parties station themselves before the fight, they were approached by a tiefling man. This tiefling, revealed through this brief encounter, is not a tiefling but a devil who has laid a spell upon Lucky. 
 
-The party is second to participate in the games, after the Ivory Standard (Ilya Tesserson's party, the favorites).
+The party is second to participate in the games, after the Ivory Standard (Ilya Tesseron's party, the favorites).
 
 ### Session Outline
 - Start the session with a mini-recap session and chill. Have players write out 1-2 key motivations for your player to actively work to investigate either by themselves or as a party during downtime for the Winter Trials
@@ -24,3 +24,10 @@ The party is second to participate in the games, after the Ivory Standard (Ilya 
 - At some point, [[Chaos]], now hired by some degenerate gamblers controlled by the wealthy, approach with a letter of proposition. This letter will ask the party to resign from the Winter Trials in exchange for a non-insignificant amount of gold. 
 	- If the party is at home, Chaos will read the letter aloud
 	- If the party is not a home or arrive later in the night, they will receive a letter containing a gold piece each.
+- The party should encounter a drunk and agitated [[Rennin III Meredane]] around the city at night. Rennin III will confront the party about their "attitude" and be openly taunting and hostile. He will call [[Renk the Sorry]], when he feels the least bit threatened. Little does he know, Rennin III is being scryed on without his knowledge. He feels offended that his family would do this, but an official from the family will have teleported and offered an apology and gift. 
+- Beginning of round #2 in [[The Winter Trials]]. The party must face a specifically designed encounter surrounding around their own playstyle, devised by Iyra Valcaryn, an accomplished mage of House [[Valcaryn]], the most powerful mage family in [[Catameria]]. This is a juiced-up Murder Comet.
+
+### Devil's Deal
+It is said that a deal with the devil brings your soul closer to hell. The current mark shown on Lucky's hand depicts a deal that is still binding, it's magical potency is that of a powerful benevolent curse. Nothing short of a ritual dealt with by a diabolist can be used to dispel such a curse.
+- The only well respected diabolist in the city is [[Oswyn LaVey]], an eccentric old tiefling. Enter his character page if the party wishes to learn more about
+

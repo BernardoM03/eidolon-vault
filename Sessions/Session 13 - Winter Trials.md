@@ -21,7 +21,7 @@ Jaspar, you see the ugly and familiar mug of a colleague approaching you. His wh
 
 After this, respond accordingly, and end the conversation with the following
 
-“Snake-Eyes has investors. You interrupted revenue streams. Watch the shadows in this arena. Some losses are engineered.”
+“Snake-Eyes has investors. You interrupted revenue streams.”
 
 ## The Walk In
 Unless their is something you would like to accomplish, I will move the scene forward. About an hour passes as the rest of the teams register in this pseudo opening ceremony for the Trials, but it is time to be introduced to the audience in the Stadium itself. A coordinator in front of the large gate of the colosseum speaks  up. "ALL GROUPS LINE UP IN GROUPS. STICK TO ONE ANOTHER SO THAT YOU DONT GET SEPARATED." The parties begin to shift and move to the gate in tandem. 
