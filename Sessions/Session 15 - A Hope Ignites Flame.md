@@ -1,6 +1,7 @@
 ---
 tags:
   - Session
+  - 3/8/26
 ---
 ### Brief session summary
 The Thundercats easily completed the first round of [[The Winter Trials]], making their way onto the second round on the second day. Before heading home, a bit of social interaction and partying was in order, as you all head to the Laughing Gauntlet's waiting room to hang out for a bit.
@@ -16,7 +17,7 @@ Finally, the morning of the second day arrived. Adelaide, you took your time to 
 The second battle is now underway. An unwavering flame erupts from a small hole in each of the pillars, one by one.
 
 ## The Heat of Battle
-view Falindrith's for the Murder Comet (Blazing State)'s statblock.
+view Falindrith's for the Murder Comet (Blazing State)'s stat block.
 
 The pillars can be deactivated by putting out the flame in each of the pillars. Once all 8 pillars are deactivated, the Murder Comet will be stunned and crash into the ground, making it easy to kill. 
 
@@ -29,6 +30,11 @@ This tavern/bar/restaurant is a themed environment. It is a cultural recreation 
 
 The walk to this tavern isn't far from "Brennly's Home/Colosseum/Temple." The outside streets are comprised of groups of people walking, either going to their favorite restaurant or store or going from work to home. It's a bit of a lively environment. You arrive to this large odd-looking building, the architecture completely separate from the rest of the street. White/grey sandstone walls with ornate chiseling, but based on marks and patterns, it definitely seems to be magically shaped. 
 
-Inside, you can see dozens of people sitting around the tavern room. The flame from the hearth dimly lights the stoney design of the room, offsetting the bright gray with the comforting low lights and warmth. One table large enough to fit all of you seems to be open and empty, with what seems to be a shepherd dog lying down beside. (The dog is Iyra Valcaryn)
+Inside, you can see dozens of people sitting around the tavern room. The flame from the hearth dimly lights the stony design of the room, offsetting the bright gray with the comforting low lights and warmth. One table large enough to fit all of you seems to be open and empty, with what seems to be a shepherd dog lying down beside. (The dog is Iyra Valcaryn)
 
 Irya wishes to speak about Cogsworth, and wants the party to find more about the Meredane. Go to Halandar's Antiques, a store between the Merial Docks and the Promenade. Tell Halandar that you are "Looking for buried artifacts," he'll know what you meant. It'll be an underground market, maybe a bit dangerous, but I'm sure useful. ;
+
+### The Gold Rings
+A band of mercenaries that were hired by Renoux. 
+
+
