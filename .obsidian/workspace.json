@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ideas"
             }
+          },
+          {
+            "id": "f370506be67ce616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +230,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "668159d073944bc8",
+  "active": "f370506be67ce616",
   "lastOpenFiles": [
+    "Ideas.md",
+    "conflict-files-obsidian-git.md",
+    "Sessions/Session 16 - Welcome to Wall Town.md",
+    "Manse de Mortem.md",
+    "Baato's Letter to Oswyn LaVey.md",
     "Sessions/Session 15 - A Hope Ignites Flame.md",
     "Plots and Quests/Case of the Sewer Snatcher.md",
     "Sessions/Session 12 - Snake's Den.md",
@@ -242,10 +262,6 @@
     "Plots and Quests/The Winter Trials.md",
     "Characters/Twila.md",
     "Characters/Baato.md",
-    "Characters/Kaelis.md",
-    "Artifacts/Elkoler, the Ever-Starving Flame.md",
-    "conflict-files-obsidian-git.md",
-    "Places/The Hells.md",
     "Plots and Quests/List of Quests.base",
     "Untitled.base",
     "images/Map images/Warring States of Ennalis.png",
