@@ -2,6 +2,15 @@
 The Bloodstained Knight and other ancient beings who have ascended to spirithood
 A dungeon/battlefield that uses a map
 
+### Six Traits of this World
+Magic has been scientifically studied, and is a measurable and controllable essence of the universe.
+
+Fonts of magic change and shift over time. A wellspring of power that brought a civilization to power can and will fade, reemerging in a new part of the world.
+
+Gods can become mortal and mortals and become gods. It all depends on the way that magic is shaped around an individuals soul.
+
+
+
 ## THINGS TO EXPAND THAT ARE RELEVANT FOR CAMPAIGN 1
 The Quiet Dark, a variation of an ancient sentient spirit representing the unknown. 
 Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from a deal with the devil gone wrong
