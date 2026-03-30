@@ -34,4 +34,4 @@ This attack is a joint coordinated attack between House Meredane and the Gravel 
 
 - What Happened?: A automaton was disguised as a regular civilian, and used as a bomb to plant into the stands. The bomb was specifically designed by a powder smith in the undercity, used to fatally injure and display a message.
 ### Meeting with the Grand Seneschal
-After the events of the battle, the Grand Seneschal of Catameria, Vurn Orleth would like to request the parties presence for a conversation.
+After the events of the battle, the Grand Seneschal of Catameria, [[Vurn Orleth]] would like to request the parties presence for a conversation.
