@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "5af1b2cb510bb39f",
+    "id": "c73e0f7d69610d6d",
     "type": "split",
     "children": [
       {
-        "id": "51c621fd9609533a",
+        "id": "53f844d8486c84ca",
         "type": "tabs",
         "children": [
           {
-            "id": "7319910d320c8169",
+            "id": "668159d073944bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 17 - Rat. Kill. Cat.md",
+                "file": "Sessions/Session 18 - No Rest For the Kittens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 17 - Rat. Kill. Cat"
-            }
-          },
-          {
-            "id": "3a0bf246a0f0599a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Session 18 - No Rest For the Kittens"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "253c19efdb99da25",
+    "id": "f1c7ca158d85cbe4",
     "type": "split",
     "children": [
       {
-        "id": "6ad2a8f64895f9d0",
+        "id": "1acf00e67b366bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f04d6629af2f58",
+            "id": "f91e5091c1db4932",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "cc19ca7adb8a8171",
+            "id": "33370399783e91aa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vurn ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "f12fd8f11433824c",
+            "id": "c30cd4a34c81ad3a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,21 @@
     "width": 300
   },
   "right": {
-    "id": "ba2237b3aab4432f",
+    "id": "4b62274df7374275",
     "type": "split",
     "children": [
       {
-        "id": "5766798961db0480",
+        "id": "59a3c18fbf89f09c",
         "type": "tabs",
+        "dimension": 34.21052631578947,
         "children": [
           {
-            "id": "4172e5727d843f91",
+            "id": "f65c681b8f23f27f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 10 - Coming to Catameria.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 10 - Coming to Catameria"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "03dccef0e6ac3699",
+            "id": "d99d97853565a347",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 9 - The Junction.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 9 - The Junction"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "5c7c6dc933151692",
+            "id": "a6766c4afa2504b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +138,7 @@
             }
           },
           {
-            "id": "081669d0d4824f29",
+            "id": "56c841989dff0bb4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,22 +152,22 @@
             }
           },
           {
-            "id": "efe5810b20c382f5",
+            "id": "5128c265597fa95e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brennly's Home.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brennly's Home"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "e8afb0aa8d8fc929",
+            "id": "c2e7fd798dcb4d8b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -192,74 +178,90 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "18a84ae93b2d47e3",
+        "type": "tabs",
+        "dimension": 65.78947368421053,
+        "children": [
+          {
+            "id": "a3d34aa1e7123761",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3a0bf246a0f0599a",
+  "active": "c2e7fd798dcb4d8b",
   "lastOpenFiles": [
     "Sessions/Session 17 - Rat. Kill. Cat.md",
-    "conflict-files-obsidian-git.md",
+    "Guilds & Groups/Gravel Rats.md",
     "Vurn Orleth.md",
+    "Characters/Renk the Sorry.md",
+    "Sessions/Session 17.md",
     "Sessions/Session 18 - No Rest For the Kittens.md",
-    "Characters/Charles Ward.md",
-    "Sessions/Session 16 - Welcome to Wall Town.md",
-    "Baato's Letter to Oswyn LaVey.md",
-    "Sessions/Session 10 - Coming to Catameria.md",
-    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
+    "Sessions/Session Lists.base",
+    "Places/Catameria.md",
+    "Identity.md",
+    "Magic.md",
+    "Pasted image 20260226125844.png",
+    "Tiefling.md",
     "Places/Manse de Mortem.md",
-    "Places/Castella Grande.md",
+    "Sessions/Session 16 - Welcome to Wall Town.md",
     "Sessions/Session 15 - A Hope Ignites Flame.md",
     "Sessions/Session 14 - Corruption.md",
-    "Sessions/Session 13 - Winter Trials.md",
-    "Sessions/Session 12 - Snake's Den.md",
     "Plots and Quests/The Winter Trials.md",
-    "Plots and Quests/List of Quests.base",
-    "Characters/Amon.md",
-    "Places/Brennly's Home.md",
-    "Plots and Quests/Devil in the Machine.md",
-    "Manse de Mortem.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Characters/Baato.md",
-    "Characters/Rennin III Meredane.md",
-    "Characters/Oswyn LaVey.md",
-    "Sessions/Session Lists.base",
-    "Guilds & Groups/Armorer and Crafter's Guild.md",
-    "Places/Catameria.md",
+    "Sessions/Session 13 - Winter Trials.md",
+    "Ideas.md",
+    "conflict-files-obsidian-git.md",
+    "Baato's Letter to Oswyn LaVey.md",
+    "Plots and Quests/Case of the Sewer Snatcher.md",
+    "Sessions/Session 12 - Snake's Den.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
     "images/Map images/Pasted image 20260228215455.png",
-    "Pasted image 20260226125844.png",
+    "Artifacts/Grey King's Body.md",
+    "Artifacts/Grey King's Crown.md",
+    "Guilds & Groups/Noble Houses of Catameria.md",
+    "Characters/Character List.base",
+    "Characters/Oswyn LaVey.md",
+    "Plots and Quests/List of Quests.base",
     "Untitled.base",
-    "Writing",
-    "Sessions/Beyond the Valley of the Sage.base",
+    "images/Map images/Warring States of Ennalis.png",
+    "images/Map images/Catamerian Sewer Dungeon.png",
+    "eidolon-vault",
     "Artifacts/Artifacts and Magic Items.base",
     "Artifacts",
-    "eidolon-vault/Sessions/Session Base.base",
-    "eidolon-vault/Sessions",
-    "eidolon-vault/Plots and Quests/List of Quests.base",
-    "eidolon-vault/images/Statblock imgs/Renk the Sorry.png",
-    "eidolon-vault/images/Statblock imgs/Ogre.png",
-    "eidolon-vault/images/Statblock imgs/Manticore.png",
-    "eidolon-vault/images/Statblock imgs/Hadozee Shipmate.png",
-    "eidolon-vault/images/Statblock imgs/Escanor.png",
-    "eidolon-vault/images/Statblock imgs/CrystalBack Dragon.png",
-    "eidolon-vault/images/Statblock imgs/Budding Harrower.png",
-    "eidolon-vault/images/Map images/Warring States of Ennalis.png",
-    "Untitled.canvas"
+    "Writing",
+    "images/profile images/Renk the Sorry.png",
+    "images/Statblock imgs/Renk the Sorry.png",
+    "images/profile images/Renk, the Oni.png",
+    "images/profile images",
+    "images",
+    "images/Map images/Catameria Diagram.png",
+    "remote-repo/publish/attachments/vercel-project-id.png",
+    "remote-repo/publish/attachments/vercel-create-token.png"
   ]
 }
