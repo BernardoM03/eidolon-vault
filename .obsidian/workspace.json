@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Session 17 - Rat. Kill. Cat"
             }
+          },
+          {
+            "id": "3a0bf246a0f0599a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +212,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319910d320c8169",
+  "active": "3a0bf246a0f0599a",
   "lastOpenFiles": [
-    "Sessions/Session 16 - Welcome to Wall Town.md",
     "Sessions/Session 17 - Rat. Kill. Cat.md",
+    "conflict-files-obsidian-git.md",
+    "Vurn Orleth.md",
+    "Sessions/Session 18 - No Rest For the Kittens.md",
+    "Characters/Charles Ward.md",
+    "Sessions/Session 16 - Welcome to Wall Town.md",
     "Baato's Letter to Oswyn LaVey.md",
     "Sessions/Session 10 - Coming to Catameria.md",
     "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
-    "conflict-files-obsidian-git.md",
     "Places/Manse de Mortem.md",
     "Places/Castella Grande.md",
     "Sessions/Session 15 - A Hope Ignites Flame.md",
@@ -224,10 +242,7 @@
     "Sessions/Session Lists.base",
     "Guilds & Groups/Armorer and Crafter's Guild.md",
     "Places/Catameria.md",
-    "Places/City of Catameria/Catavale South (Yards).md",
-    "Ideas.md",
     "images/Map images/Pasted image 20260228215455.png",
-    "Guilds & Groups/Tesseron.md",
     "Pasted image 20260226125844.png",
     "Untitled.base",
     "Writing",
