@@ -28,7 +28,7 @@ Once the fairies have consumed 3 charges, they can no longer consume any charges
 ### Attack on the Stadium
 Outside of the first combat onto the party here, there will be another attack on the stands, separate from the Winter Trials entirely.
 
-On the first round of combat at Initiative 0, a large explosion will be heard about 60 ft away from Twila. This will be followed by screams. 
+On the first round of combat at Initiative 0, a large explosion will be heard about 60 ft away from Twila. This explosion will be protected by High Wizard of Abjuration Helena, Twila's master. As this explosion is protected, Twila will see a robed man 
 
 This attack is a joint coordinated attack between House Meredane and the Gravel Rats, with possible smuggling ties to Renoux. Most of this evidence will be well covered up though. Left of the scene, will be a piece of scrap metal that hinges as an automaton. 
 

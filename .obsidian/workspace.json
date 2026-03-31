@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 16 - Welcome to Wall Town.md",
+                "file": "Sessions/Session 17 - Rat. Kill. Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 16 - Welcome to Wall Town"
-            }
-          },
-          {
-            "id": "b5e9a47628ac1a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "373758ebf451d623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manse de Mortem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manse de Mortem"
+              "title": "Session 17 - Rat. Kill. Cat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,11 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5e9a47628ac1a5f",
+  "active": "7319910d320c8169",
   "lastOpenFiles": [
     "Sessions/Session 16 - Welcome to Wall Town.md",
+    "Sessions/Session 17 - Rat. Kill. Cat.md",
+    "Baato's Letter to Oswyn LaVey.md",
+    "Sessions/Session 10 - Coming to Catameria.md",
+    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
     "conflict-files-obsidian-git.md",
-    "Sessions/Session 17.md",
     "Places/Manse de Mortem.md",
     "Places/Castella Grande.md",
     "Sessions/Session 15 - A Hope Ignites Flame.md",
@@ -241,16 +215,13 @@
     "Plots and Quests/List of Quests.base",
     "Characters/Amon.md",
     "Places/Brennly's Home.md",
-    "Sessions/Session 10 - Coming to Catameria.md",
     "Plots and Quests/Devil in the Machine.md",
     "Manse de Mortem.md",
     "Guilds & Groups/Gravel Rats.md",
     "Characters/Baato.md",
-    "Baato's Letter to Oswyn LaVey.md",
     "Characters/Rennin III Meredane.md",
     "Characters/Oswyn LaVey.md",
     "Sessions/Session Lists.base",
-    "Sessions/Session 11 - The Case of the Sewer Snatcher.md",
     "Guilds & Groups/Armorer and Crafter's Guild.md",
     "Places/Catameria.md",
     "Places/City of Catameria/Catavale South (Yards).md",
