@@ -34,9 +34,24 @@
               "icon": "lucide-file",
               "title": "Plotline"
             }
+          },
+          {
+            "id": "b91a912d58d2819d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Sessions/Session 18 - No Rest For the Kittens.md",
+                "bFile": "Sessions/Session 18 - No Rest For the Kittens.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Session 18 - No Rest For the Kittens  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,12 +245,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3d33b3e9a4f6a109",
+  "active": "b91a912d58d2819d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sessions/Plotline.md",
     "Sessions/Session 19 - Night of the Thousand-Man Swarm Pt. 1.md",
     "Sessions/Session 18 - No Rest For the Kittens.md",
     "Sessions/Session Lists.base",
-    "Sessions/Plotline.md",
     "Sessions/Session 17 - Rat. Kill. Cat.md",
     "Sessions/Session 16 - Welcome to Wall Town.md",
     "Characters/Renk the Sorry.md",
@@ -257,7 +273,6 @@
     "Plots and Quests/The Winter Trials.md",
     "Sessions/Session 13 - Winter Trials.md",
     "Ideas.md",
-    "conflict-files-obsidian-git.md",
     "Baato's Letter to Oswyn LaVey.md",
     "images/Map images/Pasted image 20260228215455.png",
     "Characters/Character List.base",
