@@ -4,7 +4,7 @@ tags:
   - 1/11/26
 ---
 ## Maere, the Junction Town
-Emerging from the forest, you enter an open grassland, plenty of flowers, tall grass, and sparse trees providing shade. The sunny weather and lack of clouds look beautiful in this area, and gives you the perfect view of a small Thorp about 1-2 miles ahead. This is [[Maere, Junction Town]], a small junction town mainly known as an adventurer/trader hub as they move further south.
+Emerging from the forest, you enter an open grassland, plenty of flowers, tall grass, and sparse trees providing shade. The sunny weather and lack of clouds look beautiful in this area, and gives you the perfect view of a small Thorp about 1-2 miles ahead. This is [[Maere]], a small junction town mainly known as an adventurer/trader hub as they move further south.
 
 The party can stop by The Stonewatch Outpost, the Bending Willow Inn, or the Gristle & Grain General Store.
 
