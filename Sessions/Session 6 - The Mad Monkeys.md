@@ -54,3 +54,5 @@ He knows the following info:
 - He heard them mention “the Catamerian contact” but does not know who that is
 - If the party mentions the letter given the alias RRR, he would not know who it could stand for.
 - He will offer the party 250 gold pieces in payment for the rescuing of the Lighthouse
+
+

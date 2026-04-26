@@ -2,7 +2,7 @@
 tags:
   - Session
 ---
-### Previous Session Summary
+ ### Previous Session Summary
 The party makes their way down to city proper, the Colosseum, to register themselves into the Winter Trials. They see many parties of various backgrounds, going from nobility to even the occult. Down their, they met with an eccentric man known as Jaspar Delaware, a pixie cartographer/explorer, who ended up joining the party with the trials.
 
 As the party lined to enter the Underground Halls, where gladiators and parties station themselves before the fight, they were approached by a tiefling man. This tiefling, revealed through this brief encounter, is not a tiefling but a devil who has laid a spell upon Lucky. 

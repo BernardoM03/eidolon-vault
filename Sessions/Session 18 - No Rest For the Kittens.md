@@ -42,3 +42,6 @@ At this point, Vurn will sense the tension and try to cut it. "Are you done pest
 
 "But you also didn't pay your guards well enough to keep me out."
 
+### Dinner with Lucky's Dad
+
+###
