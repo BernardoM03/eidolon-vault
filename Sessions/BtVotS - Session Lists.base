@@ -14,3 +14,5 @@ views:
       - file.tags
     sort: []
     summaries: {}
+    columnSize:
+      file.name: 361
