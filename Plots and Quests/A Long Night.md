@@ -16,7 +16,7 @@ Crowley is a founding member of the New Gravel Rats, and has known Big Chuck lon
 
 He will sit back and command his squad to attack smartly in the dim-light of the night. What Crowley doesn't know about is Renk, a wildcard sent by House [[Meredane]]. Whether Renk will help or harm, that is purely up to the discretion of this terrifyingly mad brute.
 
-Renk is here on his master's orders. Not his beloved master of course, but the strange master. The master who hides his body within a shiny gem. No, no no... If his beloved master were to know he was here, he would have 50 lashings a day for the week. The thought terrified and excited him. But for now, Renk would need to secure the strange metal man. Hopefully he would not have to fight, but he would crush anyone in his way.
+Renk is here on his master's orders. Not his beloved master of course, but the strange master. The master who hides his body within a shiny gem. No, no no... If his beloved master were to know he was here, he would have 50 lashings a day for the week. The thought terrified and excited him. But for now, Renk would need to secure the strange metal man. Renk believes he can be smart like his masters, and propose a deal, but he would crush anyone in his way. 
 ### Outcome
 Depending on the outcome of this, the following sessions can change. I hope to have the Night of a Thousand Rats be a three part session, concluding the plot line of Big Chuck.
 
@@ -25,4 +25,4 @@ Depending on the outcome of this, the following sessions can change. I hope to h
 **Crowley's Success**. This means getting at least 1-2 members of the party captured or killed. This is what Crowley considers to be a strong result, but unless Lucky is among them, Big Chuck still considers this a failure. Crowley will not die, but he will be put out of commission by Big Chuck. Either way, the night will continue and there will be no rest until this is resolved.
 
 ### Malsael the Banished
-This lumbering [[Cambion]] is more fearsome than most in Catameria have ever even imagined, but willfully follows the command of Big Chuck. That alone is proof of the strength that Ward possesses. Malsael's relationship to Big Chuck in this regard is due to his innate devil's respect for tyranny tied to his human capacity for love. The deranged relationship is the closest thing he can 
+This lumbering [[Cambion]] is more fearsome than most in Catameria have ever even imagined, but willfully follows the command of Big Chuck. That alone is proof of the strength that Ward possesses. Malsael's relationship to Big Chuck in this regard is due to his innate devil's respect for tyranny tied to his human capacity for love. The deranged relationship is the closest thing he has to any sort of connection, so his devotion is absolute.

@@ -1,5 +1,0 @@
----
-tags:
-  - Session
----
-### Big Chuck
