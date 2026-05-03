@@ -81,6 +81,7 @@ Crowley will retreat if he approaches 50% HP. If 3+ of his Murderer's die, he wi
 Stays invisible as constantly as possible. Will threaten the party to get more information about "the original design." He will offer to "kill the pests" for the party as a show of good faith. There is a bit of a puzzle in the language barrier here that the party must decipher. Once they know what he wants, the party can negotiate and easily convince him to join their side.
 - +9 to hit, 2 attacks with 1d12+6 + 1d8 necrotic claw or 2d6+2 with Frighten ray.
 - AC 14, 127 HP, 30ft movement, Invisibility as a bonus action
+- [[eidolon-vault/Characters/Renk the Sorry|Renk the Sorry]]
 
 **Renk's Language Barrier**
 Renk: Self-referring pronouns
@@ -116,7 +117,7 @@ If the party made a deal with Renk, they could accompany him to the Stone Crown 
 
 The giant, awkward and erratic in his hand movements, shapes strands of ink and shadow within his fingers. It spreads it across the area, linking  to you all to a Pass Without a Trace. Your footsteps leave no sound or trace, and the light does not cast your shadow. 
 
-You quickly leave Goodbarrel Ave and make your way north, to the Verdure District. As you reach the main gates,  each of you hear Renk's whisper behind you. "Tell the guard you've just come back from a long day of fishing." [roleplay moment here]
+You quickly leave Goodbarrel Ave and make your way north, to the Verdure District. As you reach the main gates, each of you hear Renk's whisper behind you. "Tell the guard you've just come back from a long day of fishing." [roleplay moment here]
 
 The walk through the Verdure District goes by simply. The well-lit streets are extraordinarily clean, the pathways made of ornately carved black slate. The houses here range from large to absurd. Some of the smaller houses contain decorative lanterns, as you would see in the Lantern Ward, but you know these people are performative posers. [roleplay moment here]
 
