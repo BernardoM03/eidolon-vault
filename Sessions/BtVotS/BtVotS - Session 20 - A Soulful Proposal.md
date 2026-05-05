@@ -28,8 +28,13 @@ The coin stills between his fingers. His posture straightens and his shoulders r
 
 "Well how does 2,000 gold pieces for each automaton brought back whole sound? That and I can answer any questions you may have about their creation."
 
+## Baeldric's Manor
+Adelaide felt a strong pull in her mind pushing herself to a specific manor on the Northern Cliffs of the city. This is the manor of Baeldric Vauldra, a character that seemed to keep popping up around the city. Picking the gate lock to enter, the party knocks on the door to meet with the eccentric personality. They do not know, but this is the persona of [[Baato]], a Rakshasa. This is the man who is behind Sage's Hollow, and the devil behind their escape to the city.
 
+Adelaide has questions, wondering why she feels this pull, but Baato feigns ignorance. Twila is able to dispel Nystul's Magic Aura, revealing powerful illusion magic surrounding the man. He kindly asks them to leave.
 ## Malsael the Banished
 Lucky, you know that Malsael, the Banished, is the inevitable solution to Big Chuck's problems. While you've never laid your own eyes upon him (thankfully), you have heard stories of the debt collections. An enormous figure with infernal red skin patterned with sleeves of tattoos and large dark-leather wings, stooped upon a ledge to drop from above. These stories pass as nightmares through the criminal underbelly of the city, and for the last few years this has likely been a nightmare for you as well. Not anymore, as if descending from the rising sun himself, you hear the swoosh of wings and see the streak of red and black, followed by a crash onto the floor as Malsael lands before you, as stoic as a statue.
 
-"My job is your extermination. Ready yourselves." Roll initiative.
+"My job is your extermination. Ready yourselves." Roll initiative. The fight goes dangerously, with Malsael consistently knocking down the Thunder Cats, but his attacks are not enough to keep up with the healing. He falls, shot down by Jaspar Delaware.
+### Revealing Baato
+In the aftermath of the fight, Baeldric leaves the house and casts a grand illusion to cover what happened on this city street. In doing so, he also reveals his identity after being asked, seeing that there is little harm in his own plan in doing so. He would rather KNOW that the party hates him and will take options in spite of him, so he can better predict their options and decisions. 
