@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guilds & Groups/Gravel Rats.md",
+                "file": "Plots and Quests/The Winter Trials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gravel Rats"
+              "title": "The Winter Trials"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
+                "file": "Winter Trials - Participant's Handbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BtVotS - Session 21 - An Unwanted Ally"
+              "title": "Winter Trials - Participant's Handbook"
             }
           }
         ],
@@ -230,14 +230,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f91e5091c1db4932",
+  "active": "1f9568bd3b15e4c8",
   "lastOpenFiles": [
-    "Artifacts/Grey King's Codex.md",
-    "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
-    "Plots and Quests/A Long Night.md",
-    "Sessions/BtVotS/BtVotS - Session 20 - A Soulful Proposal.md",
-    "Places/City of Catameria/Stone Crown.md",
     "Plots and Quests/The Winter Trials.md",
+    "Winter Trials - Participant's Handbook.md",
+    "Guilds & Groups/Gravel Rats.md",
+    "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
+    "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
+    "Sessions/BtVotS/BtVotS - Session 20 - A Soulful Proposal.md",
+    "Sessions/BtVotS/BtVotS - Session Lists.base",
+    "Artifacts/Grey King's Codex.md",
+    "Plots and Quests/A Long Night.md",
+    "Places/City of Catameria/Stone Crown.md",
     "Plots and Quests/Grande Finale.md",
     "Sessions/BtVotS/BtVotS - Session 19 - A Long Night pt. 1.md",
     "Artifacts/Basic Magic Items/Voltaic Twinblades.md",
@@ -257,11 +261,7 @@
     "Plots and Quests/List of Quests.base",
     "Cambion.md",
     "Writing/Untitled.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Sessions/BtVotS/BtVotS - Session Lists.base",
     "Sessions/BtVotS/BtVotS - Session 12 - The Case of the Sewer Snatcher pt.2.md",
-    "Sessions/BtVotS/BtVotS - Session 17 - Rat. Kill. Cat.md",
-    "Cosmology.md",
     "Pasted image 20260226125844.png",
     "images/Map images/Pasted image 20260228215455.png",
     "Characters/Character List.base",

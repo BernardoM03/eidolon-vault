@@ -10,6 +10,7 @@ The Trials originated 147 years ago under King Lyle III. At that time, the king 
 
 In modern times, the Trials are a blend of politics, commerce, and spectacle. Noble Houses sponsor teams, merchants flood the arena district, and thousands gather to watch up-and-coming combatants display their potential. This year, the Winter Trials is officially recognizing contestants from [[Dimming]] as well, as a form of good will to the lower class.
 
+[[Winter Trials - Participant's Handbook]]
 ### Rules
 The Trials take place over seven days. Competitors enter as groups of 2-5 adventurers (summons excluded). Teams are sorted into two divisions:
 - Journeyman Division: rising adventurers, new companies, young nobles, military trainees
