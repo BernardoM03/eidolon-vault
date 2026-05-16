@@ -55,6 +55,6 @@ All of these teams now will be treated to the highest hospitality that [[Catamer
 | ------------------------- | ------------------------------------------------------------------------------- |
 | [[Thunder-Cats]]          | Adelaide Harbour, Atar Delenethos, Cogsworth, Jaspar Delaware, Lucky, and Twila |
 | [[The Laughing Gauntlet]] | Eliza the Shatterspear, Johan of the Laughing Gauntlet, Carlos                  |
-| [[The Swamp Things]]      | Bloodman, Boneman, Bodyman, and Soulman                                         |
+| [[The Gold Rings]]        |                                                                                 |
 | [[The Ivory Standard]]    | Ilya Tesseron, Jaq Twotree, and 3 unnamed party members                         |
-The Thunder-Cats will fight the teams in order going down, starting with [[The Laughing Gauntlet]] and ending with [[The Ivory Standard]]. Over the course of these days, there will be increasing levels of involvement into the games by [[Baato]], who hopes to have the party win so that he may take a royal wish for himself. He will claim a planar tuning fork from the Royal Vault, so that he may complete his deal with Amon
+The Thunder-Cats will fight the teams in order going down, starting with [[The Laughing Gauntlet]] and ending with [[The Ivory Standard]]. Over the course of these days, there will be increasing levels of involvement into the games by [[Baato]], who wishes to help the party as a form of good will. He does not know about the Grey Kings Codex.

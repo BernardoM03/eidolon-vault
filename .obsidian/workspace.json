@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "668159d073944bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots and Quests/The Winter Trials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Winter Trials"
-            }
-          },
-          {
             "id": "1f9568bd3b15e4c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter Trials - Participant's Handbook.md",
+                "file": "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Winter Trials - Participant's Handbook"
+              "title": "BtVotS - Session 22 - BIG CHUCK VS THE WORLD"
             }
           },
           {
-            "id": "6ef6653549901ec1",
+            "id": "d009f0ad1533fef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Grey King.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Grey King"
+            }
+          },
+          {
+            "id": "ca97c078b5f10bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BtVotS - Session 22 - BIG CHUCK VS THE WORLD"
             }
           }
         ],
@@ -244,38 +244,38 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6ef6653549901ec1",
+  "active": "ca97c078b5f10bfd",
   "lastOpenFiles": [
-    "Winter Trials - Participant's Handbook.md",
-    "conflict-files-obsidian-git.md",
-    "Plots and Quests/The Winter Trials.md",
-    "Guilds & Groups/Gravel Rats.md",
-    "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
+    "Artifacts/Grey King's Codex.md",
     "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
+    "Characters/Sol'aar, the Eternal Flame.md",
+    "Grey King.md",
+    "Boz'Kumlar Desert.md",
+    "Artifacts/Grey King's Body.md",
+    "Homebrew.md",
+    "Places/Empire of Balat.md",
+    "Divine Tower of Greylinn.md",
+    "Places/Divine Empire of Greylinn.md",
+    "Guilds & Groups/The Fang.md",
+    "Divine Empire of Guilland.md",
+    "Places/Warring States.md",
+    "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
+    "Plots and Quests/The Winter Trials.md",
+    "Winter Trials - Participant's Handbook.md",
+    "Artifacts/Elkoler, the Ever-Starving Flame.md",
+    "Characters/Kaelis.md",
+    "conflict-files-obsidian-git.md",
+    "Guilds & Groups/Gravel Rats.md",
     "Sessions/BtVotS/BtVotS - Session 20 - A Soulful Proposal.md",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
-    "Artifacts/Grey King's Codex.md",
     "Plots and Quests/A Long Night.md",
     "Places/City of Catameria/Stone Crown.md",
     "Plots and Quests/Grande Finale.md",
     "Sessions/BtVotS/BtVotS - Session 19 - A Long Night pt. 1.md",
     "Artifacts/Basic Magic Items/Voltaic Twinblades.md",
     "Artifacts/Basic Magic Items",
-    "Characters/Brennly Wriggle.md",
-    "Characters/Amon.md",
-    "Artifacts/Pride Epitome.md",
-    "Places/Catameria.md",
-    "Guilds & Groups/Merion.md",
-    "Guilds & Groups/Noble Houses of Catameria.md",
-    "Sessions/BtVotS/BtVotS - Plotline.md",
-    "Characters/Rennin Meredane.md",
-    "Plots and Quests/Devil in the Machine.md",
-    "Characters/Renk the Sorry.md",
-    "Sessions/BtVotS/BtVotS - Session 13 - Winter Trials.md",
     "Sessions/BtVotS",
     "Plots and Quests/List of Quests.base",
-    "Cambion.md",
-    "Writing/Untitled.md",
     "Pasted image 20260226125844.png",
     "images/Map images/Pasted image 20260228215455.png",
     "Characters/Character List.base",

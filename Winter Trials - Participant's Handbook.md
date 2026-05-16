@@ -1,5 +1,5 @@
 
-Congratulations, you are participating in this kingdom's greatest cultural festival, the Winter Trials. 
+Congratulations, you are participating in this kingdom's greatest cultural festival, [[The Winter Trials]]
 ### A History
 The Trials originated 147 years ago under King Lyle III. At that time, the king sought a method to measure the strength of upcoming adventurers without sending them away from Catameria. It was decided to be a series of duels and magical demonstrations, slowly evolving into the party-based combat of today. The introduction of the Royal Boon, a single wish or request granted by the Crown, solidified the Trials as the most influential martial festival in the kingdom.
 ### Rules
