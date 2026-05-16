@@ -22,12 +22,9 @@ Baato, a Rakshasa, cheated the Archdevil Amon in a deal to gain a legion of 108 
 ## Themes for potential campaigns
 - The true seeker of knowledge is a villain who sacrifices much for their goal. I have studied this world for hundreds of years, and in that time I have done countless acts that some would deem unthinkable. You may find that repulsive, but remember that I have been able to offer you something you seek, precisely because I am a villain. Because of what I have done. 
 - Flesh and mortality is a cage that hinders us from our true potential.
-- ![[Pasted image 20260226125844.png]]
+
 ## Puzzle Notes
 Humans are more likely to remember things that are associated with common symbols and objects. For example “pig” is more memorable than “truth.”
-
-## Escanor and Rafi 
-After the events of the party going to the South Point Lighthouse, the party allows Escanor and one of his crewmen off with their lives. The party should be able to run into these two later, perhaps changing their perspective on life a bit. For the meantime, he’s heading towards the city to finish off his last responsibilities. 
 
 ## A MLM Pyramid Scheme Guild
 Children of Catameria, a guild of contractors under contractors that functions almost entirely like a pyramid scheme. Run by the fabulous Juliana Cromwell, a 70 year old female human merchant.
@@ -36,44 +33,13 @@ She has very long, braided, auburn hair and cyan eyes. She has rough white skin.
 
 Inspired by Fabulous Five from D:OS1
 
-## NPC who is hard of hearing
-He will say something, and when the party repeats it back to them, he will say “what are you saying.” After about 1 second, he’ll be like “Oh you meant [this]” and pronounce it the same exact way. 
-
-Inspired by Cecil from D:OS1
-
 ## Drugs
 Burnweed - Depressant, used in Dimming as the main drug of choice, peddled commonly by the Fang
 Pinktail - Highly Addictive, newly created, peddled more recently by Big Chuck to keep Dimming under control.
 Boyne - Hallucinogen, allows users to access unwanted parts of the brain, altering judgement
 Alice - Hallicinogen, with LOTS of hallucinations
 Blackpowder - 
-## Mindless Brute under Noble Leadership
-Ogre Statblock with Multiattack
 ## Slime Farms
 Villages out in lots of open space can farm slimes, small non-violent creatures
 ## Houken-inspired enemy
 A character who does not care about anything but fighting,**
-
-Random Shops
-|1d20|Type|
-|---|---|
-|1|Pawnshop|
-|2|Apothecary|
-|3|Grocer|
-|4|Delicatessen|
-|5|Potter|
-|6|Undertaker|
-|7|Bookstore|
-|8|Moneylender|
-|9|Armorer|
-|10|Chandler|
-|11|Smithy|
-|12|Carpenter|
-|13|Weaver|
-|14|Jeweler|
-|15|Baker|
-|16|Mapmaker|
-|17|Tailor|
-|18|Ropemaker|
-|19|Mason|
-|20|Scribe|
