@@ -10,5 +10,5 @@ Calculating, cruel, but hot-headed. Kaelis enjoys testing mortals’ limits and 
 
 Kaelis is the main devil in charge of hunting [[Alorus]], and is fervent in doing so. At the beginning, he lost track of him, but he is quickly on their tails, suspecting that they had gone up North after checking [[Gristwell]]. Kaelis has a desperate and obsessed one-sided affection for [[Baato]], and a big reason he is chasing Alorus is because he is jealous of the attention that Alorus had. Kaelis also has a deep platonic love for [[Veyra]].
 
- Kaelis wields the magical artifact [[Elkoler, the Ever-Starving Flame]]. Elkoler is Awakened by Kaelis, but will enter an Exalted state if Kaelis kills Alorus.
+ Kaelis wields the magical artifact [[Elkoler, the Ever-Starving Flame]]. Elkoler is Awakened by Kaelis, but will enter an Exalted state if Kaelis kills Alorus or if Baato is killed forever..
 

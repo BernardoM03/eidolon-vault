@@ -10,6 +10,7 @@ The Trials originated 147 years ago under King Lyle III. At that time, the king 
 
 In modern times, the Trials are a blend of politics, commerce, and spectacle. Noble Houses sponsor teams, merchants flood the arena district, and thousands gather to watch up-and-coming combatants display their potential. This year, the Winter Trials is officially recognizing contestants from [[Dimming]] as well, as a form of good will to the lower class.
 
+[[Winter Trials - Participant's Handbook]]
 ### Rules
 The Trials take place over seven days. Competitors enter as groups of 2-5 adventurers (summons excluded). Teams are sorted into two divisions:
 - Journeyman Division: rising adventurers, new companies, young nobles, military trainees
@@ -54,6 +55,6 @@ All of these teams now will be treated to the highest hospitality that [[Catamer
 | ------------------------- | ------------------------------------------------------------------------------- |
 | [[Thunder-Cats]]          | Adelaide Harbour, Atar Delenethos, Cogsworth, Jaspar Delaware, Lucky, and Twila |
 | [[The Laughing Gauntlet]] | Eliza the Shatterspear, Johan of the Laughing Gauntlet, Carlos                  |
-| [[The Swamp Things]]      | Bloodman, Boneman, Bodyman, and Soulman                                         |
+| [[The Gold Rings]]        |                                                                                 |
 | [[The Ivory Standard]]    | Ilya Tesseron, Jaq Twotree, and 3 unnamed party members                         |
-The Thunder-Cats will fight the teams in order going down, starting with [[The Laughing Gauntlet]] and ending with [[The Ivory Standard]]. Over the course of these days, there will be increasing levels of involvement into the games by [[Baato]], who hopes to have the party win so that he may take a royal wish for himself. He will claim a planar tuning fork from the Royal Vault, so that he may complete his deal with Amon
+The Thunder-Cats will fight the teams in order going down, starting with [[The Laughing Gauntlet]] and ending with [[The Ivory Standard]]. Over the course of these days, there will be increasing levels of involvement into the games by [[Baato]], who wishes to help the party as a form of good will. He does not know about the Grey Kings Codex.
