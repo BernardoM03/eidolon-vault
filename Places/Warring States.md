@@ -5,5 +5,3 @@
 [[Kingdom of Asameria]]
 [[Roanese Dominion]]
 [[State of Kin]]
-
-![[Warring States of Ennalis.png]]
