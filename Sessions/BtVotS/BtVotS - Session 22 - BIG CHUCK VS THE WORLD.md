@@ -55,6 +55,16 @@ This underground establishment looks nice and exclusive. Wooden tables finished 
 
 She leads you to the end of the room, beyond another closed off section protected by two guards in scale-mail. A finely dressed older woman with straight black hair in a large silver jacket and beautiful dark-green dress seems to sit at a booth talking with two others. A middle aged man  in a simple suit that bears striking resemblance to the woman, likely her son, and a rugged woman in her 40s wearing half-armor and guard uniform.
 
+### Lady Usah
+A tall yuan-ti pureblood woman in her early 60s with straight black hair and a smooth unreadable face. She speaks softly with a calm, unhurried cadence. She oversees all Fang operations and makes major political decisions in Dimming. She was married to Theklu Usah, but had him killed. Her relationship with her children is rocky, but as she will still provide the love and protection of a mother, they will still offer her the respect she deserves as head of the Fang.
+
+Lady Usah is here to offer the Thundercats support in this arrangement between the three parties.
+- She refers to the Meredane party as "the Meredane boy," showing no knowledge of Rennin I
+- She is stern but shows respect as people who stand up against the Big Chuck Gravel Rats. The "degeneracy of the youth has caught up to Catameria."
+- "You will handle Big Chuck, we will handle the rest of the Gravel Rats."
+
+After the conversation is complete, she will call over one of her guards to escort them down to Wall Town through a secret entrance within the Viper's Nest. She will also provide a small bag of rings. They are non-attunement items but they are signs of respect given to those who accomplish great deeds to the Usah family. Silver rings inlaid with green gemstone.  
+
 ## A Trip to Wall-Town
 You hear it with the first step you take down the stairs. Music with too much bass, voices bouncing off stone walls, the roar of a drunk crowd. The air smells of spiced liquor, pipe smoke, and something grilling over an open flame somewhere deeper in. This is similar, but different from the last time you were here.
 
