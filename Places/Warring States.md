@@ -5,3 +5,5 @@
 [[Kingdom of Asameria]]
 [[Roanese Dominion]]
 [[State of Kin]]
+
+A part of this conflict is shown in [[Untitled Rostran Balatan War One Shot]], a one shot.
