@@ -7,6 +7,7 @@ Some would think that because Big Chuck has other's do his bidding, that he is i
 
 Because of that, Big Chuck is furious. But, they are all just worms in the ground. There is no reason to be blinded by his rage, but there must be a way keep his reputation if he is to remain the Underground King of Catameria. A show of strength. A fair duel between Big Chuck and the perpetrators, to prove his superiority and get rid of those worms all at once. All he'll need is little bit of... motivation, perhaps a friend or loved one?
 
+
 ## A Counsel with The Grey King
 Atar, in your wake and in your rest, you are wise enough to find yourself drifting to this newly appended artifact more than you should be. It doesn't seem to be impacting you, but you find it trying to draw you in. It has noticed your interest in it, and responds with an interest in you. In the night, feel a drawing pulse from within. It is strange, but it almost feels like an attunement procedure.
 
@@ -27,7 +28,6 @@ Once Atar kneels, the Grey King will acknowledge him as a servant. One he acknow
 - "There are more who share your goal? Then I assign you a task humble Atar. Find a way to bring them here, with you. I wish to speak with them. "
 ## Meredane Deal
 [It is my job as a DM to add consequences to the decisions of my players, and that means calling obvious bluffs. Currently, they have made a deal with Rennin I about recovering the robots, and they accepted. Rennin I needs those robots, so he has a second plan. The Fang. I expect the party to have forgotten about them, so why don't we remind them.]
-
 ### Sending Stone In the Morning
 In the morning, whoever was holding onto the sending stone given to you by Rennin I, you get a message.
 - "Good morning. Do you receive this message?"
@@ -35,58 +35,122 @@ In the morning, whoever was holding onto the sending stone given to you by Renni
 - "I would like for you to meet someone like-minded in their hate for Big Chuck at an establishment known as the Old Sluice, in the Promenade. Go and order a 'Pinktail in a Balatan glass,' they'll know what to do."
 
 ### Leaving the House
-A small parcel is left outside the house, addressed to Adelaide. A small note hangs atop, "Something that could be of use."
+A parcel outside for Adelaide.
+- Simple fabric packaging.
+- Note that says "Something that could be of use."
 - Inside is a nostalgic item from Sage's Hollow, a wood carved totem that can be used as a necklace. It functions as a +2 Bloodwell Vial.
 
+[The Promenade] : busy and backed with tourists and shoppers. Some will recognize The Thundercats from the Winter Trials
 ### The Old Sluice
-A bar at the north west corner of [[The Promenade]]. This is quite the regular tavern, but hidden underneath is another, finer, more criminal lounge by the name of “The Viper’s Nest.” This acts as the work place for the Fang, for members and mercenaries to gather, relax, and get assigned new tasks. The current password is I’ve come to renegotiate our deal, and rarely changes. 
+*A regular tavern on the surface. [[The Fang]] operations lounge below. The party needs access to Lady Usah to formalize the deal against Big Chuck and the Gravel Rats.*
 
-You head down the busy streets, flanked by tourists, workers, and hustlers, and appear before a quaint but elegant tavern. A large sign above fosters a black background and simple text: The Old Sluice. The entryway is made of mossy stone, with two large iron-enforced doors open. As you enter, the tavern room gets colder. The main floor is cramped, effectively a large and long hallway with tables lining one wall. A few groups seem to be sitting down, in their own conversations. The bar is empty except for one woman who seems to be manning it, as expected for so early in the day.
-- The woman is Nessa, a young yuan-ti pureblood born within the City. She used to live in Dimming, but was rescued by the Fang. She works here as a form of her own repayment, since she can't offer much else. She's personable and can hold a conversation. 
-- Nessa has deep black hair, tied to the back with a bun. She wears a heavy-fabric tank top and thicky baggy trousers. The lack of sleeves reveal an inconsistent pattern of shimmering silver scales that climbs her tricep, up her back and wrapping torwards the upper parts of her neck.
-- "Heyy, aren't you those guys who're competing in the Trials right now? Damn impressive. You mind signing the wall?" as she points
-- Nessa will respond to the pass phrase by looking a bit surprised. "You didn't seem the type. Alrighty, coming right up. Pinktail in a Balatan Glass." As she opens the back door. She looks back to the regulars. "Hey dipshits. I'll be back in a few, listen to Alex. And I BETTER not see shit when I get back."
+A large sign above fosters a black background and simple text: The Old Sluice. The entryway is made of mossy stone, with two large iron-enforced doors open. The tavern is cold. The main floor is like a large and long hallway, with tables lining one wall.
+
+**Nessa** : (Bartender)
+*Yuan-ti pureblood. Personable, loyal, comfortable in her skin. Rescued from Dimming by the Fang and works here as repayment.*
+```"Hey, aren't you those guys from the Trials? Damn impressive. You mind signing the wall?"```
+- She has dark hair and shimmering scales up her arm and back. 
+- Recognizes the party from Winter Trials, keeps up with the culture and wants to keep that significance for the bar.
+- On password: surprise, then smooth pivot. Pours a Pinktail in a Balatan Glass
+	- [Password] : "Pinktail in a Balatan glass
+- Yells at the regulars before heading downstairs
+- Leads them to the back room, down a flight of stairs to an the iron door
+
+**Bigs** : (bouncer)
+*Yuan-ti hybrid. Top-half snake, bottom-half human. Looks imposing. Is actually sweet to members and guests he trusts.*
+- Peers through the slit with one large yellow eye
+- Opens on Nessa's unique knock, no words needed
+- Nessa: "Thanks, Bigs." He softens immediately
 
 ### The Viper's Nest
-Nessa leads you in the backroom and down a flight of stairs. A large iron door stands before you now, as Nessa knocks on the door. A small slit opens, for a moment as you see a large yellow eye peer through. It quickly closes before the door itself opens, revealing the large yuan-ti hybrid standing guard over the door. "Thanks Bigs" Nessa says, passing through the door.
-- Bigs is a yuan-ti hybrid (Top-half snake/Bottom-half human.) He is very loyal to [[The Fang]], similar to Nessa. He seems them like family. He stands up to look imposing, but to the other members of the group he is quite sweet.
+*Black-varnished tables, low lights, imported glassware. Circular bar at center. Silver Fang insignia everywhere. This bar is a sign of wealth and ambience.*
 
-This underground establishment looks nice and exclusive. Wooden tables finished with a black varnish, low hanging lights, and ornate glasswork that seems to be imported. In the center of the large room, there is a circular bar. The people here seem to have a close-knit connection, when you notice a pattern. Silver Fangs, the symbol of the dynastic yuan-ti mob. Nessa says "This is what many of us call the Viper's Nest, a sort of common grounds for members of our family. As new friends of the Fang, I'm sure you'll find many things to do here."
+[Nessa introduces the Viper's Nest and gives a brief rundown]
 
-She leads you to the end of the room, beyond another closed off section protected by two guards in scale-mail. A finely dressed older woman with straight black hair in a large silver jacket and beautiful dark-green dress seems to sit at a booth talking with two others. A middle aged man  in a simple suit that bears striking resemblance to the woman, likely her son, and a rugged woman in her 40s wearing half-armor and guard uniform.
+She leads the party to the end of the room to a small table protected by guards with three people. There sits Lady Sesharra Usah, Vethis Usah, and Merra Suhlee. 
 
-## A Trip to Wall-Town
-You hear it with the first step you take down the stairs. Music with too much bass, voices bouncing off stone walls, the roar of a drunk crowd. The air smells of spiced liquor, pipe smoke, and something grilling over an open flame somewhere deeper in. This is similar, but different from the last time you were here.
+**Lady Sesharra Usah** : (Boss)
+*Early 60s. Straight black hair. Dark-green dress. Calm, unhurried, unreadable.*
+- Respects the party for standing against the Gravel Rats. She calls their degeneracy a symptom of broader rot of youth in Catameria.
+- Refers to Rennin as "the Meredane boy"
+- The deal is simple: "You handle Big Chuck. We handle the rest.
+- On close: calls a guard, hands over silver-and-green rings. The guard escorts the party down to [[Wall Town]]
 
-Velvet and leather and jewelry that catches the lantern light. Groups spill out of doorways with cups in hand, and when the party passes, jeers and cheers from all around. One bald man that kind of looks like a thumb, wearing suit with grease and beer stains hollers. "Oi, its em fucking Thunder-Cats. Enjoy yer last hour, ya fucking twats."
+**Vethis Usah** : (Heir)
+*Early 30s. Straight black hair.. Sharp eyes, precise logical speech. He is the son of Lady Usah and heir to the crime dynasty*
+- He will ask one sharp question to cut into the party's plan and make them think logically, and with respect to the family.
+- He stays quiet and listens. If questioned, he will remind the party who they are really talking to, pointing to his mother.
+
+**Merra Suhlee** : (Head Security)
+*50s. Sandy blonde and braided hair. Half-armor. Scar across lip. Blunt. Hates magic from deep arcane burn scar under her clothes*
+- Close friend to Lady Usah for 40+ years. She'll speak up if something feels off about the party's intentions.
+## Wall-Town
+### Descent to Wall Town
+*The quiet hallways of the Viper's Nest transition into the cramped and busy streets of Wall Town. Loud music, voices bouncing off stone walls, the roar of a drunk crowd. The air smells of liquor, smoke, and food.*
+Groups spill out of doorways with cups in hand, and when the party passes, jeers and cheers from all around. 
+
+**Drunk Jeb**
+*Bald man, looks like a thumb. Wearing a white shimmering suit with grease and beer stains*
+```"Oi, its em fucking Thunder-Cats. Enjoy yer last hour, ya fucking twats."```
+- Throws a beer that splashes on the party
+- 8HP, 9AC
 ### Wall Mural
-As you continue further ahead, you see the titular Wall has been transformed. The usual postings, bounties, advertisements, and territorial markings have been stripped back to make room for one thing. A massive hand-painted banner runs nearly the full width of it, black lettering on white canvas. **CHUCK VS. THE WORLD. ONE NIGHT ONLY.** Above it, you see a stoic Big Chuck standing against devilish depictions of each of you. 
-- Lucky appears in the foremost center as the mastermind, bloodthirsty and crazed. 
-- Twila is summoning a bolt of lighting from the sky, but your appearance does not look like you at all. 
-- Atar seems to be burning a child alive, a sinister grin on his face
-- Adelaide, butcher's knife in hand, is crying and laughing maniacally.
-- Cogsworth, terminator style is broken yet whirring with ghosts surrounding him
-- Jaspar flies above the rest, and is summoning waves of color to surge Chuck.
-- 
-Fortuna Mortem is standing in front of it with both arms spread wide, already halfway through what is clearly not his first drink of the evening. He grins at the crowd, responding to those who seem to be asking questions. One man from the crowd shouts "Death to the Black Cat," as the crowd cheers. Fortuna laughs and points to the man who shouted. "Not too long friend, once those scum show up, we'll give the show of your lifetimes."
-### Cage Match
-The cage is in the center plaza, directly in front of the Manse de Mortem. The hexagonal frame is tall and black-ironed, anchored into the stone with posts thick enough that nobody is moving it. Lanterns ring it on tall poles. The crowd is packed six deep on every side, people climbing onto crates and window ledges to see over the heads in front of them. Two large men seem to be inside the arena, beating the shit out of each other.
+*The titular wall that faces each of the stores and stalls of the market. Once covered in posters and markings, the main face has been transformed into a large mural.*
+- A massive hand-painted banner runs nearly the full width of it, black lettering on white canvas. **CHUCK VS. THE WORLD. ONE NIGHT ONLY.** Above it, you see a stoic Big Chuck standing against devilish depictions of each of you. 
+	- [Big Chuck] wears a fighter's robe but occupying a very masculine fighting stance
+	- [Lucky] : center, crazed, mastermind 
+	- [Twila] unrecognizable and summoning lightning
+	- [Atar] sinister and psychopathic, burning a child
+	- [Adelaide], butcher's knife in hand, crying and laughing maniacally.
+	- [Cogsworth], terminator style broken with ghosts surrounding him
+	- [Jaspar] flies above the rest, and is summoning waves of color to surge Chuck.
 
-Chuck's throne sits on a raised platform in the Manse de Mortem's entry hall, visible from the plaza through the open doors. He wears thick shorts, bandage wraps on his hands, and a hooded robe. A thick gold chain catches the lantern light. He seems to be listlessly twirling a goblet.
+**Fortuna Mortem**
+*A skinny human with gaudy clothes and a permanent smile. He runs the gambling and social aspects of the Gravel Rats.*
+- He is standing in front of the mural, quite tipsy and happy.
+- He is taking questions. One man from the crowd shouts "Death to the Black Cat". Fortuna laughs and points in response. "Not too long"
+- When he notices the party, he briefly talks before prepping the beginning of the cage match
+- His job is to make sure the crowd is entertained and to weaponize it against the party
 
-He stops when he hears Fortuna's voice. "And it's time for what you've all been waiting for..." The crowd all turn their attention to him, even the men inside the stadium. He looks over to the two men fighting, and without thaumaturgy he yells at them. "What are you two doing, get the fuck out, it's time." The two scramble out. "Excuse me, it's time for the title card match. And first, to my dismay, enter the Thunder-Cats!" He looks over to you all, and points to the now open Hex-Cage. The entirety of Wall-Town shakes with the amount of Boos you are receiving. Dozens of people throw open cups of beer at you, soaking parts of your attire. As you enter the cage, Fortuna asks: "Any statements on your behalf?" A young boy runs up, finger pointed casting Thaumaturgy.
+**Renoux**
+*A male loxodon with polished tusks. White with black pinstripe suit, with about a ring on each finger.*
+- Places a bet against Big Chuck for about 500 gold pieces. Only person in the crowd to do such a big deal.
+### The Hexagon
+*The Hexagon is a cage is in the center plaza, directly in front of the Manse de Mortem. The hexagonal frame is tall and black-ironed, anchored into the stone with posts sturdy posts.*
+- The crowd is packed six deep on every side, people climbing onto crates and window ledges to see over the heads in front of them.
+``
+**Fight Begins**
+1. The party is announced to full boos. Beer thrown. Soaked.
+2. Fortuna: "Any statements on your behalf?" — give them a moment. A boy runs up and casts Thaumaturgy to amplify whatever they say. The party enters the Hexagon.
+3. The crowd goes quiet on its own. All eyes to the Manse.
 
-The spotlight shifts from you immediately as the crowd quiets and watches the Manse. Big Chuck stands from his throne, and begins to walk. He takes his time on the carpet. The crowd parts before him, like rats from a flame.
+**Charles "Big Chuck" Ward**
+*The charismatic and genius leader of the Gravel Rats. He rules the criminal underground with an iron fist and the law of masculinity*
+- [Location] : Chuck's throne sits on a raised platform in the Manse de Mortem's entry hall, visible from the plaza through the open doors. 
+- [Appearance] He wears thick shorts, bandage wraps on his hands, and a hooded robe. A thick gold chain catches the lantern light. 
+- [Action] ]He will be listlessly waiting and twirling a goblet, stopping when Fortuna speaks to announce the fight
+- [Accent] : Liverpool Scouse
 
-He takes his time on the carpet, walking over slowly. About half way, he starts to speak."Ah've 'eard what you people say," he begins, loud enough for the whole plaza, "that what Ah'm doin' tonight is mad. That six-on-one isn't a fight, it's a funeral." A ripple of laughter through the crowd. "And Ah get it. Ah do. 'Cause if it were anybardy else standin' in this cage, they'd be right." He turns slowly, taking in the whole crowd. "But it's not anybardy else. It's me. And ah think youse all know what that means." The cheer of the crowd comes back.
+### Big Chuck Monologue
+Acknowledge the doubt
+- He's heard people say six-on-one isn't a fight, it's a funeral. He agrees, for anyone else.
+Claim he's the greatest
+- Nobody in this city, country, or world is built the way he's built. He's known it since he was nine years old, making grown men weep for coppers.
+Respect the party, briefly
+- Three top men down in a week. That's real. So he's not sending anyone else. He's doing it himself. Because that's what you do when you want something done.
+Address the crowd
+- Pay attention. _This is the first and only time in your lives you'll stand this close to something like me._ Quiet delivery. He means it.
+Invitation to fight
+- He raises his hands. Settles into his stance. "Come on then." Roll initiative.
 
-He jumps into the cage and his voice gets louder to cut through the cheer. "There is nobardy in this city, this country, or this whole bleedin' world built the way ah'm built. Ah've known that since Ah was nine years old, making grown men weep for coppers on the floor." The crowd erupts into excitement.
+[If the party attempts to interrupt the monologue, the crowd will get angry and throw items.]
+[DC 16 Dexterity Save from everyone in the party. 2d6 bludgeoning damage or half]
 
-"And youse. Youse 'ave been a right pain in me arse, Ah'll give ya that. Three of me tahp men down in less than a week, all because of youse. So yeah. Ah'm not gonna send anybardy else. Am gonna do it meself. 'Cause that's what ya do when ya want somethin' done properly."
 
-"One last word to all of youse. Ah'm askin' youse to pay close attention. 'Cause this is the first and only time in ya lives ya gonna be stood this close to summin' like me"
-
-He raises his hands and settles into his stance. "Come on then." Roll Initiative
+**First Round**
+Big Chuck taunts, dodges, and watches closely. [Narrate that Big Chuck is watching]
+**Second Round**
+Big Chuck begins to copy spells as well.
 ## Involvement from Baato
 In the closing chapters of the fight, the party will seem to receive mysterious aide. Small illusions that seem to trick Big Chuck and play with his vision. A person of 'genius' like Chuck cannot imagine being fooled by something as simple as an illusory clone, but few can hope to be perfectly decisive when it is against the honed to the expertise of an ancient Rakshasa. This continues through out the fight, spawning illusions as Legendary Actions between turns to aide the party. 
 
