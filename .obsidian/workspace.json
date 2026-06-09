@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
+                "file": "Sessions/BtVotS/BtVotS - Session 24 - Grande Ceremony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BtVotS - Session 23 - Clean Up"
+              "title": "BtVotS - Session 24 - Grande Ceremony"
             }
           },
           {
@@ -243,11 +243,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f91e5091c1db4932",
+  "active": "676d6d7a47b0f2eb",
   "lastOpenFiles": [
+    "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
+    "Sessions/BtVotS/BtVotS - Session 24 - Grande Ceremony.md",
+    "Sessions/BtVotS/BtVotS - Session Lists.base",
     "Untitled",
     "conflict-files-obsidian-git.md",
-    "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
     "Places/Manse de Mortem.md",
     "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
     "Plots and Quests/Unnamed Winter Trials Dungeon.md",
@@ -257,7 +259,6 @@
     "Sessions/BtVotS/BtVotS - Session 1 - The Sage's Hollow.md",
     "Sessions/BtVotS/BtVotS - Plotline.md",
     "Guilds & Groups/The Fang.md",
-    "Sessions/BtVotS/BtVotS - Session Lists.base",
     "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
     "Sessions/BtVotS/BtVotS - Session 16 - Welcome to Wall Town.md",
     "Wall Town.md",
@@ -272,7 +273,6 @@
     "Places/Warring States.md",
     "Writing/Untitled.md",
     "Religions.md",
-    "Places/Empire of Wrosk.md",
     "Artifacts/Basic Magic Items",
     "Sessions/BtVotS",
     "Plots and Quests/List of Quests.base",
@@ -284,7 +284,6 @@
     "images/Map images/Catamerian Sewer Dungeon.png",
     "eidolon-vault",
     "Artifacts/Artifacts and Magic Items.base",
-    "Artifacts",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Renk the Sorry.png",
     "images/profile images/Renk, the Oni.png",

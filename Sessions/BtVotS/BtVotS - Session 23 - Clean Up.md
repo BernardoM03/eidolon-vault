@@ -41,11 +41,4 @@ Find the Meredane Automatons
 - If the party elects to search themselves, they will either destroy or turn them in.
 	- Upon destruction, Merra Suhlee will enter the room and see what has happened. Grateful for dealing with Chuck, she will not strike the party down, but reprimand them for a stupid decision and consistently making enemies. The party receives NO reward and makes an enemy of House Meredane.
 
-The automatons are located within the [[Manse de Mortem]]
-
-### Short Rest Before the Night
-This will be a moment where the party has the time to rest before going to the Castella Grande tonight. 
-
-Getting paid by the Meredane family
-
-## Castella Grande
+The automatons are located with Stonecrusher Orson
