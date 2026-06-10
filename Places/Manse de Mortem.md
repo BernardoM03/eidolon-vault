@@ -8,8 +8,6 @@ A small **guard house** sits beside the gate where two or three Gravel Rat enfor
 The first floor contains the main social rooms of the mansion. The original architecture is intact, though the Gravel Rats have added barricades and improvised defenses.
 ### Entry Hall and Hallway
 The largest room in the mansion. Once a reception chamber for parties and noble gatherings, it now serves as the main gathering space for the Gravel Rats. Tables are covered in gambling games, bottles of liquor, and scattered coin. Large expensive rugs now cover most of the floor. Weapon racks and spare crossbows are stacked nearby.
-### Main Hallway
-The largest room in the mansion. Once a reception chamber for parties and noble gatherings, it now serves as the main gathering space for the Gravel Rats. Tables are covered in gambling games, bottles of liquor, and scattered coin. 
 ### Dining Room
 A massive dining table stretches the length of the room. The Rats use it to divide spoils from recent jobs or hold gang meetings. Chairs are mismatched and many are broken.
 ### Kitchen

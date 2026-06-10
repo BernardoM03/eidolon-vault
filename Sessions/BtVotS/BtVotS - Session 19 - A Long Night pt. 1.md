@@ -91,16 +91,6 @@ Original Design: Refers to [[Cogsworth]], what [[Rennin Meredane]] refers to him
 
 ## Post Combat 
 Combat is now over, for the most part. No more initiative, no more Gravel Rats. The enemies have dispersed, but they do see one figure down the street. The halfling figure of Brennly Wriggle.
-### Brennly's Return
-Brennly, now after his rest and travel back, has made it home to Catameria. He strolls home bag over one shoulder and a wrapped pastry in hand, only to find his estate has been reduced to rubble. 
-
-He is devastated, not crying but the emotion is evident on his face. He seems lost in thought, but looks to see you all. He see's the harm, and worry washes your face as you watch him scan for Atar, Cogsworth, and the others he met in the village. "Oh good. You're all still in one piece." His sadness is immediately replaced by relief. And he also greets the others.
-
-He will not let them apologize first. He gets there before them.
-
-"I know what happened in the valley. Chiryl wrote to me." He turns his hat over in his hands. "I should have told you what I knew before any of this started. I thought I was being careful. I thought I had it contained." A pause. "I am very sorry. For all of it."
-
-"Now. Someone tell me everything, because I've been on a cart for near two weeks with nothing but my own thoughts. I had thought the worst."
 
 See [[Brennly Wriggle]] for more.
 
