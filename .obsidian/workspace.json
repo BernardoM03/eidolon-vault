@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "BtVotS - Session 23 - Clean Up"
             }
-          },
-          {
-            "id": "1b3d17cf4670825a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -268,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b3d17cf4670825a",
+  "active": "e8afb0aa8d8fc929",
   "lastOpenFiles": [
     "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
     "conflict-files-obsidian-git.md",
