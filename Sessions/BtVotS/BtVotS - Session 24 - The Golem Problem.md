@@ -89,4 +89,4 @@ Before the villa, there is a surrounding fence and small black-slate guard house
 - On each bed, you see a wrapped package embroidered with the manor's iconography. A set of loaned clothing
 	- Inside is a set of Shift-weave that will allow the party to decorate and disguise how they would like for the Ball later. 
 
-	### Bathing
+### Bathing
