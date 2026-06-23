@@ -153,7 +153,7 @@
               "type": "outline",
               "state": {
                 "file": "Welcome.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e27a644fb1dc96f",
+  "active": "e3d2d72de2633818",
   "lastOpenFiles": [
     "Welcome.md"
   ]
