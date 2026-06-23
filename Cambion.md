@@ -1,0 +1,3 @@
+Devils and Demons are intrinsically warped in their soul to the traits of wickedness and tyranny or chaos, but humans are a blank slate. A Cambion is a warp between the two. While some have attempted to study the morality of such a species, the common opinion is that they are closer to devil than man.
+
+A common source of Cambions is the reproduction between a mortal and succubus/incubus. The process of birthing a Cambion is near fatal for both species, which very few accounts of the birthing parent surviving.

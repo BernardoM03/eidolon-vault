@@ -1,0 +1,6 @@
+Before the rise of intelligent life, the world was already full of spirits born from natural [[Identity]]. A mountain exists as a mountain regardless of who looks upon it. Its shape, its immensity, its long continuity establish a stable Identity. Where this stability is strong enough, Magic condenses into a Natural Spirit. These spirits have existed for as long as the world has held patterns. Seas, deserts, rivers, storms, mountains, and even seasons can manifest as Natural Spirits.
+
+Natural spirits as they were before sentience are theorized to no longer exist. Identity of these Natural Spirits have been manipulated via collective thought from mortals that have lived beside these Natural Spirits for millennia. Despite this, Natural Spirits are steady and slow to change. While they embody traits from Sentient Spirits, they are still considered separate.
+
+## Ancient Gods
+ “Ancient Gods,” are natural spirits who have evolved into a [[Sentient Spirit]]. Millennia of worship would have layered cultural identity upon them. While their cores remain rooted in natural patterns, religion has given them personalities, motives, and anthropomorphized traits. A mountain may have once been an impassive yet powerful wellspring of natural Magic, but after centuries of being revered as a guardian spirit, it may now manifest and act as one.

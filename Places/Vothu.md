@@ -1,0 +1,3 @@
+Vothu is the name that the Goliaths of south-eastern Ennalis give to the surrounding land. Much of that land has been colonized by the first king of [[Catameria]], Cata Merion.
+
+Stories passed down the generations claim they they were originally humans that were blessed by the mountain spirit [[Korrad]] to live amongst the harsh mountains and the surrounding lands, granting them an adaptable stone-like carapace.

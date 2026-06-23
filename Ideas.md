@@ -1,0 +1,45 @@
+## General Ideas
+The Bloodstained Knight and other ancient beings who have ascended to spirithood
+A dungeon/battlefield that uses a map
+
+### Six Traits of this World
+Magic has been scientifically studied, and is a measurable and controllable essence of the universe.
+
+Fonts of magic change and shift over time. A wellspring of power that brought a civilization to power can and will fade, reemerging in a new part of the world.
+
+Gods can become mortal and mortals and become gods. It all depends on the way that magic is shaped around an individuals soul.
+
+
+
+## THINGS TO EXPAND THAT ARE RELEVANT FOR CAMPAIGN 1
+The Quiet Dark, a variation of an ancient sentient spirit representing the unknown. 
+Baato, the Rakshasa who posed as The Sage as a deal to get his powers back from a deal with the devil gone wrong
+[[Brennly Wriggle]]
+
+### Grand Story of the Campaign so Far
+Baato, a Rakshasa, cheated the Archdevil Amon in a deal to gain a legion of 108 infernal soldiers under his command. This did not go unnoticed, so Amon punished Baato by sealing his magic until he gets 108 souls in return. Baato, powerless, schemed his way back into a plan. He would foster the souls of Sage's Hollow until death, before transforming them into Soul Coins in exchange to Baato.
+
+## Themes for potential campaigns
+- The true seeker of knowledge is a villain who sacrifices much for their goal. I have studied this world for hundreds of years, and in that time I have done countless acts that some would deem unthinkable. You may find that repulsive, but remember that I have been able to offer you something you seek, precisely because I am a villain. Because of what I have done. 
+- Flesh and mortality is a cage that hinders us from our true potential.
+
+## Puzzle Notes
+Humans are more likely to remember things that are associated with common symbols and objects. For example “pig” is more memorable than “truth.”
+
+## A MLM Pyramid Scheme Guild
+Children of Catameria, a guild of contractors under contractors that functions almost entirely like a pyramid scheme. Run by the fabulous Juliana Cromwell, a 70 year old female human merchant.
+
+She has very long, braided, auburn hair and cyan eyes. She has rough white skin. She is slightly bow-legged and short. She proudly worships a God of hatred, fear and tyranny. (Lawful Evil). She is very selfish, materialistic, and lies about everything.
+
+Inspired by Fabulous Five from D:OS1
+
+## Drugs
+Burnweed - Depressant, used in Dimming as the main drug of choice, peddled commonly by the Fang
+Pinktail - Highly Addictive, newly created, peddled more recently by Big Chuck to keep Dimming under control.
+Boyne - Hallucinogen, allows users to access unwanted parts of the brain, altering judgement
+Alice - Hallicinogen, with LOTS of hallucinations
+Blackpowder - 
+## Slime Farms
+Villages out in lots of open space can farm slimes, small non-violent creatures
+## Houken-inspired enemy
+A character who does not care about anything but fighting,**

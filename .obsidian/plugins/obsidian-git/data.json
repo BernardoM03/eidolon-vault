@@ -22,7 +22,11 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
+<<<<<<< HEAD
   "basePath": "",
+=======
+  "basePath": "remote-repo",
+>>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
@@ -61,6 +65,10 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
+<<<<<<< HEAD
+=======
+    "gutterSpacingFallbackLength": 5,
+>>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }
