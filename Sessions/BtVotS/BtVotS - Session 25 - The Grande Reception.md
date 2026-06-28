@@ -61,16 +61,3 @@ The ballroom door, large and sturdy wood, is wide open. Beyond you see a large p
 **Xavi (Bellhop)**
 - Young, new hire, ambient presence throughout the manse
 - Good source of staff gossip if treated kindly — can tip off party about Renoux/Vurn/others
-### Open Dancefloor
-
-**Vurn Orleth (Grand Seneschal)**
-- Calm, economical, treats everyone the same regardless of rank; pale magical eye unsettles liars
-- Ex-Adventurers Union founder; deeply loyal to ailing Queen Althaea, brief/guarded if pressed on her
-- Standing: +1/+2 for honesty, humility, care for teammates; -1 for condescension toward staff
-
-**Baato as Baeldric Vauldra** is in the garden, and will ask Adelaide for a dance if possible, 
-
-### End of the Night
-The party now gains access to the Library, Dining Hall, and Bathhouse. Here, they have full access to [[Castella Grande]], with the ability to interact with each team and staff whenever, this will be further developed in the following session, where the Final Stage begins...
-
-End the session with a long rest and miscellaneous party actions.
