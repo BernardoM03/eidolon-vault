@@ -72,14 +72,11 @@
     height: 100%;
 }
 
-<<<<<<< HEAD
 /* Re-enable wrapping of nav buttns to prevent overflow on smaller screens #*/
 .workspace-drawer .git-view .nav-buttons-container {
     flex-wrap: wrap;
 }
 
-=======
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
 .git-tools {
     display: flex;
     margin-left: auto;
@@ -102,11 +99,7 @@
     display: flex;
 }
 .git-tools .buttons > * {
-<<<<<<< HEAD
     padding: 0;
-=======
-    padding: 0 0;
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     height: auto;
 }
 
@@ -173,11 +166,7 @@ which itself is adapted from the diff2html library with the following original l
     --git-change-bg: #ffd55840;
     --git-selected: #3572b0;
 
-<<<<<<< HEAD
     --git-delete: #cc3333;
-=======
-    --git-delete: #c33;
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     --git-insert: #399839;
     --git-change: #d0b44c;
     --git-move: #3572b0;
@@ -280,11 +269,7 @@ which itself is adapted from the diff2html library with the following original l
     .d2h-diff-table {
         border-collapse: collapse;
         font-family: var(--font-monospace);
-<<<<<<< HEAD
         font-size: var(--code-size);
-=======
-        font-size: var(--font-text-size);
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
         width: 100%;
     }
     .d2h-files-diff {
@@ -295,11 +280,8 @@ which itself is adapted from the diff2html library with the following original l
 		overflow-y: scroll;
 		*/
         border-radius: 5px;
-<<<<<<< HEAD
         font-size: var(--font-text-size);
         line-height: var(--line-height-normal);
-=======
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     }
     .d2h-file-side-diff {
         display: inline-block;
@@ -547,7 +529,6 @@ which itself is adapted from the diff2html library with the following original l
     .d2h-diff-tbody {
         position: relative;
     }
-<<<<<<< HEAD
 
     /* My additions */
     .cm-merge-revert {
@@ -559,19 +540,13 @@ which itself is adapted from the diff2html library with the following original l
         background-color: var(--background-secondary);
         display: flex;
     }
-=======
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
 }
 
 /* ====================== Line Authoring Information ====================== */
 
 .cm-gutterElement.obs-git-blame-gutter {
     /* Add background color to spacing inbetween and around the gutter for better aesthetics */
-<<<<<<< HEAD
     border-width: 0px 2px 0.2px;
-=======
-    border-width: 0px 2px 0.2px 2px;
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     border-style: solid;
     border-color: var(--background-secondary);
     background-color: var(--background-secondary);
@@ -584,11 +559,7 @@ which itself is adapted from the diff2html library with the following original l
     font-family: monospace;
     height: 100%; /* ensure, that age-based background color occupies entire parent */
     text-align: right;
-<<<<<<< HEAD
     padding: 0px 6px;
-=======
-    padding: 0px 6px 0px 6px;
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     white-space: pre; /* Keep spaces and do not collapse them. */
 }
 
@@ -633,14 +604,11 @@ which itself is adapted from the diff2html library with the following original l
 .git-signs-gutter {
     .cm-gutterElement {
         display: grid;
-<<<<<<< HEAD
 
         /* Needed to align the sign properly for different line heigts. Such as
          * when having a heading or list item.
          */
         padding-top: 0 !important;
-=======
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
     }
 }
 
@@ -708,21 +676,6 @@ div:hover > .git-gutter-marker.git-changedelete {
     opacity: 0.5;
 }
 
-<<<<<<< HEAD
-=======
-.git-diff {
-    .cm-merge-revert {
-        width: 4em;
-    }
-    /* Ensure that merge revert markers are positioned correctly */
-    .cm-merge-revert > * {
-        position: absolute;
-        background-color: var(--background-secondary);
-        display: flex;
-    }
-}
-
->>>>>>> 3af6d3cde5454b44bd6c8bb716f0136eded56296
 /* Prevent shifting of the editor when git signs gutter is the only gutter present */
 .cm-gutters.cm-gutters-before:has(> .git-signs-gutter:only-child) {
     margin-inline-end: 0;

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
+                "file": "Sessions/BtVotS/BtVotS - Session 26 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BtVotS - Session 25 - The Grande Reception"
+              "title": "BtVotS - Session 26 -"
             }
           }
         ]
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
+                "file": "Sessions/BtVotS/BtVotS - Session 26 -.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BtVotS - Session 25 - The Grande Reception"
+              "title": "Outline of BtVotS - Session 26 -"
             }
           },
           {
-            "id": "e3d2d72de2633818",
+            "id": "9eb3e2d8f2258b81",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -196,6 +196,9 @@
   },
   "active": "4e27a644fb1dc96f",
   "lastOpenFiles": [
+    "Sessions/BtVotS/BtVotS - Session 26 -.md",
+    "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
+    "Sessions/BtVotS/BtVotS - Session Lists.base",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Ogre.png",
     "images/Statblock imgs/Renk the Sorry.png",
@@ -206,7 +209,6 @@
     "images/Statblock imgs/Budding Harrower.png",
     "images/Map images/Pasted image 20260228215455.png",
     "images/Map images/Empire of Balat.png",
-    "images/Map images/Catamerian Sewer Dungeon.png",
     "images/profile images",
     "images/Statblock imgs",
     "images/Map images",
@@ -223,7 +225,6 @@
     "Spirits and Gods",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
     "Sessions/House of Memories/Ideas.md",
-    "Sessions/BtVotS/BtVotS - Session Lists.base",
     "Sessions/BtVotS/BtVotS - Session 9 - The Junction.md",
     "Sessions/BtVotS/BtVotS - Session 8 - The Cogjuring.md",
     "Sessions/BtVotS/BtVotS - Session 7 - Meredane Made.md",
@@ -231,14 +232,12 @@
     "Sessions/BtVotS/BtVotS - Session 5 - A Crossroads in the Valley.md",
     "Sessions/BtVotS/BtVotS - Session 4 - The Relic pt. 2.md",
     "Sessions/BtVotS/BtVotS - Session 3 - The Relic pt.1.md",
-    "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
     "Sessions/BtVotS/BtVotS - Session 24 - The Golem Problem.md",
     "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
     "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
     "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
     "Sessions/BtVotS/BtVotS - Session 20 - A Soulful Proposal.md",
     "Sessions/BtVotS/BtVotS - Session 2 - A Cure for Wellness.md",
-    "Sessions/BtVotS/BtVotS - Session 19 - A Long Night pt. 1.md",
     "Sessions/One Shots",
     "Sessions/House of Memories",
     "Sessions/BtVotS"
