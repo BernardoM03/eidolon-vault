@@ -46,9 +46,79 @@ This room is the easier option, but will cost the party resources in terms of sp
 [This room should be brute forceable. The room before them is blockaded by a pile of incredibly heavy stones. Cantrips and attacks won't work much, but things like Adelaide's Thunderwave or Atar's Spiritual weapon will be able to work through and get rid of it.]
 
 ## Room 5: Gruel's Lair
+The chamber opens into large swampy cavern. The stone floors are split by roots that lead to a large stone table, with a smell from it hits before anything else.
 
-[This is the final room in the dungeon. It will be a large cave-like room with minions and trolls. Sitting upon the head of a table, designed like a throne, is Gruel the Rotten. He is eating another troll at the moment.]
+- ` Ah... More guests who come for the flower. You are late. It has been mine long since it stopped screaming.`
+- ` The feast hath long begun.`
 
-- Stone floors cracked open by roots. A feast table where the food has fused with the furniture. This room is massive.
-- The cave is dripping with sounds, with the low grumbling and heavy breathing of trolls all around.
-- The smell is strong, some times diving straight into being rotten or disgusting, but always overwhelming.
+### Kaelis
+Medium Fiend (Devil), Lawful Evil
+AC: 17              HP: 136                     30 ft. walk, 60ft fly
+STR	         DEX	       CON	      INT	      WIS	       CHA
+18 (+4)	16 (+3)	18 (+4)	14 (+2)	12 (+1)	19 (+4)
+Saving Throws: Dex +7, Con +8, Cha +8
+Resistances cold, bludgeoning, piercing, and slashing from nonmagical attacks
+Immunities fire, poison, poisoned, charmed
+
+**Elkoler, the Ever-Starving Flame (Awakened)**: When Kaelis reduces a creature to 0 hit points, he gains 15 temporary hit points and Elkoler's flames spread, creating a 10-foot-radius area of flame centered on that creature's space that lasts one minute. Additionally, that creature is reduced to ash and must succeed on a DC 16 Charisma save or have its soul consumed, returnable only by _wish_.
+
+Multiattack 3x or 2 + Conjure Pyre: _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 1d6 + 8 slashing damage plus 1d6 fire damage.
+
+**Conjure Pyre (3 Max).** Kaelis raises a construct of living flame in an unoccupied space within 60 feet. It has AC 13, 25 hit points, a speed of 30 feet, and acts on Kaelis's initiative, starting immediately after summon. It can make one melee attack, +7 to hit, reach 5 ft., 2d6 fire damage, or use its action to destroy a 10-foot cube of nonmagical terrain. Kaelis can have up to three pyres active at once.
+
+**Legendary Action**
+**Advance.** Kaelis moves up to his speed without provoking opportunity attacks.  
+**Cut** Kaelis makes one Elkoler attack.
+**Conjure Pyre** Kaelis uses Conjure Pyre.
+
+### Veyra
+Medium Fiend (Devil), Lawful Evil
+AC: 16              HP: 112                     30 ft. walk, 60ft fly
+STR	         DEX	       CON	      INT	      WIS	       CHA
+14 (+2)	18 (+4)	16 (+3)	17 (+3)	18 (+4)	16 (+3)
+Saving Throws Dex +8, Wis +8, Cha +7
+Resistances cold, fire, bludgeoning, piercing, and slashing from nonmagical attacks
+Immunities poison, poisoned, charmed
+
+**Sister's Watch.** When Kaelis takes damage while Veyra is within 60 feet and can see him, she can use her reaction to reduce that damage by 1d10 and teleport next to him
+
+**Multiattack 2x.** Melee or Ranged Spell Attack: +9 to hit, reach 10 ft. or range 60 ft., one target. _Hit:_ 2d6 + 3 poison damage, and the target must succeed on a DC 17 Constitution save or have disadvantage on its next attack roll or ability check.
+
+**Interdict.** BONUS ACTION. Veyra targets one creature within 60 feet. The target makes a DC 17 Wisdom save. On a failure, it loses concentration and its speed is reduced to 0 until the end of its next turn.
+
+**Legendary Actions (1/Round)**
+**Shift.** Veyra teleports up to 30 feet to a space she can see.  
+**Rebuke** Veyra makes one Toxin Lash attack.
+
+### GRUEL THE ROTTEN
+Huge Giant, Chaotic Evil — CR 10
+AC 16 | HP 210 | Speed 40 ft.
+STR	           DEX         	CON        INT         	WIS         CHA
+22 (+6)	10 (+0)	19 (+4)	11 (+0)	13 (+1)	16 (+3)
+Saves Str +10, Con +8, Wis +5
+
+**Legendary Resistance (2/Day).** Fails a save, chooses to succeed instead.
+**Rooted Feast.** While within 10 ft. of his throne and at least 2 roots remain, Gruel regains all his HP at the start of his turn and has advantage on saves against being moved or knocked prone. 
+**Elemental Scar (Acid).** Acid damage shuts off Rooted Feast on his next turn.
+
+**Multiattack.** One Devouring Bite/Force Feed and two Slams.
+**Devouring Bite.** +10 to hit, reach 10 ft. — **3d10+6** piercing. Large or smaller target is grappled (escape DC 18).
+**Slam.** +10 to hit, reach 15 ft. — **2d8+6** bludgeoning. DC 17 Str save or pushed 10 ft. and knocked prone.
+**Force-Feed** +10 to hit, reach 10 ft. — **3d8+6** bludgeoning. DC 16 Con save or Poisoned until end of its next turn **and unable to speak** (no verbal components).
+**Call to the Table.** 15-ft. radius within 60 ft. DC 16 Dex save, **6d6** bludgeoning, half on success. Area becomes difficult terrain.
+
+#### LEGENDARY ACTIONS (3/round)
+**Reach** — One Slam attack.
+**Bellow (2)** — 30 ft. radius, DC 15 Wis save or disadvantage on next attack roll
+**Uproot (Legendary Action, costs 2).** Gruel slams a root-space within 30 feet. The creature standing there makes a DC 16 Strength save or is thrown 15 feet and knocked prone. A displaced creature is no longer holding the root.
+
+Roots
+- [ ] Under Gruel's seat
+- [ ] 30 ft up the cave wall
+- [ ] East tunnel mouth
+
+**Once per round, on his turn, Gruel targets whoever is currently the largest threat in the room, regardless of faction.** If Kaelis is carving through the Golden Rings and the party is quietly cutting roots, Gruel goes after Kaelis. If Selene is closest to the flower, he goes after Selene. He is insulted by irrelevance while he sits at the head of the table.
+
+GRUEL: 19
+VEYRA: 11 22
+Selene: 40 57
