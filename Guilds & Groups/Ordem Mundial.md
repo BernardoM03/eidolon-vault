@@ -1,0 +1,1 @@
+The Ordem Mundial is a secret society based in the [[State of Kin]].
