@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Campaign Ideas"
             }
-          },
-          {
-            "id": "d7b9688b0c1f478c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b9688b0c1f478c",
+  "active": "b98d7a0429215ea0",
   "lastOpenFiles": [
-    "Characters/The Carver.md",
-    "Spirits and Gods/The Progenitor.md",
     "Universe Notes/Mercurial Magic.md",
     "Sessions/Campaign Ideas.md",
+    "Characters/The Carver.md",
+    "Spirits and Gods/The Progenitor.md",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
     "Sessions/One Shots/Order to the Winter Court.md",
     "Universe Notes/Cosmology.md",
