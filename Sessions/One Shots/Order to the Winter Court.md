@@ -12,6 +12,6 @@ This cabin is owned by an old man. This is the child of the village once known a
 - He offers to lead the party back to the village, which he can do
 - He denies the existence of the Winter Court. He always dreamed of meeting the Winter Court as a child.
 
-q3  ### Planned Session Length
+### Planned Session Length
 4-6 total sessions
 The first session should be a complete story, with a mystery, combat, and the reveal of the Winter Court.

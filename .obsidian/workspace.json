@@ -1,34 +1,36 @@
 {
   "main": {
-    "id": "14fda53d1b38f389",
+    "id": "5af1b2cb510bb39f",
     "type": "split",
     "children": [
       {
-        "id": "cb203a0e9048d5d8",
+        "id": "51c621fd9609533a",
         "type": "tabs",
         "children": [
           {
-            "id": "47ba5febdb67e80e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "161b0d10a44fac87",
+            "id": "b98d7a0429215ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sessions/Campaign Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Campaign Ideas"
+            }
+          },
+          {
+            "id": "d7b9688b0c1f478c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
             }
           }
         ],
@@ -38,15 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2a6980eb90c75383",
+    "id": "253c19efdb99da25",
     "type": "split",
     "children": [
       {
-        "id": "a6b3bf2080100522",
+        "id": "6ad2a8f64895f9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6c49b0b33b0b6b89",
+            "id": "c4f04d6629af2f58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +63,12 @@
             }
           },
           {
-            "id": "532accdc1f5f990d",
+            "id": "cc19ca7adb8a8171",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laughing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +80,7 @@
             }
           },
           {
-            "id": "a6f7f24253cb19ce",
+            "id": "f12fd8f11433824c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "9e841331a1e7dd32",
+    "id": "ba2237b3aab4432f",
     "type": "split",
     "children": [
       {
-        "id": "7472de7299934fdb",
+        "id": "5766798961db0480",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e9876d0fc16871",
+            "id": "4172e5727d843f91",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 10 - Coming to Catameria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Session 10 - Coming to Catameria"
             }
           },
           {
-            "id": "66d04fd07a80aeb4",
+            "id": "03dccef0e6ac3699",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sessions/Session 9 - The Junction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Session 9 - The Junction"
             }
           },
           {
-            "id": "031c28e67f7f9db8",
+            "id": "5c7c6dc933151692",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +152,7 @@
             }
           },
           {
-            "id": "71ee72d627997962",
+            "id": "081669d0d4824f29",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,22 +166,22 @@
             }
           },
           {
-            "id": "9c5194444db7a4b3",
+            "id": "efe5810b20c382f5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/BtVotS/BtVotS - Session 26 -The Laughing Gauntlet.md",
-                "followCursor": true,
+                "file": "Sessions/BtVotS/BtVotS - Session 29 - The Gold Rings.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BtVotS - Session 26 -The Laughing Gauntlet"
+              "title": "Outline"
             }
           },
           {
-            "id": "9eb3e2d8f2258b81",
+            "id": "d499daef05d296ff",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,86 +189,77 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "55023aaa2796d9a5",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "realclaudian:Open Claudian": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161b0d10a44fac87",
+  "active": "d7b9688b0c1f478c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Sessions/One Shots/Order to the Winter Court.md",
-    "Sessions/House of Memories/Ideas.md",
-    "Guilds & Groups/Ordem Mundial.md",
-    "Places/Empire of Wrosk.md",
-    "Places/Empire of Balat.md",
-    "Places/Island of Abenasu.md",
-    "Sessions/One Shots/Abenasu.md",
-    "Sessions/One Shots/Society.md",
-    "Places/Warring States.md",
+    "Characters/The Carver.md",
+    "Spirits and Gods/The Progenitor.md",
+    "Universe Notes/Mercurial Magic.md",
+    "Sessions/Campaign Ideas.md",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
-    "Welcome.md",
-    "Tavern.md",
-    "Universe Notes",
+    "Sessions/One Shots/Order to the Winter Court.md",
+    "Universe Notes/Cosmology.md",
+    "eidolon-vault/Characters/Veyra.md",
+    "Universe Notes/Identity.md",
+    "Documents/Order.md",
+    "Sessions/One Shots/Untitled.md",
+    "Documents/Baato's Letter to Oswyn LaVey.md",
+    "Creatures - Species/Tiefling.md",
+    "Creatures - Species/Cambion.md",
+    "Artifacts/Grey King's Codex.md",
+    "Universe Notes/Secrets of Cosmology.md",
+    "Universe Notes/Religions.md",
+    "Universe Notes/Ideas.md",
     "Universe Notes/Homebrew.md",
-    "Untitled.md",
-    "Plots and Quests/The Rotted Lair.md",
+    "Universe Notes/Magic.md",
+    "Universe Notes",
+    "Spirits and Gods/Grey King.md",
+    "Places/Island of Abenasu.md",
+    "Places/Divine Tower of Greylinn.md",
+    "Places/City of Catameria/Wall Town.md",
+    "Guilds & Groups/Tanushah.md",
+    "Guilds & Groups/Ordem Mundial.md",
     "Creatures - Species",
-    "Sessions/BtVotS/BtVotS - Session 29 - The Gold Rings.md",
-    "Untitled.base",
-    "Sessions/BtVotS/BtVotS - Session 28 - The Ivory Standard.md",
-    "Sessions/BtVotS/BtVotS - Session 26(7) -The Laughing Gauntlet.md",
-    "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
-    "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
-    "Sessions/BtVotS/BtVotS - Session 24 - The Golem Problem.md",
-    "Places/Castella Grande.md",
-    "Sessions/BtVotS/BtVotS - Session 22 - BIG CHUCK VS THE WORLD.md",
-    "Sessions/BtVotS/BtVotS - Session 21 - An Unwanted Ally.md",
-    "Sessions/BtVotS/BtVotS - Session 30 - The Thundercats.md",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
-    "images/profile images/Renk the Sorry.png",
-    "images/Statblock imgs/Ogre.png",
-    "images/Statblock imgs/Renk the Sorry.png",
-    "images/Statblock imgs/Manticore.png",
-    "images/Statblock imgs/Hadozee Shipmate.png",
-    "images/Statblock imgs/Escanor.png",
-    "images/Statblock imgs/CrystalBack Dragon.png",
-    "images/Statblock imgs/Budding Harrower.png",
+    "Sessions/House of Memories",
+    "Documents",
+    "Sessions/One Shots",
+    "Plots and Quests/List of Quests.base",
+    "Artifacts/Basic Magic Items",
+    "Sessions/Session Lists.base",
+    "Sessions/BtVotS",
     "images/Map images/Pasted image 20260228215455.png",
-    "images/Map images/Empire of Balat.png",
-    "images/profile images",
-    "images/Statblock imgs",
-    "images/Map images",
-    "images",
-    "eidolon-vault",
-    "Spirits and Gods"
+    "Pasted image 20260226125844.png",
+    "eidolon-vault/images/Statblock imgs/Renk the Sorry.png",
+    "eidolon-vault/images/Statblock imgs/Ogre.png",
+    "eidolon-vault/images/Statblock imgs/Manticore.png",
+    "eidolon-vault/images/Statblock imgs/Hadozee Shipmate.png",
+    "eidolon-vault/images/Statblock imgs/Escanor.png",
+    "eidolon-vault/images/Statblock imgs/CrystalBack Dragon.png",
+    "eidolon-vault/images/Statblock imgs/Budding Harrower.png",
+    "eidolon-vault/images/Map images/Warring States of Ennalis.png",
+    "Untitled.canvas"
   ]
 }
