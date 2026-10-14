@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e64a66a657d0df35",
+        "id": "82323dab91098a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "5824e3863dd598c7",
+            "id": "062612c21b2105d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,10 +209,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5824e3863dd598c7",
+  "active": "062612c21b2105d2",
   "lastOpenFiles": [
-    "Places/Boz'Kumlar Desert.md",
+    "Universe Notes/Religions.md",
     "Places/Unnamed Island/Unnamed Island.md",
+    "Places/Boz'Kumlar Desert.md",
     "Places/City of Catameria/Amerderth University.md",
     "Places/Unnamed Island",
     "conflict-files-obsidian-git.md",
@@ -240,7 +241,6 @@
     "Sessions/BtVotS/BtVotS - Session 25 - The Grande Reception.md",
     "Sessions/BtVotS/BtVotS - Session 23 - Clean Up.md",
     "Sessions/BtVotS/BtVotS - Session 24 - The Golem Problem.md",
-    "Places/City of Catameria/Castella Grande.md",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
     "images/profile images/Renk the Sorry.png",
     "images/Statblock imgs/Ogre.png",
