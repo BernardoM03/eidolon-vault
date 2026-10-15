@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Campaign Ideas.md",
+                "file": "Places/Unnamed Island/Unnamed Island.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Ideas"
+              "title": "Unnamed Island"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.76806640625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +201,22 @@
   },
   "active": "b98d7a0429215ea0",
   "lastOpenFiles": [
-    "Universe Notes/Mercurial Magic.md",
     "Sessions/Campaign Ideas.md",
-    "Characters/The Carver.md",
-    "Spirits and Gods/The Progenitor.md",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
     "Sessions/One Shots/Order to the Winter Court.md",
+    "Places/Unnamed Island/Unnamed Island.md",
+    "conflict-files-obsidian-git.md",
+    "Places/Unnamed Island",
+    "Places/City of Catameria/Tesser Yard.md",
+    "Places/City of Catameria/Manse de Mortem.md",
+    "Places/City of Catameria/Catameria.md",
+    "Places/City of Catameria/Castella Merion.md",
+    "Places/City of Catameria/Castella Grande.md",
+    "Places/City of Catameria/Brennly's Home.md",
+    "Places/City of Catameria/Amerderth University.md",
+    "Universe Notes/Mercurial Magic.md",
+    "Characters/The Carver.md",
+    "Spirits and Gods/The Progenitor.md",
     "Universe Notes/Cosmology.md",
     "eidolon-vault/Characters/Veyra.md",
     "Universe Notes/Identity.md",
@@ -218,16 +228,7 @@
     "Artifacts/Grey King's Codex.md",
     "Universe Notes/Secrets of Cosmology.md",
     "Universe Notes/Religions.md",
-    "Universe Notes/Ideas.md",
-    "Universe Notes/Homebrew.md",
-    "Universe Notes/Magic.md",
     "Universe Notes",
-    "Spirits and Gods/Grey King.md",
-    "Places/Island of Abenasu.md",
-    "Places/Divine Tower of Greylinn.md",
-    "Places/City of Catameria/Wall Town.md",
-    "Guilds & Groups/Tanushah.md",
-    "Guilds & Groups/Ordem Mundial.md",
     "Creatures - Species",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
     "Sessions/House of Memories",
@@ -236,7 +237,6 @@
     "Plots and Quests/List of Quests.base",
     "Artifacts/Basic Magic Items",
     "Sessions/Session Lists.base",
-    "Sessions/BtVotS",
     "images/Map images/Pasted image 20260228215455.png",
     "Pasted image 20260226125844.png",
     "eidolon-vault/images/Statblock imgs/Renk the Sorry.png",
