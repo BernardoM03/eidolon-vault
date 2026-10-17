@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Unnamed Island/Unnamed Island.md",
+                "file": "Places/Unnamed Island/Bronze Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Island"
+              "title": "Bronze Age"
             }
           }
         ]
@@ -201,11 +201,13 @@
   },
   "active": "b98d7a0429215ea0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Places/Unnamed Island/Unnamed Island.md",
+    "Places/Unnamed Island/Bronze Age.md",
+    "Universe Notes/Eight Spirits.md",
+    "Universe Notes/Mercurial Magic.md",
+    "conflict-files-obsidian-git.md",
     "Places/Unnamed Island/Yellow Eyed Raven.md",
     "Places/Unnamed Island/Strange Urn.md",
-    "Places/Unnamed Island/Bronze Age.md",
     "Sessions/Campaign Ideas.md",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
     "Sessions/One Shots/Order to the Winter Court.md",
@@ -217,7 +219,6 @@
     "Places/City of Catameria/Castella Grande.md",
     "Places/City of Catameria/Brennly's Home.md",
     "Places/City of Catameria/Amerderth University.md",
-    "Universe Notes/Mercurial Magic.md",
     "Characters/The Carver.md",
     "Spirits and Gods/The Progenitor.md",
     "Universe Notes/Cosmology.md",
@@ -227,7 +228,6 @@
     "Sessions/One Shots/Untitled.md",
     "Documents/Baato's Letter to Oswyn LaVey.md",
     "Creatures - Species/Tiefling.md",
-    "Creatures - Species/Cambion.md",
     "Universe Notes",
     "Creatures - Species",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
