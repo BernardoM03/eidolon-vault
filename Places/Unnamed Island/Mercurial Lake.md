@@ -1,0 +1,1 @@
+A pool made entirely of base [[Mercurial Magic]]. This Spirit has no followers. 
