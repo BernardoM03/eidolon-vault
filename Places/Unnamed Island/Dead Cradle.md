@@ -11,7 +11,7 @@ Adventurers should all follow a God, enrolling themselves into what is known as 
 
 BRONZE AGE: No iron tools, no book binding, 
 The [[Werebeasts]] are ever in reverence to the [[Spirit of the Night]], but where do their allegiances lie when the Dawn approaches?
-From their original home, the [[Settlers]] were driven to this island's coasts, bringing only their families and a [[Strange Urn]].
+From their original home, the [[Settlers]] were driven to this island's coasts, bringing only their families and a [[Lusitanian Relic Urn]].
 Strange beasts afflicted by the [[Yellow Eyed Raven]] wander the island, particularly ravens and ogres. 
 Ancient River City from the past
 Ogres are a significant 
@@ -20,12 +20,12 @@ Ogres are a significant
 The number Eight will have great significance:
 [[Eight Spirits]], Eight Schools of Magic
 - The [[Great Shroom]] is of Abjuration, worshipped by the Myconids
-- Conjuration
-- The [[Strange Urn]] is of Divination, worshipped by the Lusitanian Settlers
+- The [[Astral Worm]] is of Conjuration, worshipped by the Astral Elves and Plasmoids
+- The [[Lusitanian Relic Urn]] is of Divination, worshipped by the Lusitanian Settlers
 - The [[Yellow Eyed Raven]] is of Enchantment, worshipped by those afflicted (generally Ogres)
-- Evocation
+- The [[Phoenix]] is of Evocation, worshipped by the Sun Elves and Azer
 - The [[Spirit of the Night]] is of Illusion, worshipped by the [[Werebeasts]]
-- Necromancy
+- The [[Blood, Bone, Flesh Spirit]] is of Necromancy, worshipped by Vampires, Skeletons, and Zombies
 - The [[Mercurial Lake]] is of Transmutation
 
 ### Map of the Dead Cradle
