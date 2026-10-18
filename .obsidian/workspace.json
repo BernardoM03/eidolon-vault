@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Unnamed Island/Bronze Age.md",
+                "file": "Documents/Winter Trials - Participant's Handbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bronze Age"
+              "title": "Winter Trials - Participant's Handbook"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "062612c21b2105d2",
   "lastOpenFiles": [
-    "Places/Unnamed Island/Yellow Eyed Raven.md",
+    "Documents/RuneQuest - 4E - The Smoking Ruin & Other Stories.pdf",
+    "Documents/Winter Trials - Participant's Handbook.md",
     "Places/Unnamed Island/Bronze Age.md",
+    "Documents/dokumen.pub_runequest-roleplaying-in-glorantha-4e-cha4028-v102nbsped-9781568825021.pdf",
+    "Places/Unnamed Island/Yellow Eyed Raven.md",
     "Places/Unnamed Island/Strange Urn.md",
     "Universe Notes/Homebrew.md",
     "Places/Unnamed Island/Unnamed Island.md",
@@ -236,9 +239,7 @@
     "Sessions/One Shots/Society.md",
     "Places/Warring States.md",
     "Welcome.md",
-    "Tavern.md",
     "Universe Notes",
-    "Untitled.md",
     "Creatures - Species",
     "Untitled.base",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
@@ -254,8 +255,6 @@
     "images/Map images/Empire of Balat.png",
     "images/profile images",
     "images/Statblock imgs",
-    "images/Map images",
-    "images",
-    "eidolon-vault"
+    "images/Map images"
   ]
 }
