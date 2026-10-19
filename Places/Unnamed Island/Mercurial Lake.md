@@ -1,1 +1,1 @@
-A pool made entirely of base [[Mercurial Magic]]. This Spirit has no followers. 
+A pool made entirely of base [[Mercurial Magic]]. This Spirit is worshipped by the [[Kuo Toa]]. 
