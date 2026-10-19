@@ -26,7 +26,7 @@ The number Eight will have great significance:
 - The [[Phoenix]] is of Evocation, worshipped by the Sun Elves and Azer
 - The [[Spirit of the Night]] is of Illusion, worshipped by the [[Werebeasts]]
 - The [[Blood, Bone, Flesh Spirit]] is of Necromancy, worshipped by Vampires, Skeletons, and Zombies
-- The [[Mercurial Lake]] is of Transmutation
+- The [[Mercurial Lake]] is of Transmutation, worshipped by the Kuo Toa
 
 ### Map of the Dead Cradle
 ### Inspirations
