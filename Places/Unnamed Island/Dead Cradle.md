@@ -28,6 +28,11 @@ The number Eight will have great significance:
 - The [[Blood, Bone, Flesh Spirit]] is of Necromancy, worshipped by Vampires, Skeletons, and Zombies
 - The [[Mercurial Lake]] is of Transmutation, worshipped by the Kuo Toa
 
+All of these gods WANT something, but generally cannot have it
+
+Why was there a steady state for so long. What held each of the spirits in check?
+- As the Progenitor awakes, all of the [[Eight Spirits]] prepare: Generating faith, accumulating followers, raking in spiritual energy, etc... This multi-centennial [[Stirring]] determines which of the [[Eight Spirits]] wields the full strength of their host for the next period of waking. The champion of this event is determined by a set of rules.
+- Winning this contest is of the utmost priority to each of these Gods. Conflict between the [[Eight Spirits]] DOES occur within the centuries between the [[Stirring]], but generally not overt. 
 ### Map of the Dead Cradle
 ### Inspirations
 Curse of Strahd's Dark Powers and Amber Temple
