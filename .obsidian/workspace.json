@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Eight Spirits"
             }
+          },
+          {
+            "id": "dcdd2faf93ba2706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b98d7a0429215ea0",
+  "active": "dcdd2faf93ba2706",
   "lastOpenFiles": [
-    "Places/Unnamed Island/Dead Cradle.md",
     "Universe Notes/Eight Spirits.md",
+    "conflict-files-obsidian-git.md",
+    "Sessions/One Shots/Holst's Treasure.md",
+    "Places/Unnamed Island/Dead Cradle.md",
     "eidolon-vault/Identity.md",
     "Places/Unnamed Island/Triad.md",
-    "conflict-files-obsidian-git.md",
     "Places/Unnamed Island/Kuo Toa of Legsilloop.md",
     "Places/Unnamed Island/Mercurial Lake.md",
     "Spirits and Gods/Yellow Eyed Raven.md",
@@ -227,7 +243,6 @@
     "Places/City of Catameria/Amerderth University.md",
     "Characters/The Carver.md",
     "Spirits and Gods/The Progenitor.md",
-    "Universe Notes/Cosmology.md",
     "Universe Notes",
     "Creatures - Species",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
