@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Unnamed Island/Dead Cradle.md",
+                "file": "Universe Notes/Eight Spirits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dead Cradle"
-            }
-          },
-          {
-            "id": "90d5c6577834e5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Eight Spirits"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90d5c6577834e5f9",
+  "active": "b98d7a0429215ea0",
   "lastOpenFiles": [
     "Places/Unnamed Island/Dead Cradle.md",
+    "Universe Notes/Eight Spirits.md",
+    "eidolon-vault/Identity.md",
+    "Places/Unnamed Island/Triad.md",
     "conflict-files-obsidian-git.md",
     "Places/Unnamed Island/Kuo Toa of Legsilloop.md",
     "Places/Unnamed Island/Mercurial Lake.md",
@@ -225,7 +213,6 @@
     "Places/Unnamed Island/Werebeasts.md",
     "Sessions/Campaign Ideas.md",
     "Places/Unnamed Island/Bronze Age.md",
-    "Universe Notes/Eight Spirits.md",
     "Universe Notes/Mercurial Magic.md",
     "Places/Unnamed Island/Yellow Eyed Raven.md",
     "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
@@ -241,8 +228,6 @@
     "Characters/The Carver.md",
     "Spirits and Gods/The Progenitor.md",
     "Universe Notes/Cosmology.md",
-    "eidolon-vault/Characters/Veyra.md",
-    "Universe Notes/Identity.md",
     "Universe Notes",
     "Creatures - Species",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
