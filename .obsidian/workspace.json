@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Unnamed Island/Dead Cradle.md",
+                "file": "Places/Unnamed Island/Astral Worm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dead Cradle"
+              "title": "Astral Worm"
             }
           },
           {
-            "id": "efa44e9a5e350a7b",
+            "id": "83ed2254deab0842",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Holst's Treasure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,21 +223,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efa44e9a5e350a7b",
+  "active": "9cf9d4f0fb191962",
   "lastOpenFiles": [
-    "Places/Unnamed Island/Mercurial Lake.md",
     "Sessions/One Shots/Holst's Treasure.md",
+    "Places/Unnamed Island/Astral Worm.md",
+    "Places/Unnamed Island/Dead Cradle.md",
+    "Universe Notes/Eight Spirits.md",
+    "Places/Unnamed Island/Mercurial Lake.md",
     "conflict-files-obsidian-git.md",
     "Places/Unnamed Island/Werebeasts.md",
     "Places/Unnamed Island/Lusitanian Relic Urn.md",
     "Places/Unnamed Island/Kuo Toa of Legsilloop.md",
     "Places/Unnamed Island/Kuo Toa.md",
     "Universe Notes/Mercurial Magic.md",
-    "Places/Unnamed Island/Dead Cradle.md",
     "Places/Unnamed Island/Strange Urn.md",
     "Documents/Winter Trials - Participant's Handbook.md",
     "eidolon-vault",
-    "Universe Notes/Eight Spirits.md",
     "Spirits and Gods/The Progenitor.md",
     "Sessions/Campaign Ideas.md",
     "Characters/The Carver.md",
@@ -254,7 +254,6 @@
     "Places/Divine Empire of Greylinn.md",
     "Places/Island of Abenasu.md",
     "Sessions/One Shots/Order to the Winter Court.md",
-    "Sessions/One Shots/Untitled Rostran Balatan War One Shot.md",
     "Places/Unnamed Island",
     "Universe Notes",
     "Creatures - Species",
