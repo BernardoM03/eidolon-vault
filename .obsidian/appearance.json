@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "table"
-  ]
+  ],
+  "cssTheme": "Typomagical",
+  "showRibbon": true
 }

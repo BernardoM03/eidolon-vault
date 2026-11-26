@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessions/One Shots/Astral Worm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral Worm"
+            }
+          },
+          {
+            "id": "84649471a67cec1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures - Species/Astral Children.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral Children"
+            }
+          },
+          {
+            "id": "4dec2a5decfd5d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Universe Notes/Eight Spirits.md",
                 "mode": "source",
                 "source": false
@@ -20,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Eight Spirits"
             }
-          },
-          {
-            "id": "dcdd2faf93ba2706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcdd2faf93ba2706",
+  "active": "b98d7a0429215ea0",
   "lastOpenFiles": [
+    "Creatures - Species/Astral Children.md",
+    "Sessions/One Shots/Astral Worm.md",
     "Universe Notes/Eight Spirits.md",
-    "conflict-files-obsidian-git.md",
-    "Sessions/One Shots/Holst's Treasure.md",
+    "Sessions/One Shots/Dead Cradle One Shot.md",
     "Places/Unnamed Island/Dead Cradle.md",
+    "Places/Unnamed Island/Great Shroom.md",
+    "conflict-files-obsidian-git.md",
     "eidolon-vault/Identity.md",
     "Places/Unnamed Island/Triad.md",
     "Places/Unnamed Island/Kuo Toa of Legsilloop.md",
@@ -240,9 +256,6 @@
     "Places/City of Catameria/Castella Merion.md",
     "Places/City of Catameria/Castella Grande.md",
     "Places/City of Catameria/Brennly's Home.md",
-    "Places/City of Catameria/Amerderth University.md",
-    "Characters/The Carver.md",
-    "Spirits and Gods/The Progenitor.md",
     "Universe Notes",
     "Creatures - Species",
     "Sessions/BtVotS/BtVotS - Session Lists.base",
