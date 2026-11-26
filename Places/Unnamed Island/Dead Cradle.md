@@ -9,8 +9,7 @@ One season passes each time the adventurers have an adventure
 A central theme is the relationship between mortals and the gods.
 - An individual worshiper may have a special relationship with a chosen deity, but acknowledges and often worships other gods.
 - Mortal sacrifice is a key to a god's power, but impossible to inspire in followers without sacrifice from the god themselves. Whichever faction works best in tandem with the most important followers will achieve the greatest prize
--
-Adventurers should all follow a God, enrolling themselves into what is known as Orders. These are like Cults in RuneQuest. This order cult can teach specific magic called [[Mercurial Magic]] to its members. In exchange, the member supports the cult with sacrifices, worship, and loyalty.
+- Adventurers should all follow a "God", enrolling themselves into what is known as Orders. These are like Cults in RuneQuest. This order cult can teach specific magic called [[Mercurial Magic]] to its members. In exchange, the member supports the cult with sacrifices, worship, and loyalty.
 
 BRONZE AGE: No iron tools, no book binding, 
 Ancient River City from the past
